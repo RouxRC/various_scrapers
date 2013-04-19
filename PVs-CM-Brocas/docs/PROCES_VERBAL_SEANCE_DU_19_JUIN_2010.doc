@@ -1,0 +1,166 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f36\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f38\fdecor\fcharset0\fprq2{\*\panose 04040905080b02020502}Broadway{\*\falt Courier New};}
+{\f39\fswiss\fcharset0\fprq2{\*\panose 020b0a02020104020203}Gill Sans Ultra Bold{\*\falt Arial Black};}{\f102\froman\fcharset238\fprq2 Times New Roman CE;}{\f103\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f105\froman\fcharset161\fprq2 Times New Roman Greek;}{\f106\froman\fcharset162\fprq2 Times New Roman Tur;}{\f107\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f108\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f109\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f110\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f112\fswiss\fcharset238\fprq2 Arial CE;}{\f113\fswiss\fcharset204\fprq2 Arial Cyr;}{\f115\fswiss\fcharset161\fprq2 Arial Greek;}
+{\f116\fswiss\fcharset162\fprq2 Arial Tur;}{\f117\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f118\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f119\fswiss\fcharset186\fprq2 Arial Baltic;}{\f120\fswiss\fcharset163\fprq2 Arial (Vietnamese);}
+{\f122\fmodern\fcharset238\fprq1 Courier New CE;}{\f123\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f125\fmodern\fcharset161\fprq1 Courier New Greek;}{\f126\fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f127\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f128\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f129\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f130\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}
+{\f462\froman\fcharset238\fprq2 Bookman Old Style CE;}{\f463\froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f465\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f466\froman\fcharset162\fprq2 Bookman Old Style Tur;}
+{\f469\froman\fcharset186\fprq2 Bookman Old Style Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \snext0 \styrsid5861379 Normal;}{
+\s1\qc \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \b\f38\fs32\ul\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 \styrsid9131443 heading 1;}{
+\s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 \styrsid9131443 heading 2;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\b\f39\fs28\ul\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext15 \styrsid9131443 Title;}{\s16\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f39\fs24\ul\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 
+\sbasedon0 \snext16 \styrsid9131443 Subtitle;}{\*\ts17\tsrowd\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \sbasedon11 \snext17 \styrsid9131443 Table Grid;}{\s18\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext18 \styrsid13978936 footer;}{\*\cs19 \additive \sbasedon10 \styrsid13978936 page number;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid946359268\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat13\levelspace0\levelindent0{\leveltext\leveltemplateid1881680314
+\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid455413730}{\list\listtemplateid-2123059994\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-1109098326\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040
+\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1406683463}}
+{\*\listoverridetable{\listoverride\listid1406683463\listoverridecount0\ls1}{\listoverride\listid455413730\listoverridecount0\ls2}}{\*\rsidtbl \rsid3149737\rsid4198650\rsid5180320\rsid5861379\rsid7172150\rsid8520096\rsid9131443\rsid9444661\rsid10704486
+\rsid11024979\rsid12853754\rsid13978936\rsid15801916\rsid16253993}{\*\generator Microsoft Word 11.0.5604;}{\info{\title PROCES VERBAL SEANCE DU 19 JUIN 2010}{\author MAIRIE DE BROCAS}{\operator MAIRIE DE BROCAS}{\creatim\yr2010\mo6\dy17\hr15\min2}
+{\revtim\yr2010\mo9\dy9\hr16\min10}{\printim\yr2010\mo9\dy9\hr16\min6}{\version5}{\edmins25}{\nofpages3}{\nofwords590}{\nofchars3246}{\nofcharsws3829}{\vern24689}}\paperw11906\paperh16838\margl1417\margr1417\margt1417\margb1417 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1417\dgvorigin1417\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot5861379\newtblstyruls\nogrowautofit \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid13978936 \chftnsep 
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid13978936 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid13978936 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid13978936 \chftnsepc 
+\par }}\sectd \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\footer \pard\plain \s18\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\pvpara\phmrg\posxr\posy0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10704486 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\field{\*\fldinst {\cs19\insrsid13978936 PAGE  }}{\fldrslt {
+\cs19\lang1024\langfe1024\noproof\insrsid4198650 2}}}{\cs19\insrsid13978936 
+\par }\pard \s18\ql \li0\ri360\widctlpar\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid13978936 {\insrsid13978936 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5861379 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\fs36\ul\insrsid5861379\charrsid5861379 PROCES VERBAL SEANCE DU 19 JUIN 2010}{\b\f36\fs36\ul\insrsid5861379 
+\par }\pard\plain \s2\qj \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid9131443 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid9131443 
+\par }{\f36\insrsid9131443\charrsid12853754 L\rquote AN DE}{\f36\insrsid9131443 UX MIL DIX}{\f36\insrsid9131443\charrsid12853754 
+\par }\pard\plain \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9131443 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid9131443\charrsid12853754 Le }{\b\f36\insrsid9131443\charrsid11024979 
+DIX NEUF DU MOIS DE JUIN \'e0 10 HEURES}{\f36\insrsid9131443\charrsid12853754 
+\par Le Conseil Municipal de la commune de BROCAS, d\'fbment convoqu\'e9, s\rquote est r\'e9uni en session ordinaire \'e0 la Mairie, sous la pr\'e9sidence de }{\b\f36\insrsid9131443\charrsid12853754 Monsieur FOURCADE Michel,}{
+\f36\insrsid9131443\charrsid12853754  }{\b\f36\insrsid9131443\charrsid12853754 Maire.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9131443 {\b\f36\ul\insrsid9131443\charrsid12853754 
+\par Date de la convocation}{\f36\insrsid9131443\charrsid12853754 \~: }{\f36\insrsid9131443 15 juin 2010}{\f36\insrsid9131443\charrsid12853754 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9131443 {\b\f36\ul\insrsid9131443\charrsid12853754 
+\par ETAIENT PRESENTS}{\f36\insrsid9131443\charrsid12853754 \~: }{\f36\insrsid9131443 M. FOURCADE Michel \endash  M. BLANC-SIMON Jean-Luc \endash  MME SOURIGUES Ang\'e9line \endash  M. DUPOUY Serge \endash  MME GILLET Nelly \endash  
+\par M. FORNIER de LACHAUX Jean \endash  M. LASSALLE Jean-Pierre \endash  MME SCHAERER Fabienne \endash  M. MARCHAL Alain \endash  M. MARTINEZ Laurent \endash  M. ELINEAU Jean-Christophe \endash 
+\par }{\b\f36\ul\insrsid9131443\charrsid11024979 ABSENTS EXCUSES}{\f36\insrsid9131443 \~: M. Gilles LAPORTE \endash  MME Val\'e9rie GARDEILS \endash 
+\par 
+\par }{\b\f36\ul\insrsid9131443\charrsid9131443 ORDRE DU JOUR}{\f36\insrsid9131443 \~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid9131443 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid9131443 {\f36\insrsid9131443 Embauches C.A.E.
+\par {\listtext\pard\plain\f36\insrsid9131443 \hich\af36\dbch\af0\loch\f36 -\tab}Dossier photovolta\'efque.
+\par {\listtext\pard\plain\f36\insrsid9131443 \hich\af36\dbch\af0\loch\f36 -\tab}Questions diverses.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9131443 {\f36\insrsid9131443 
+\par }{\b\f36\fs28\ul\insrsid5861379\charrsid8520096 CREATION D}{\b\f36\fs28\ul\insrsid9131443 E DEUX}{\b\f36\fs28\ul\insrsid5861379\charrsid8520096  POSTE}{\b\f36\fs28\ul\insrsid9131443 S}{\b\f36\fs28\ul\insrsid5861379\charrsid8520096  D}{
+\b\f36\fs28\ul\insrsid9131443 \rquote }{\b\f36\fs28\ul\insrsid5861379\charrsid8520096 AGENT}{\b\f36\fs28\ul\insrsid9131443 S}{\b\f36\fs28\ul\insrsid5861379\charrsid8520096  TECHNIQUE}{\b\f36\fs28\ul\insrsid9131443 S}{\b\f36\fs28\ul\insrsid5861379 
+\par }{\b\f36\fs28\ul\insrsid9131443 POLYVALENTS }{\b\f36\fs28\ul\insrsid5861379\charrsid8520096 DANS LE CADRE DU DISPOSITIF CONTRAT D\rquote ACCOMPAGNEMENT DANS L\rquote EMPLOI
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5861379 {\f36\insrsid5861379 
+\par Monsieur le Maire rappelle \'e0 l\rquote assembl\'e9e que le Contrat d\rquote Accompagnement dans l\rquote Emploi sp\'e9cifique, dont ont pu b\'e9n\'e9ficier les communes apr\'e8s la temp\'eate Klaus, (CAE Temp\'eate) est arriv\'e9 \'e0
+ son terme le 11 mai dernier sans possibilit\'e9 de renouvellement. Toutefois, beaucoup de t\'e2ches restant encore \'e0 accomplir, il est propos\'e9 au Conseil Municipal de cr\'e9er }{\f36\insrsid9131443 deux}{\f36\insrsid5861379  emploi}{
+\f36\insrsid9131443 s dans les conditions ci-apr\'e8s\~:}{\f36\insrsid5861379 
+\par 
+\par }{\f36\insrsid9131443 Le Contrat d\rquote  Accompagnement dans l\rquote Emploi (CAE)}{\f36\insrsid5861379  est un contrat aid\'e9, r\'e9serv\'e9 \'e0 certains employeurs, en particuliers les collectivit\'e9s territoriales et leurs regroupements.
+\par 
+\par Ce contrat s\rquote adresse aux personnes sans emploi rencontrant des difficult\'e9s sociales et professionnelles particuli\'e8res d\rquote acc\'e8s \'e0 l\rquote emploi.
+\par 
+\par La prescription du contrat d\rquote accompagnement dans l\rquote emploi est plac\'e9e sous la responsabilit\'e9 de P\'f4le Emploi pour le compte de l\rquote Etat ou du Conseil G\'e9n\'e9ral.
+\par 
+\par Monsieur le Maire propose donc de l\rquote autoriser}{\f36\insrsid9131443  \'e0 intervenir \'e0 la signature des }{\f36\insrsid5861379  convention}{\f36\insrsid9131443 s}{\f36\insrsid5861379  avec P\'f4le Emploi et d}{\f36\insrsid9131443 es}{
+\f36\insrsid5861379  contrat}{\f36\insrsid9131443 s}{\f36\insrsid5861379  de travail \'e0 dur\'e9e d\'e9termin\'e9e, pour une dur\'e9e de douze mois, \'e9tant pr\'e9cis\'e9 que ce}{\f36\insrsid9131443 s deux }{\f36\insrsid5861379 contrat}{
+\f36\insrsid9131443 s}{\f36\insrsid5861379  pourr}{\f36\insrsid9131443 ont}{\f36\insrsid5861379  \'eatre renouvel\'e9}{\f36\insrsid9131443 s}{\f36\insrsid5861379  dans la limite de 24 mois, so}{\f36\insrsid9131443 us r\'e9serve du renouvellement des}{
+\f36\insrsid5861379  convention}{\f36\insrsid9131443 s}{\f36\insrsid5861379  pass\'e9e}{\f36\insrsid9131443 s}{\f36\insrsid5861379  entre l\rquote employeur et le prescripteur.
+\par 
+\par Le Conseil Municipal,
+\par 
+\par {\listtext\pard\plain\f36\insrsid5861379\charrsid8520096 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid5861379 {
+\b\f36\insrsid5861379\charrsid8520096 DECIDE}{\f36\insrsid5861379  de cr\'e9er }{\f36\insrsid9131443 deux}{\f36\insrsid5861379  poste}{\f36\insrsid9131443 s}{\f36\insrsid5861379  }{\f36\insrsid9131443 d\rquote }{\f36\insrsid5861379  AGENT}{
+\f36\insrsid9131443 S }{\f36\insrsid5861379 TECHNIQUE}{\f36\insrsid9131443 S POLYVALENTS}{\f36\insrsid5861379  dans le cadre du dispositif \'ab\~contrat d\rquote accompagnement dans l\rquote emploi\'bb.
+\par }\pard \qj \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid5861379 {\f36\insrsid5861379 
+\par {\listtext\pard\plain\f36\insrsid5861379\charrsid8520096 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid5861379 {
+\b\f36\insrsid5861379\charrsid8520096 PRECISE}{\f36\insrsid5861379  que ce}{\f36\insrsid9131443 s}{\f36\insrsid5861379  contrat}{\f36\insrsid9131443 s}{\f36\insrsid5861379  ser}{\f36\insrsid9131443 ont}{\f36\insrsid5861379  d\rquote une dur\'e9
+e initiale de }{\f36\insrsid9131443 SIX}{\f36\insrsid5861379  MOIS renouvelable}{\f36\insrsid9131443 s}{\f36\insrsid5861379  express\'e9ment, dans la limite de 24 mois, apr\'e8s renouvellement de}{\f36\insrsid9131443 s }{\f36\insrsid5861379 convention}{
+\f36\insrsid9131443 s}{\f36\insrsid5861379 .
+\par }\pard \qj \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid5861379 {\f36\insrsid5861379 
+\par {\listtext\pard\plain\f36\insrsid5861379\charrsid8520096 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid5861379 {
+\b\f36\insrsid5861379\charrsid8520096 PRECISE}{\f36\insrsid5861379  que la dur\'e9e du travail est fix\'e9e \'e0 35 heures par semaine.
+\par }\pard \qj \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid5861379 {\f36\insrsid5861379 
+\par {\listtext\pard\plain\f36\insrsid5861379\charrsid8520096 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid5861379 {
+\b\f36\insrsid5861379\charrsid8520096 INDIQUE}{\f36\insrsid5861379  que }{\f36\insrsid9131443 la}{\f36\insrsid5861379  r\'e9mun\'e9ration sera fix\'e9e sur la base minimale du SMIC horaire multipli\'e9 par le nombre d\rquote heures de travail.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5861379 {\f36\insrsid5861379 
+\par {\listtext\pard\plain\f36\insrsid5861379\charrsid8520096 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid5861379 {
+\b\f36\insrsid5861379\charrsid8520096 AUTORISE }{\f36\insrsid5861379 Monsieur le Maire \'e0 mettre en \'9cuvre l\rquote ensemble des d\'e9marches n\'e9cessaires avec P\'f4le Emploi pour ce}{\f36\insrsid9131443 s}{\f36\insrsid5861379  recrutement}{
+\f36\insrsid9131443 s}{\f36\insrsid5861379 .
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4198650 {\f36\insrsid4198650 
+\par }{\b\f36\fs28\ul\insrsid4198650\charrsid4198650 DOSSIER PHOTOVOLATA\'cfQUE
+\par }{\f36\insrsid4198650 
+\par Le point est fait sur les diff\'e9rents projets engag\'e9s par chacune des communes de la communaut\'e9.
+\par Un projet de charte qui r\'e9gira les modalit\'e9s financi\'e8res des diff\'e9rentes fermes qui seront install\'e9es est en cours d\rquote \'e9laboration.
+\par 
+\par }{\b\f36\fs28\ul\insrsid4198650\charrsid4198650 QUESTIONS DIVERSES
+\par }{\f36\insrsid4198650 
+\par {\listtext\pard\plain\f36\insrsid4198650 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid4198650 {\f36\insrsid4198650 ARENES DE L\rquote ESTRIGON\~:
+ Le compte rendu du contr\'f4le effectu\'e9 par l\rquote APAVE stipule qu\rquote il n\rquote y a pas de possibilit\'e9 d\rquote organiser des spectacles dans les ar\'e8nes, le b\'e2timent \'e9tant trop d\'e9fectueux.
+\par }\pard \qj \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid4198650 {\f36\insrsid4198650 Monsieur le Maire prendra un arr\'eat\'e9 pour interdire au public l\rquote acc\'e8s aux tribunes et au toril.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4198650 {\f36\insrsid4198650 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4198650 {\f36\insrsid4198650 L\rquote ordre du jour \'e9tant \'e9puis\'e9, la s\'e9ance est lev\'e9e.
+\par Suivent les signatures.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4198650 {\b\f1\insrsid4198650 
+\par }{\b\f1\insrsid4198650\charrsid11279093       }{\b\f1\ul\insrsid4198650\charrsid11279093 Michel FOURCADE}{\b\f1\insrsid4198650\charrsid3956042              }{\b\f1\insrsid4198650                                  }{\b\f1\ul\insrsid4198650\charrsid11279093 
+Jean-Luc BLANC-SIMON}{\b\f1\ul\insrsid4198650            
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid4198650\charrsid3956042 Ang\'e9line SOURIGUES}{\b\f1\insrsid4198650\charrsid3956042          }{\b\f1\insrsid4198650      }{\b\f1\ul\insrsid4198650\charrsid3956042 Serge DUPOUY}{\b\f1\insrsid4198650\charrsid3956042   }{
+\b\f1\insrsid4198650                }{\b\f1\ul\insrsid4198650\charrsid11279093 Nelly GILLET}{\b\f1\insrsid4198650\charrsid3956042          }{\b\f1\insrsid4198650 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid4198650\charrsid11279093 Jean FORNIER de LACHAUX}{\b\f1\insrsid4198650\charrsid11279093     }{\b\f1\insrsid4198650                                 }{\b\f1\insrsid4198650\charrsid11279093  }{\b\f1\ul\insrsid4198650\charrsid11279093 Jea
+n-Pierre LASSALLE}{\b\f1\insrsid4198650\charrsid11279093   }{\b\f1\insrsid4198650    
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid4198650\charrsid11279093 Fabienne SCHAERER}{\b\f1\insrsid4198650\charrsid11279093      }{\b\f1\insrsid4198650           }{\b\f1\insrsid4198650\charrsid11279093  }{\b\f1\insrsid4198650                                          }{
+\b\f1\insrsid4198650\charrsid11279093  }{\b\f1\ul\insrsid4198650\charrsid11279093 Alain MARCHAL}{\b\f1\insrsid4198650\charrsid11279093      }{\b\f1\insrsid4198650           }{\b\f1\insrsid4198650\charrsid11279093  }{\b\f1\insrsid4198650 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par     
+\par }{\b\f1\insrsid4198650\charrsid11279093     }{\b\f1\ul\insrsid4198650\charrsid11279093 Laurent MARTINEZ}{\b\f1\insrsid4198650\charrsid11279093      }{\f1\insrsid4198650\charrsid11279093   }{\f1\insrsid4198650                                       }{
+\f1\insrsid4198650\charrsid11279093    }{\b\f1\insrsid4198650\charrsid11279093   }{\b\f1\ul\insrsid4198650\charrsid11279093 Jean-Christophe ELINEAU}{\b\f1\insrsid4198650\charrsid11279093 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4198650 {\f36\insrsid4198650 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\insrsid9444661 
+\par }{\insrsid9131443 
+\par }}

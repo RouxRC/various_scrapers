@@ -1,0 +1,567 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f36\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f37\froman\fcharset2\fprq2{\*\panose 05020102010507070707}Wingdings 2;}{\f69\froman\fcharset238\fprq2 Times New Roman CE;}{\f70\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f72\froman\fcharset161\fprq2 Times New Roman Greek;}{\f73\froman\fcharset162\fprq2 Times New Roman Tur;}{\f74\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f75\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f76\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f77\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f89\fmodern\fcharset238\fprq1 Courier New CE;}{\f90\fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f92\fmodern\fcharset161\fprq1 Courier New Greek;}{\f93\fmodern\fcharset162\fprq1 Courier New Tur;}{\f94\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f95\fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f96\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f97\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f429\froman\fcharset238\fprq2 Bookman Old Style CE;}{\f430\froman\fcharset204\fprq2 Bookman Old Style Cyr;}
+{\f432\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f433\froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f436\froman\fcharset186\fprq2 Bookman Old Style Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;\red217\green217\blue217;\red224\green224\blue224;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 
+\snext0 \styrsid7605039 Normal;}{\s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 \styrsid7605039 heading 2;}{\*\cs10 \additive 
+\ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext15 \styrsid9129875 footer;}{\*\cs16 \additive \sbasedon10 \styrsid9129875 page number;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid789635992\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat6\levelspace0\levelindent0{\leveltext\leveltemplateid2007398554
+\'01-;}{\levelnumbers;}\loch\af0\hich\af0\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid384067688}{\list\listtemplateid-1229437800\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid1620582664\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040
+\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid765151435}
+{\list\listtemplateid1732522066\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat4\levelspace0\levelindent0{\leveltext\leveltemplateid-404201806\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 
+\fi-360\li660\jclisttab\tx660\lin660 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1380\jclisttab\tx1380\lin1380 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2100\jclisttab\tx2100\lin2100 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2820\jclisttab\tx2820\lin2820 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3540\jclisttab\tx3540\lin3540 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4260\jclisttab\tx4260\lin4260 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li4980\jclisttab\tx4980\lin4980 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5700\jclisttab\tx5700\lin5700 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li6420\jclisttab\tx6420\lin6420 }{\listname ;}\listid1233197999}}{\*\listoverridetable{\listoverride\listid384067688\listoverridecount0\ls1}{\listoverride\listid765151435\listoverridecount0\ls2}{\listoverride\listid1233197999
+\listoverridecount0\ls3}}{\*\rsidtbl \rsid284676\rsid338154\rsid816404\rsid944188\rsid1062717\rsid1390270\rsid1402647\rsid1471146\rsid1734853\rsid1795194\rsid1855767\rsid2166917\rsid2519660\rsid3098133\rsid3671670\rsid3877358\rsid4222218\rsid4276316
+\rsid4539627\rsid4720965\rsid4751171\rsid5271686\rsid5325392\rsid5382595\rsid5389719\rsid5391561\rsid5525743\rsid6367132\rsid6845344\rsid7172150\rsid7358030\rsid7471371\rsid7605039\rsid7746685\rsid7940112\rsid8218272\rsid8328642\rsid8389195\rsid8537541
+\rsid8587523\rsid8588258\rsid9129875\rsid9249018\rsid9444661\rsid9600141\rsid11094027\rsid11353986\rsid12007877\rsid12008296\rsid12259744\rsid12331229\rsid12457290\rsid12526436\rsid12592769\rsid12608159\rsid12853754\rsid12913065\rsid13175288\rsid13326236
+\rsid13393443\rsid13714216\rsid13853322\rsid13858737\rsid14047762\rsid14449648\rsid14836306\rsid15024988\rsid15207274\rsid15544707\rsid15801916\rsid16056376\rsid16079749\rsid16253993\rsid16270066\rsid16345619\rsid16389644}{\*\generator Microsoft Word 11.
+0.5604;}{\info{\title PROCES-VERBAL SEANCE DU 02 JUIN 2008}{\author MAIRIE DE BROCAS}{\operator MAIRIE DE BROCAS}{\creatim\yr2008\mo6\dy3\hr10\min37}{\revtim\yr2008\mo7\dy2\hr15\min22}{\printim\yr2008\mo7\dy2\hr14\min27}{\version18}{\edmins1079}
+{\nofpages14}{\nofwords4322}{\nofchars23777}{\nofcharsws28043}{\vern24689}}\paperw11906\paperh16838\margl1417\margr1417\margt1417\margb1417 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1417\dgvorigin1417\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot7605039\newtblstyruls\nogrowautofit \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid9129875 \chftnsep 
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid9129875 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid9129875 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid9129875 \chftnsepc 
+\par }}\sectd \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\footer \pard\plain \s15\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\pvpara\phmrg\posxr\posy0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12007877 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\field{\*\fldinst {\cs16\insrsid9129875 PAGE  }}{\fldrslt {
+\cs16\lang1024\langfe1024\noproof\insrsid5382595 14}}}{\cs16\insrsid9129875 
+\par }\pard \s15\ql \li0\ri360\widctlpar\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid9129875 {\insrsid9129875 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain 
+\s2\qc \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid13858737 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\fs32\ul\insrsid11353986 
+\par }{\f36\fs32\ul\insrsid8537541 
+\par 
+\par }{\f36\fs32\ul\insrsid7605039\charrsid13858737 PROCES-VERBAL SEANCE DU 02 JUIN 2008
+\par }\pard \s2\qj \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7605039 {\f36\fs32\insrsid7605039\charrsid7605039 
+\par }{\f36\insrsid7605039\charrsid12853754 L\rquote AN DEUX MIL HUIT
+\par }\pard\plain \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7605039 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid7605039\charrsid12853754 Le }{\b\f36\insrsid7605039\charrsid14836306 
+DEUX DU MOIS DE JUIN A 20 HEURES}{\f36\insrsid7605039\charrsid12853754 
+\par Le Conseil Municipal de la commune de BROCAS, d\'fbment convoqu\'e9, s\rquote est r\'e9uni en session ordinaire \'e0 la Mairie, sous la pr\'e9sidence de }{\b\f36\insrsid7605039\charrsid12853754 Monsieur FOURCADE Michel,}{
+\f36\insrsid7605039\charrsid12853754  }{\b\f36\insrsid7605039\charrsid12853754 Maire.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7605039 {\b\f36\ul\insrsid7605039\charrsid12853754 
+\par Date de la convocation}{\f36\insrsid7605039\charrsid12853754 \~: }{\f36\insrsid7605039 23 mai 2008}{\f36\insrsid7605039\charrsid12853754 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7605039 {\b\f36\ul\insrsid7605039\charrsid12853754 
+\par ETAIENT PRESENTS}{\f36\insrsid7605039\charrsid12853754 \~: }{\f36\insrsid7605039 M. FOURCADE Michel \endash  M. MOREL Yves \endash  M. BLANC-SIMON Jean-Luc \endash  MME SOURIGUES Ang\'e9line \endash  M. DUPOUY Serge \endash  M. FORNIER de LACHAUX Jean 
+\endash  MELLE GALBERT Ingrid \endash  M. LASSALLE Jean-Pierre \endash  MME SCHAERER Fabienne \endash  M. LAPORTE Gilles \endash  MME GARDEILS Val\'e9rie \endash  M. MARTINEZ Laurent \endash  MME GILLET Nelly \endash 
+\par }{\b\f36\ul\insrsid7605039\charrsid14836306 ABSENTS EXCUSES}{\f36\insrsid7605039 \~: M. MARCHAL Alain \endash  M. ELINEAU Jean-Christophe \endash 
+\par }{\f36\insrsid12608159 
+\par }{\f36\ul\insrsid12608159\charrsid11353986 Secr\'e9taire de s\'e9ance}{\f36\insrsid12608159 \~: MME SOURIGUES Ang\'e9line
+\par }{\f36\ul\insrsid12608159\charrsid11353986 S}{\f36\ul\insrsid11353986\charrsid11353986 ecr\'e9taire de s\'e9ance auxiliaire}{\f36\insrsid11353986 \~: MME LAPASSOUSE Florence
+\par 
+\par }{\b\f36\ul\insrsid11353986\charrsid11353986 ORDRE DU JOUR}{\b\f36\insrsid11353986\charrsid11353986 \~:
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12331229 {\f36\insrsid11353986 1\'b0 - Approbation des proc\'e8s-verbaux des 14 et 24 avril 2008\~;
+\par 2\'b0 - R\'e9sultats de la vente de bois du 20 mai 2008\~;
+\par 3\'b0 - Vente de pins d\rquote \'e9claircie\~;
+\par 4\'b0 - D\'e9l\'e9gation au Maire pour prendre des d\'e9cisions dans le cadre de l\rquote article L.2122-22 du Code G\'e9n\'e9ral des Collectivit\'e9s Territoriales\~;
+\par 5\'b0 - Station d\rquote \'e9puration\~: demande d\rquote autorisation de d\'e9frichement\~;
+\par 6\'b0 - D\'e9signation des membres appel\'e9s \'e0 si\'e9ger \'e0 la Commission Communale des Imp\'f4ts Directs\~;
+\par 7\'b0 - D\'e9signation de deux d\'e9l\'e9gu\'e9s au Syndicat d\rquote Am\'e9nagement de la Vall\'e9e de la Leyre\~;
+\par 8\'b0 - Modification des statuts de la Communaut\'e9 de Communes du Pays d\rquote Albret\~;
+\par 9\'b0 - Questions diverses.}{\f36\insrsid12608159 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7605039 {\f36\insrsid11353986 
+\par Avant de d\'e9buter la s\'e9ance, Monsieur le Maire demande l\rquote autorisation de rajouter un point \'e0 l\rquote ordre du jour. Le Conseil Municipal, accepte \'e0 l\rquote unanimit\'e9.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11353986 {\b\f36\fs28\ul\insrsid11353986\charrsid14836306 TRAVAUX SYDEC \endash  C\'c2BLAGE France TELECOM \endash 
+\par }{\f36\insrsid11353986 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11353986 {\f36\insrsid11353986 Monsieur le Maire informe l\rquote assembl\'e9}{\f36\insrsid16056376 e }{\f36\insrsid11353986 qu\rquote e}{
+\f36\insrsid11353986\charrsid4276316 n octobre 2007, le Conseil Municipal avait vot\'e9 la r\'e9alisation de travaux d\rquote enfouissement des r\'e9seaux au quartier de l\rquote Estrigon (lotissement derri\'e8re l\rquote Eglise). 
+\par Le devis \'e9tabli par le SYDEC avait \'e9t\'e9 accept\'e9 pour une participation communale totale de}{\f36\insrsid11353986  }{\b\f36\insrsid11353986\charrsid4276316 34\~122 \'80 }{\f36\insrsid11353986\charrsid4276316 et il avait \'e9t\'e9 d\'e9cid\'e9
+ que cette somme serait}{\b\f36\insrsid11353986\charrsid4276316  }{\f36\insrsid11353986\charrsid4276316 financ\'e9e par emprunt S.Y.D.E.C.
+\par }{\f36\insrsid11353986 
+\par }{\f36\insrsid11353986\charrsid4276316 Dans le montant de ces travaux la part correspondant au c\'e2blage France T\'e9l\'e9com s\rquote \'e9levait \'e0 }{\f36\insrsid11353986  }{\b\f36\insrsid11353986\charrsid4276316 6\~724,88 \'80.
+\par 
+\par }{\f36\insrsid11353986\charrsid4276316 Par courrier en date du 10 avril dernier, le SYDEC informait\~: \'ab\~Pour faire suite au contr\'f4le de la Chambre R\'e9gionale des Comptes, \'e0 compter du 1}{\f36\super\insrsid11353986\charrsid4276316 er}{
+\f36\insrsid11353986\charrsid4276316  janvier 2008, les d\'e9penses li\'e9es aux r\'e9seaux France T\'e9l\'e9com sont imput\'e9es au budget du SYDEC en section de fonctionnement.
+\par En effet, la convention \'e9tablie conform\'e9ment \'e0 l\rquote article L.2224-35 du Code G\'e9n\'e9ral des Collectivit\'e9s Territoriales, et adopt\'e9e par d\'e9lib\'e9ration en date du 30 juin 2005 par le Comit\'e9 Syndical du SYDEC, organise les rela
+tions entre le SYDEC et France T\'e9l\'e9com pour l\rquote enfouissement simultan\'e9 des r\'e9seaux d\rquote \'e9lectricit\'e9 et de communication \'e9lectronique.}{\f36\insrsid11353986 
+\par 
+\par A}{\f36\insrsid11353986\charrsid4276316 insi, les installations de communication \'e9lectronique deviennent propri\'e9t\'e9 de France T\'e9l\'e9com et ne peuvent pas \'eatre inscrites au patrimoine du syndicat. En cons\'e9quence, les d\'e9
+penses et les recettes se rapportant \'e0 ces travaux ne doivent plus \'eatre imput\'e9es en section d\rquote investissement, et de ce fait, les contributions communales pr\'e9vues \'e0 l\rquote article 10-2 des statuts du syndicat, }{
+\b\f36\insrsid11353986\charrsid4276316 ne peuvent plus \'eatre financ\'e9es par emprunt}{\f36\insrsid11353986\charrsid4276316 .
+\par }{\f36\insrsid11353986 
+\par C\rquote e}{\f36\insrsid11353986\charrsid4276316 st pourquoi nous demandons aux communes de financer sur leurs fonds libres leurs contributions aux travaux des r\'e9seaux France T\'e9l\'e9com\~\'bb.
+\par 
+\par Deux possibilit\'e9s sont offertes \'e0 la commune de BROCAS\~:
+\par 
+\par {\listtext\pard\plain\insrsid11353986\charrsid4276316 \hich\af0\dbch\af0\loch\f0 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid11353986 {\f36\insrsid11353986\charrsid4276316 
+la somme de 6\~724,88 \'80 est }{\f36\insrsid11353986 rembours\'e9e}{\f36\insrsid11353986\charrsid4276316  en une seule fois sur fonds libres\~;
+\par {\listtext\pard\plain\insrsid11353986\charrsid4276316 \hich\af0\dbch\af0\loch\f0 -\tab}la somme de 6\~724,88 \'80 est }{\f36\insrsid11353986 rembours\'e9e}{\f36\insrsid11353986\charrsid4276316 , toujours sur fonds libres, mais \'e9chelonn\'e9e sur 7 ans.
+
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11353986 {\f36\insrsid11353986\charrsid4276316 
+\par Il convient donc de choisir entre ces deux options.}{\f36\insrsid11353986 
+\par 
+\par Le Conseil Municipal, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, d\'e9cide que la participation communale pour les travaux de c\'e2blage France T\'e9l\'e9com, soit 6\~724,88 \'80 sera pay\'e9e sur fonds libres, \'e9chelonn\'e9
+e sur 7 ans.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7605039 {\f36\insrsid11353986 
+\par 
+\par 
+\par 
+\par }{\b\f36\fs28\ul\insrsid11353986\charrsid11353986 APPROBATION DES PROCES-VERBAUX DES 14 ET 24 MAI 2008}{\b\f36\fs28\ul\insrsid11353986 
+\par 
+\par }{\f36\insrsid11353986 Monsieur le Maire fait donner lecture des proc\'e8s-verbaux des s\'e9ances de}{\f36\insrsid2166917 s}{\f36\insrsid11353986  14 mai et 24 mai 2008}{\f36\insrsid7746685  qui n\rquote appellent aucune observation.}{
+\f36\insrsid11353986\charrsid11353986 
+\par }{\f36\insrsid11353986 
+\par }{\b\f36\fs28\ul\insrsid16389644\charrsid16389644 RESULTATS DE LA VENTE DE BOIS DU 20 MAI 2008}{\b\f36\fs28\ul\insrsid16389644 
+\par }{\b\f36\fs28\ul\insrsid14449648 
+\par }{\f36\insrsid14449648 Messieurs Jean FORNIER de LACHAUX et Jean-Luc BLANC-SIMON informent que les Etablissements BEYRIA Gabriel de YGOS, ont \'e9t\'e9 les adjudicataires du lot en coupe rase mis en vente le 20 mai 2008. 
+\par Les bois ont \'e9t\'e9 remport\'e9s pour la somme de 160\~100 \'80 hors taxes, ce qui repr\'e9sente, pour environ 4 000 }{\f36\insrsid2166917 m\'e8tres cube}{\f36\insrsid14449648  estim\'e9s, }{\f36\insrsid2166917 un peu plus de 40 \'80 le m\'b3. }{
+\f36\insrsid14449648 
+\par }{\f36\insrsid2166917 Tous estiment que la vente a \'e9t\'e9 bonne.}{\f36\insrsid2166917\charrsid14449648 
+\par }{\f36\insrsid16389644 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11353986 {\b\f36\fs28\ul\insrsid11353986\charrsid1855767 VENTE DE PINS D\rquote ECLAIRCIE}{\b\f36\fs28\ul\insrsid11353986 
+\par }{\b\f36\fs28\ul\insrsid16389644 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11353986 {\f36\insrsid11353986 Sur proposition du Maire et de la Commission Communale du Domaine Forestier, le Conseil Municipal, apr\'e8s en avoir d\'e9lib\'e9r\'e9
+, \'e0 l\rquote unanimit\'e9\~:
+\par 
+\par }{\b\f36\insrsid11353986\charrsid13714216 CONSIDERANT}{\f36\insrsid11353986  qu\rquote il convient, pour l\rquote exploitation rationnelle de la for\'eat, d\rquote effectuer une coupe ordinaire dans le cadre du plan d\rquote am\'e9nagement du domaine \'e9
+tabli en fonction de la croissance et de la reproduction des arbres\~;
+\par 
+\par }{\b\f36\insrsid11353986\charrsid13714216 DECIDE }{\f36\insrsid11353986 de proc\'e9der \'e0 la vente }{\f36\insrsid11353986\charrsid13714216 d}{\f36\insrsid11353986 e }{\b\f36\insrsid11353986\charrsid16345619 TROIS LOTS}{\f36\insrsid11353986 
+ de pins communaux ci-dessous d\'e9sign\'e9s\~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid11353986\charrsid16079749 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid11353986 {
+\b\f36\ul\insrsid11353986\charrsid16079749 LOT A}{\f36\insrsid11353986  = Vente de }{\b\f36\insrsid11353986\charrsid1855767 3\~801 pins}{\b\f36\insrsid11353986 ,}{\f36\insrsid11353986  \'e0 l\rquote unit\'e9 de produit, cadastr\'e9s section E N\'b0
+ 199a, 248a et c lieu dit \'ab\~Champoou\~\'bb\~; section D N\'b0 213c           214c et d, 241b, 244b lieu dit \'ab\~Bario\~\'bb\~; section A N\'b0 17 lieu dit           \'ab\~Gouhuron\~\'bb sur une superficie totale de 15 hectares 31 a.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11353986 {\f36\insrsid11353986 
+\par {\listtext\pard\plain\f36\insrsid11353986\charrsid16079749 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid11353986 {
+\b\f36\ul\insrsid11353986\charrsid16079749 LOT B}{\f36\insrsid11353986  = Vente de }{\b\f36\insrsid11353986\charrsid16079749 3\~031 pins}{\f36\insrsid11353986 , sur pied, cadastr\'e9s section E N\'b0 517s lieu dit \'ab\~Le Ras\~\'bb\~; section E N\'b0
+ 420f lieu dit \'ab\~Le Ras\~\'bb\~; section E N\'b0 106 et 138 lieu dit \'ab\~Parc de Libon\~\'bb\~; section D N\'b0 212a, 213d, 244d, 248c lieu dit \'ab\~Bario\~\'bb sur une superficie totale de 24 hectares 95 ares.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11353986 {\f36\insrsid11353986 
+\par {\listtext\pard\plain\f36\insrsid11353986\charrsid1855767 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid11353986 {
+\b\f36\ul\insrsid11353986\charrsid1855767 LOT C}{\f36\insrsid11353986  = Vente de }{\b\f36\insrsid11353986\charrsid1855767 1\~695 pins}{\f36\insrsid11353986 , sur pied, cadastr\'e9s section E N\'b0 419b, 420c et e lieu dit \'ab\~Le Ras\~\'bb\~
+; section D N\'b0 67b, 203c, 211c lieu dit \'ab\~Bario\~\'bb\~; section D N\'b0 310b, c, 315}{\f36\super\insrsid11353986  }{\f36\insrsid11353986 e lieu dit \'ab\~Bacouy\'e8s\~\'bb\~; section D N\'b0 173f lieu dit \'ab\~Rioul\'e8be\~\'bb
+  sur une superficie de 22 ha 36 ares.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11353986 {\f36\insrsid11353986 
+\par La vente aura lieu en Mairie de BROCAS, }{\b\f36\insrsid11353986\charrsid1734853 par adjudication publique sur}{\f36\insrsid11353986  }{\b\f36\insrsid11353986\charrsid1734853 soumissions cachet\'e9es }{\f36\insrsid11353986 le }{
+\b\f36\ul\insrsid11353986\charrsid1734853 MARDI 24 JUIN 2008 \'e0 10 HEURES}{\f36\insrsid11353986 .
+\par 
+\par Le cahier des charges est approuv\'e9 sans observation. Il sera transmis \'e0 Monsieur le Pr\'e9fet des Landes avec la pr\'e9sente d\'e9lib\'e9ration.
+\par 
+\par Le Conseil Municipal d\'e9cide \'e9galement que les dits bois seront vendus par }{\b\f36\insrsid11353986\charrsid1734853 MARCH\'c9 DE GR\'c9 \'c0 GR\'c9}{\f36\insrsid11353986  dans le cas o\'f9 l\rquote adjudication  du 24 juin serait infructueuse.
+\par }{\f36\insrsid2166917 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8588258 \cbpat17 {\b\f36\fs28\ul\insrsid2166917\charrsid12457290 CAHIER DES CHARGES}{\b\f36\fs28\ul\insrsid2166917 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8588258 {\b\f36\fs28\ul\insrsid8588258\charrsid12457290 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2166917 {\b\f36\ul\insrsid2166917\charrsid12457290 ARTICLE 1}{\f36\insrsid2166917 \~: La commune de BROCAS met en vente }{\b\f36\insrsid2166917\charrsid16270066 
+TROIS LOTS de pins d\rquote \'e9claircie}{\f36\insrsid2166917  situ\'e9s sur le domaine forestier communal \'e0 savoir\~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid2166917\charrsid16079749 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid2166917 {
+\b\f36\ul\insrsid2166917\charrsid16079749 LOT A}{\f36\insrsid2166917  = Vente de }{\b\f36\insrsid2166917\charrsid1855767 3\~801 pins}{\b\f36\insrsid2166917 ,}{\f36\insrsid2166917  \'e0 l\rquote unit\'e9 de produit, cadastr\'e9s section E N\'b0
+ 199a, 248a et c lieu dit \'ab\~Champoou\~\'bb\~; section D N\'b0 213c           214c et d, 241b, 244b lieu dit \'ab\~Bario\~\'bb\~; section A N\'b0 17 lieu dit           \'ab\~Gouhuron\~\'bb sur une superficie totale de 15 hectares 31 a.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2166917 {\f36\insrsid2166917 
+\par {\listtext\pard\plain\f36\insrsid2166917\charrsid16079749 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid2166917 {
+\b\f36\ul\insrsid2166917\charrsid16079749 LOT B}{\f36\insrsid2166917  = Vente de }{\b\f36\insrsid2166917\charrsid16079749 3\~031 pins}{\f36\insrsid2166917 , sur pied, cadastr\'e9s section E N\'b0 517s lieu dit \'ab\~Le Ras\~\'bb\~; section E N\'b0
+ 420f lieu dit \'ab\~Le Ras\~\'bb\~; section E N\'b0 106 et 138 lieu dit \'ab\~Parc de Libon\~\'bb\~; section D N\'b0 212a, 213d, 244d, 248c lieu dit \'ab\~Bario\~\'bb sur une superficie totale de 24 hectares 95 ares.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2166917 {\f36\insrsid2166917 
+\par {\listtext\pard\plain\f36\insrsid2166917\charrsid1855767 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid2166917 {
+\b\f36\ul\insrsid2166917\charrsid1855767 LOT C}{\f36\insrsid2166917  = Vente de }{\b\f36\insrsid2166917\charrsid1855767 1\~695 pins}{\f36\insrsid2166917 , sur pied, cadastr\'e9s section E N\'b0 419b, 420c et e lieu dit \'ab\~Le Ras\~\'bb\~; section D N
+\'b0 67b, 203c, 211c lieu dit \'ab\~Bario\~\'bb\~; section D N\'b0 310b, c, 315}{\f36\super\insrsid2166917  }{\f36\insrsid2166917 e lieu dit \'ab\~Bacouy\'e8s\~\'bb\~; section D N\'b0 173f lieu dit \'ab\~Rioul\'e8be\~\'bb
+  sur une superficie de 22 ha 36 ares.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2166917 {\f36\insrsid2166917 
+\par }{\b\f36\ul\insrsid2166917\charrsid6845344 ARTICLE 2}{\f36\insrsid2166917 \~: La vente aura lieu en Mairie de BROCAS, }{\b\f36\insrsid2166917\charrsid12457290 par adjudication}{\f36\insrsid2166917  }{\b\f36\insrsid2166917\charrsid12457290 
+publique sur soumissions cachet\'e9es le }{\b\f36\ul\insrsid2166917\charrsid12457290 MARDI 2}{\b\f36\ul\insrsid2166917 4}{\b\f36\ul\insrsid2166917\charrsid12457290  }{\b\f36\ul\insrsid2166917 JUIN}{\b\f36\ul\insrsid2166917\charrsid12457290  2008 \'e0 10}{
+\b\f36\insrsid2166917\charrsid12457290  }{\b\f36\ul\insrsid2166917\charrsid12457290 HEURES}{\f36\insrsid2166917 , sous la pr\'e9sidence du Maire assist\'e9 des membres du Bureau d\rquote 
+Adjudication ainsi que des membres de la Commission Communale du Domaine Forestier. 
+\par 
+\par }{\b\f36\ul\insrsid2166917\charrsid12457290 ARTICLE 3}{\f36\insrsid2166917 \~: Dans le cas o\'f9 le prix limite, indiqu\'e9 dans un pli cachet\'e9 qui sera d\'e9pos\'e9 sur le bureau au moment de la vente ne serait pas atteint, la commune se r\'e9
+serve le droit de retirer les dits pins de la vente. Ce pli cachet\'e9 ne devra \'eatre ouvert qu\rquote apr\'e8s examen de toutes les soumissions cachet\'e9es. Les prix offerts par les concurrents non d\'e9clar\'e9s adjudicataires ne seront pas publi\'e9
+s et leurs soumissions leur seront rendues.
+\par 
+\par }{\b\f36\ul\insrsid2166917\charrsid12457290 ARTICLE 4}{\f36\insrsid2166917 \~: En ce qui concerne l\rquote exploitation, la vidange et le paiement des bois acquis, les adjudicataires seront soumis aux r\'e8gles et clauses g\'e9n\'e9rales et particuli\'e8r
+es de l\rquote O.N.F., sous r\'e9serve des dispositions ci-apr\'e8s\~:
+\par 
+\par }{\f36\insrsid2166917 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid2166917  L\rquote exploitation et la vidange (y compris les bois de cimes) devront \'eatre termin\'e9es le }{
+\b\f36\ul\insrsid2166917\charrsid16270066 31 OCTOBRE 2008}{\b\f36\insrsid2166917\charrsid16270066 .
+\par }{\b\f36\insrsid2166917 
+\par }{\f36\insrsid2166917 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid2166917  Le prix principal de l\rquote adjudication sera pay\'e9 en }{\b\f36\insrsid2166917\charrsid16270066 DEUX ECHEANCES}{\f36\insrsid2166917 
+\~:
+\par }{\f36\insrsid2166917\charrsid3098133 
+\par }{\f36\ul\insrsid2166917\charrsid16270066 LOT A}{\f36\insrsid2166917 \~: \'bd au comptant suivant st\'e9rage estim\'e9 par la commune\~;
+\par               Le solde \'e0 la r\'e9ception au 31.10.2008.
+\par }{\f36\ul\insrsid2166917\charrsid16270066 LOTS B et C}{\f36\insrsid2166917 \~: \'bd au comptant\~; \'bd au 31.10.2008.
+\par 
+\par }{\b\f36\ul\insrsid2166917\charrsid6845344 ARTICLE 5}{\f36\insrsid2166917 \~: Les adjudicataires seront tenus, pour les sommes non pay\'e9es au comptant, de fournir une }{\b\f36\insrsid2166917\charrsid4539627 CAUTION BANCAIRE}{\b\f36\insrsid2166917 ,}{
+\f36\insrsid2166917  }{\b\f36\ul\chshdng0\chcfpat0\chcbpat17\insrsid2166917\charrsid15207274 d\rquote une banque}{\b\f36\chshdng0\chcfpat0\chcbpat18\insrsid2166917\charrsid15207274  }{\b\f36\ul\chshdng0\chcfpat0\chcbpat17\insrsid2166917\charrsid15207274 
+domicili\'e9e en France}{\f36\insrsid2166917  qui s\rquote obligera solidairement envers eux \'e0 toutes les charges et conditions de l\rquote adjudication, et de fournir au Receveur Municipal \endash  Tr\'e9sorerie de Labrit \endash 
+ 63, Route de Roquefort 40420 LABRIT, }{\b\f36\insrsid2166917\charrsid4539627 dans les dix jours suivant l\rquote adjudication}{\b\f36\insrsid2166917 , les traites }{\f36\insrsid2166917 de ces m\'eames sommes domicili\'e9es dans l\rquote \'e9
+tablissement de cr\'e9dit servant de caution et aux \'e9ch\'e9ances pr\'e9vues \'e0 l\rquote article 4.
+\par \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab 
+\par }{\b\f36\ul\insrsid2166917\charrsid9600141 ARTICLE 6}{\f36\insrsid2166917 \~: Les acheteurs qui le souhaitent pourront \'e9galement payer par virement Swift aux num\'e9ros IBAN r\'e9f\'e9renc\'e9s ci-apr\'e8s\~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid2166917 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li660\ri0\widctlpar\jclisttab\tx660\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin660\itap0\pararsid2166917 {\f36\insrsid2166917 zone 1 = FR 18
+\par {\listtext\pard\plain\f36\insrsid2166917 \hich\af36\dbch\af0\loch\f36 -\tab}zone 2 = 3 000
+\par {\listtext\pard\plain\f36\insrsid2166917 \hich\af36\dbch\af0\loch\f36 -\tab}zone 3 = 1 005
+\par {\listtext\pard\plain\f36\insrsid2166917 \hich\af36\dbch\af0\loch\f36 -\tab}zone 4 = 5\~400
+\par {\listtext\pard\plain\f36\insrsid2166917 \hich\af36\dbch\af0\loch\f36 -\tab}zone 5 = 00G0
+\par {\listtext\pard\plain\f36\insrsid2166917 \hich\af36\dbch\af0\loch\f36 -\tab}zone 6 = 5 002
+\par {\listtext\pard\plain\f36\insrsid2166917 \hich\af36\dbch\af0\loch\f36 -\tab}zone 7 =    367
+\par }\pard \qj \li300\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin300\itap0\pararsid2166917 {\f36\insrsid2166917 BIC associ\'e9 = BDFEFRPPXXX
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2166917 {\f36\insrsid2166917 
+\par Pour les virements internationaux, }{\b\f36\insrsid2166917\charrsid1390270 les frais bancaires li\'e9s \'e0 ces op\'e9rations seront \'e0 la charge des acheteurs.
+\par }{\f36\insrsid2166917 
+\par }{\b\f36\ul\insrsid2166917\charrsid338154 ARTICLE 7}{\f36\insrsid2166917 \~: La commune de BROCAS \'e9tant assujettie \'e0 la T.V.A., cette taxe sera factur\'e9e, en plus du prix principal, au taux de 5,5 %.
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid944188 {\b\f36\fs28\ul\insrsid944188\charrsid12008296 DELEGATION DU CONSEIL MUNICIPAL AU MAIRE POUR }{\b\f36\fs28\ul\insrsid944188 P}{
+\b\f36\fs28\ul\insrsid944188\charrsid12008296 RENDRE DES DECISIONS DANS LE CADRE DE}{\b\f36\fs28\ul\insrsid944188  }{\b\f36\fs28\ul\insrsid944188\charrsid12008296 L\rquote ARTICLE L.2122-22 DU CODE GENERAL DES COLLECTIVITES TERRITORIALES}{
+\f36\insrsid944188 .
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid944188 {\f36\insrsid944188 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid944188 {\b\f36\insrsid944188\charrsid8218272 Vu}{\f36\insrsid944188  le Code G\'e9n\'e9ral des Collectivit\'e9s Territoriales et notamment son article L.2122-22,
+
+\par 
+\par }{\b\f36\insrsid944188\charrsid8218272 VU}{\f36\insrsid944188  le Code des March\'e9s Publics,
+\par 
+\par Consid\'e9rant qu\rquote il convient de d\'e9l\'e9guer au Maire certaines comp\'e9tences du Conseil Municipal pour assurer le bon fonctionnement de l\rquote ex\'e9cutif municipal,
+\par 
+\par Apr\'e8s avoir entendu le rapport du Maire,
+\par 
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, 
+\par 
+\par Le Conseil Municipal, \'e0 l\rquote unanimit\'e9,
+\par 
+\par }{\b\f36\insrsid944188\charrsid8218272 D\'e9cide}{\f36\insrsid944188  de donner au Maire, pour la dur\'e9e de son mandat, d\'e9l\'e9gation dans le cadre de l\rquote article L.2122-22 du Code G\'e9n\'e9ral des Collectivit\'e9s Territoriales pour\~:
+\par 
+\par }\pard \qj \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid944188 {\f36\insrsid944188 1\'b0 - prendre toute d\'e9cision concernant la pr\'e9paration, la passation, l\rquote ex\'e9cution et le r\'e8glement des march\'e9
+s et des accords-cadres d\rquote un montant inf\'e9rieur \'e0 un seuil d\'e9fini par d\'e9cret ainsi que toute d\'e9cision concernant leurs avenants qui n\rquote entra\'eenent pas une augmentation du montant du contrat initial sup\'e9rieure \'e0
+ 5 %, lorsque les cr\'e9dits sont inscrits au budget\~;
+\par 
+\par 2\'b0 - passer les contrats d\rquote assurance ainsi que d\rquote accepter les indemnit\'e9s de sinistre y aff\'e9rentes\~;
+\par 
+\par 3\'b0 - prononcer la d\'e9livrance et la reprise des concessions dans le cimeti\'e8re\~;
+\par 
+\par 4\'b0 - accepter les dons et legs qui ne sont grev\'e9s ni de conditions ni de charges\~;
+\par 
+\par 5\'b0 - d\'e9cider l\rquote ali\'e9nation de gr\'e9 \'e0 gr\'e9 de biens mobiliers jusqu\rquote \'e0 4\~600 \'80 sous r\'e9serve de l\rquote accord de la majorit\'e9 des adjoints\~;
+\par 
+\par 6\'b0 - fixer les r\'e9mun\'e9rations et r\'e9gler les frais et honoraires des avocats, notaires, avou\'e9s, huissiers de justice et experts\~;
+\par 
+\par 7\'b0 \endash  fixer, dans les limites de l\rquote estimation des services fiscaux, le montant des offres de la commune \'e0 notifier aux expropri\'e9s et de r\'e9pondre \'e0 leur demande\~;
+\par 
+\par 8\'b0 - fixer les reprises d\rquote alignement en application d\rquote un document d\rquote urbanisme\~;
+\par 
+\par 9\'b0 - intenter au nom de la commune les actions en justice ou d\'e9fendre la commune dans les actions intent\'e9es contre elle dans tous les cas, devant toutes les juridictions et \'e0 toutes les \'e9tapes de la proc\'e9dure\~;
+\par 
+\par 10\'b0 - r\'e9gler les cons\'e9quences dommageables des accidents dans lesquels sont impliqu\'e9s des v\'e9hicules municipaux dans tous les cas\~;
+\par 
+\par 11\'b0 - signer la convention pr\'e9vue par le quatri\'e8me alin\'e9a de l\rquote article L.311-4 du Code de l\rquote Urbanisme pr\'e9cisant les conditions dans lesquelles un constructeur participe au co\'fbt d\rquote \'e9quipement d\rquote une zone d
+\rquote am\'e9nagement concert\'e9 et de signer la convention pr\'e9vue par le troisi\'e8me alin\'e9a de l\rquote article L.332-11-2 du m\'eame code pr\'e9cisant les conditions dans lesquelles un propri\'e9
+taire peut verser la participation pour voirie et r\'e9seaux\~;
+\par 
+\par Monsieur le Maire pourra charger un ou plusieurs adjoints de prendre en son nom, en cas d\rquote emp\'eachement, les d\'e9cisions relevant de la pr\'e9sente d\'e9l\'e9gation.
+\par 
+\par }{\b\f36\fs28\ul\insrsid944188\charrsid944188 STATION D\rquote EPURATION\~: DEMANDE D\rquote AUTORISATION DE DEFRICHEMENT}{\b\f36\fs28\ul\insrsid944188 
+\par 
+\par }{\f36\insrsid944188 Monsieur le Maire rappelle \'e0 l\rquote assembl\'e9e que par acte administratif en date du 10 octobre 2007, la commune de BROCAS a re\'e7u, par voie d\rquote \'e9change, de l\rquote indivision Mondiet, une parcelle de terrain cadastr
+\'e9e section D N\'b0 350 lieu dit\~\'ab\~Bacouy\'e8s\~\'bb d\rquote une contenance totale de 1 ha 52 a 72 ca, qui doit servir \'e0 l\rquote extension de la station d\rquote \'e9puration.
+\par 
+\par Consid\'e9rant qu\rquote il convient de demander l\rquote autorisation de d\'e9frichement de cette parcelle afin de d\'e9poser le permis de construire de l\rquote extension du b\'e2timent existant,
+\par 
+\par Le Conseil Municipal\~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid944188\charrsid12913065 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid944188 {
+\b\f36\insrsid944188\charrsid12913065 VU}{\f36\insrsid944188  les articles L.311-1 \'e0 L.311-5 du Code Forestier pr\'e9sentant les autorisations de d\'e9frichement\~;
+\par {\listtext\pard\plain\f36\insrsid944188\charrsid12913065 \hich\af36\dbch\af0\loch\f36 -\tab}}{\b\f36\insrsid944188\charrsid12913065 VU}{\f36\insrsid944188  les articles l.312-1 \'e0 L.312-2 du Code Forestier reprenant les obligations inh\'e9rente
+s aux collectivit\'e9s territoriales\~;
+\par {\listtext\pard\plain\f36\insrsid944188\charrsid12913065 \hich\af36\dbch\af0\loch\f36 -\tab}}{\b\f36\insrsid944188\charrsid12913065 VU}{\f36\insrsid944188  les article}{\f36\insrsid12913065 s}{\f36\insrsid944188 
+ R.311-1 et suivants du Code Forestier relatifs \'e0 la composition du dossier de demande d\rquote autorisation de d\'e9frichement et \'e0 la proc\'e9dure d\rquote instruction\~;
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid944188 {\f36\insrsid944188 
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9\~:
+\par 
+\par }{\f36\insrsid944188 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid944188  }{\b\f36\insrsid12913065\charrsid12913065 DECIDE}{\f36\insrsid944188  d\rquote autoris}{\f36\insrsid12913065 er Monsieur le Maire \'e0 d
+\'e9poser aupr\'e8s de la Direction D\'e9partementale de l\rquote Agriculture et de la For\'eat des Landes, le dossier de demande de d\'e9frichement de la parcelle concern\'e9e par l\rquote extension de la station d\rquote \'e9puration\~;}{
+\f36\insrsid944188 
+\par }{\f36\insrsid12913065 
+\par }{\f36\insrsid12913065 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid12913065  }{\b\f36\insrsid12913065\charrsid12913065 AUTORISE}{\f36\insrsid12913065  Monsieur le Maire ou \'e0 d\'e9faut l\rquote 
+un de ses adjoints, \'e0 signer tout document relatif \'e0 cette affaire.
+\par }{\f36\insrsid14047762 
+\par Par ailleurs, Monsieur le Maire pr\'e9cise que le S.Y.D.E.C est toujours, dans l\rquote attente du rapport de l\rquote hydrog\'e9ologue. Les conclusions de ce dernier permettront de d\'e9finir le type de traitement des eaux. Si l\rquote autorisation d
+\rquote infiltrer est donn\'e9e, le choix pourra se porter sur une station d\rquote \'e9puration de type \'e9cologique (avec plantation de roseaux), moi}{\f36\insrsid816404 n}{\f36\insrsid14047762 s ch\'e8re \'e0 l\rquote }{\f36\insrsid14449648 achat d
+\rquote environ 350\~000 \'80 pour 1\~300 habitants \'e9quivalents sinon, il faudra se rabattre sur le traitement par boues activ\'e9es, tel qu\rquote actuellement.
+\par 
+\par }{\f36\insrsid14047762  }{\f36\insrsid12913065 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12526436 {\b\f36\fs28\ul\insrsid8537541 
+\par 
+\par 
+\par }{\b\f36\fs28\ul\insrsid12526436\charrsid12526436 DESIGNATION DES MEMBRES APPELES A SIEGER A LA}{\b\f36\fs28\insrsid12526436\charrsid12526436  }{\b\f36\fs28\ul\insrsid12526436\charrsid12526436 COMMISSION COMMUNALE DES IMPOTS DIRECTS}{
+\b\f36\fs28\ul\insrsid11353986 
+\par }{\b\f36\fs28\ul\insrsid816404 
+\par }{\f36\insrsid816404 Monsieur le Maire informe qu\rquote il convient, \'e0 la suite des r\'e9centes \'e9lections, de proc\'e9der \'e0 la constitution d\rquote une nouvelle commission communale des imp\'f4ts directs. Cette commission, outre le Maire ou l
+\rquote adjoint d\'e9l\'e9gu\'e9 qui en assure la pr\'e9sidence, comprend six commissaires titulaires et six commissaires suppl\'e9ants. Ces derniers sont d\'e9sign\'e9
+s par le directeur des services fiscaux de Mont-de-Marsan, sur une liste de contribuables, en nombre double, dress\'e9e par le Conseil Municipal.
+\par }{\f36\insrsid7358030 Le Conseil Municipal laisse au Maire le soin de dresser une liste de commissaires, dont le choix devra \'eatre effectu\'e9 de mani\'e8re \'e0 assurer une repr\'e9sentation \'e9quitable des personnes respectivement impos\'e9es \'e0
+ chacune des quatre taxes directes locales.
+\par }{\f36\insrsid816404\charrsid816404 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12526436 {\b\f36\fs28\ul\insrsid12526436\charrsid1402647 DESIGNATION DES DELEGUES DE LA COMMUNE AU SYNDICAT INTERCOMMUNAL DES VALLEES DE LA LEYRE}{
+\b\f36\fs28\ul\insrsid12526436 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12526436 {\b\f36\insrsid12526436\charrsid1402647 VU}{\f36\insrsid12526436  le Code G\'e9n\'e9ral des Collectivit\'e9s Territoriales, notamment l\rquote 
+article L.5721-1 et suivants pr\'e9cisant l\rquote organisation et le fonctionnement d\rquote un syndicat mixte,
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12526436 {\f36\insrsid12526436 
+\par }{\b\f36\insrsid12526436\charrsid1402647 VU}{\f36\insrsid12526436  les statuts du Syndicat,
+\par 
+\par Le Conseil Municipal, \'e0 l\rquote unanimit\'e9, d\'e9cide d\rquote \'e9lire\~:
+\par 
+\par }{\b\f36\ul\insrsid12526436\charrsid1402647 REPRESENTANTS TITULAIRES}{\f36\insrsid12526436 \~:
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12526436 {\b\f36\insrsid12526436\charrsid1402647 Melle GALBERT Ingrid
+\par }{\f36\insrsid12526436 160, Impasse Vulcain 40420 BROCAS
+\par 
+\par }{\b\f36\insrsid12526436\charrsid1402647 M. FOURCADE Michel
+\par }{\f36\insrsid12526436 638, Rue des Forgerons 40420 BROCAS
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12526436 {\f36\insrsid12526436 
+\par }{\b\f36\ul\insrsid12526436\charrsid1402647 REPRESENTANTS SUPPLEANTS}{\b\f36\insrsid12526436\charrsid1402647 \~}{\f36\insrsid12526436\charrsid1402647 :
+\par }{\b\f36\insrsid12526436\charrsid1402647 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12526436 {\b\f36\insrsid12526436\charrsid1402647 M. LAPORTE Gilles
+\par }{\f36\insrsid12526436 152, Route de Vert 40420 BROCAS
+\par 
+\par }{\b\f36\insrsid12526436\charrsid1402647 M. BLANC-SIMON Jean-Luc
+\par }{\f36\insrsid12526436 \'ab\~Petit Libon\~\'bb 40420 BROCAS
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12526436 {\b\f36\insrsid12526436\charrsid1402647 AUTORISE}{\f36\insrsid12526436  Monsieur le Maire \'e0 intervenir \'e0 la signature de toutes pi\'e8ces et formalit
+\'e9s se rapportant au dit Syndicat.
+\par 
+\par }{\b\f36\fs28\ul\insrsid12526436 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7605039 {\f36\insrsid15544707 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15544707 {\b\f36\fs28\ul\insrsid15544707\charrsid8389195 MODIFICATION DES STATUTS DE LA COMMUNAUTE DE COMMUNES DU PAYS D\rquote ALBRET}{
+\b\f36\fs28\ul\insrsid15544707 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15544707 {\f36\insrsid15544707 Le Maire informe l\rquote assembl\'e9e que le Conseil de la Communaut\'e9 de Communes du Pays d\rquote Albret a vot\'e9
+, le 30 avril 2008, la modification des statuts concernant la composition du Conseil Communautaire. Ainsi, ce dernier sera constitu\'e9 de membres d\'e9l\'e9gu\'e9s \'e9lus par les conseils municipaux \'e0 savoir\~: un d\'e9l\'e9gu\'e9 + un d\'e9l\'e9gu
+\'e9 par tranche de 300 habitants et non plus par tranche de 200 habitants.
+\par 
+\par Le bureau de la Communaut\'e9 de Communes du Pays d\rquote Albret fait \'e9galement l\rquote objet d\rquote une modification puisque celui-ci sera compos\'e9 d\rquote un Pr\'e9sident et d\rquote un vice-pr\'e9sident.
+\par 
+\par Apr\'e8s examen des modifications pr\'e9vues et apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, le Conseil Municipal d\'e9cide d\rquote approuver ces modifications et le nouveau texte des statuts en r\'e9sultant tels qu\rquote annex\'e9s 
+\'e0 la pr\'e9sente d\'e9lib\'e9ration.
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1795194 {\f36\fs22\insrsid15024988\charrsid15024988 
+\par }{\b\f36\fs28\ul\insrsid15024988\charrsid15024988 
+\par 
+\par }{\f36\insrsid1795194 
+\par }\pard \qj \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid12608159 {\f36\insrsid1795194 
+\par }{\f36\insrsid12608159 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7605039 {\f36\insrsid12608159 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\insrsid9444661 
+\par }{\insrsid8588258 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f36\fs28\ul\insrsid8588258\charrsid8588258 QUESTIONS DIVERSES}{\b\f36\fs28\ul\insrsid8588258 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12592769 {\f36\insrsid8588258 1\'b0 - }{\f36\ul\insrsid8588258\charrsid8588258 AFFAIRES SCOLAIRES}{\f36\insrsid8588258 \~: }{\f36\insrsid12592769 La d\'e9
+cision prise \'e0 l\rquote issue du Conseil des Ma\'eetres de scinder, \'e0 la rentr\'e9e prochaine, la classe de CM2 est \'e9voqu\'e9e.}{\f36\insrsid8588258 
+\par }{\f36\insrsid12592769 Aussi tardive qu\rquote inattendue elle a surpris les parents et la municipalit\'e9 qui venait de rencontrer quelques semaines auparavant les enseignantes de l\rquote \'e9cole de Brocas et qui n\rquote ont jamais \'e9voqu\'e9
+ le probl\'e8me d\rquote effectif qui est pos\'e9 aujourd\rquote hui.
+\par }{\f36\insrsid6367132 Pourquoi s\'e9parer les CM2\~?
+\par Lecture est donn\'e9e de la lettre adress\'e9e aux parents par l\rquote \'e9quipe enseignante\~: \'ab\~L\rquote an prochain, les effectifs dans le RPI seront charg\'e9s. En effet, la classe de CE2-CM1 de Maill\'e8res est pr\'e9vue \'e0 33 \'e9l\'e8
+ves. Pour \'e9viter cela, des CM1 du RPI partiront sur B\'e9lis. Ils seront donc partag\'e9s entre B\'e9lis et Maill\'e8res. Dans une configuration }{\f36\insrsid7940112 habituelle, la classe de B\'e9lis se retrouverait donc \'e0 30 CM1-CM2\~
+: ce qui est difficilement envisageable pour le bon fonctionnement de cette fin de cycle. Donc, la seule solution acceptable est de garder une partie de CM2 de Brocas \'e0 Brocas, et d\rquote en affecter une autre partie \'e0 B\'e9
+lis. Cette solution permettrait aussi de palier le sous-effectif de la classe de cycle 3 de Brocas dont le nombre d\rquote \'e9l\'e8ves est pr\'e9vu \'e0 15 en CE2-CM1. }{\f36\insrsid13175288 Les cl
+asses de CE2-CM1-CM2 faisant toutes trois partie du cycle 3, les apprentissages seront dans la continuit\'e9 dans les 3 cours, plus ou moins approfondis selon le niveau. Cette d\'e9cision a \'e9t\'e9
+ prise en coordination avec toutes les enseignantes du RPI et Monsieur l\rquote Inspecteur\~\'bb. }{\f36\insrsid7940112 
+\par }{\f36\insrsid13175288 Divers points de vue sont alors \'e9chang\'e9s sur les autres solutions qui pourraient \'eatre envisag\'e9es sans s\'e9parer  les CM2 (les enfants concern\'e9s \'e9tant profond\'e9ment d\'e9\'e7us, ayant d\'e9j\'e0 visit\'e9 l
+\rquote \'e9cole de B\'e9lis).
+\par Monsieur Gilles LAPORTE fait part de son opinion qui tend \'e0 faire confiance aux institutrices, personnes les mieux plac\'e9es pour savoir ce qui }{\f36\insrsid1062717 est le plus judicieux en mati\'e8
+re de bon enseignement. Il souhaiterait que la municipalit\'e9 reste en marge de ce d\'e9bat. Monsieur Laurent MARTINEZ exprime son d\'e9saccord sur ce point arguant du fait que n\rquote \'e9
+tant pas de Brocas, les enseignantes ne se sont pas sensibles aux pr\'e9occupations des parents d\rquote \'e9l\'e8ves.}{\f36\insrsid13175288 
+\par }{\f36\insrsid1062717 D\'e9cision est prise d\rquote organiser une r\'e9union, avec les parents des futurs \'e9l\'e8ves de CM2, le samedi 7 juin 2008 \'e0 10 h 30 \'e0 la Mairie, ce, afin que chacun puisse s\rquote exprimer et qu\rquote 
+une ou plusieurs solutions soient envisag\'e9es, dans l\rquote int\'e9r\'eat des enfants uniquement.
+\par 
+\par 2\'b0 - }{\f36\ul\insrsid1062717\charrsid1062717 SALLE DE SPORTS}{\f36\insrsid1062717 \~: Monsieur le Maire informe qu\rquote il a re\'e7u Monsieur R\'e9my TARRICQ, architecte concepteur de la future salle omnisports. }{\f36\insrsid5525743 Avec lui }{
+\f36\insrsid1062717  a \'e9t\'e9 }{\f36\insrsid5525743 \'e9voqu\'e9e}{\f36\insrsid1062717  l\rquote id\'e9e de changer }{\f36\insrsid5525743 le}{\f36\insrsid1062717  site d\rquote implantation de cette salle}{\f36\insrsid5525743  qui pourrait \'eatre pr
+\'e8s du terrain de football. Cela constituerait un p\'f4le sportif harmonieux et facile d\rquote acc\'e8s. Reste \'e0 trouver un accord avec Monsieur De Folmont, repr\'e9sentant l\rquote indivision Mondiet qui, pour l\rquote heure n\rquote 
+a toujours pas r\'e9pondu au courrier exp\'e9di\'e9 le 22 mai dernier.}{\f36\insrsid1062717 
+\par }{\f36\insrsid5525743 Monsieur Serge DUPOUY propose de faire appel \'e0 un autre architecte pour avoir une autre id\'e9e de prix.
+\par 
+\par }{\f36\insrsid3877358 
+\par }{\f36\insrsid5525743 3\'b0 - }{\f36\ul\insrsid5525743\charrsid5525743 DEVELOPPEMENT DE LA ZONE ARTISANALE DE BACOUYES}{\f36\insrsid5525743 \~:}{\f36\insrsid13853322  Une r\'e9union de la Commission Urbanisme \endash  Economie et D\'e9
+veloppement est demand\'e9e au vu des candidatures qui se projettent pour s\rquote installer sur cette zone artisanale.}{\f36\insrsid4222218  }{\f36\insrsid5525743 
+\par }{\f36\insrsid12259744 Par ailleurs, Monsieur BLANC-SIMON informe que Monsieur Robert FAURE, propri\'e9taire d\rquote un terrain non utilis\'e9 sur la dite zone serait dispos\'e9 \'e0 le revendre \'e0 la commune. Le service des domaines va \'ea
+tre saisi pour estimation de la parcelle.
+\par Quoi qu\rquote il en soit, il est de l\rquote avis g\'e9n\'e9ral de proposer des conditions attractives pour les futurs candidats \'e0 l\rquote installation surtout au niveau de la modularit\'e9 des terrains \'e0 proposer. Le service d\'e9
+veloppement du Conseil G\'e9n\'e9ral des Landes sera consult\'e9 pour voir les aides qui pourraient \'eatre apport\'e9es sur la revitalisation de cette zone.
+\par Apr\'e8s concertation, il est d\'e9cid\'e9 que la commission concern\'e9e se r\'e9unira le mercredi 4 juin 2008 \'e0 19 heures pour faire un premier point.
+\par }{\f36\ul\insrsid12259744\charrsid12259744 
+\par }{\f36\insrsid12259744\charrsid12259744 4\'b0 - }{\f36\ul\insrsid12259744\charrsid12259744 SUBVENTION ALLOUEE AU COMITE DES FETES}{\f36\insrsid4720965 \~: Monsieur le Maire a \'e9t\'e9 interpell\'e9 quant \'e0 la participation aux d\'e9bats}{
+\f36\insrsid12259744  de Monsieur Alain MARCHAL, Tr\'e9sorier du Comit\'e9 des F\'eates, lors du vote de la subvention annue}{\f36\insrsid4720965 lle allou\'e9e \'e0 cette association. Ceci serait constitutif d\rquote une prise ill\'e9gale d\rquote int
+\'e9r\'eats. }{\f36\insrsid12259744 
+\par }{\f36\insrsid4720965 Monsieur le Maire pr\'e9cise que la participation d\rquote un conseiller municipal \'e0 une d\'e9lib\'e9ration d\'e9cidant l\rquote octroi de subventions \'e0 une association \'e0 but non lucratif, dont il est pr\'e9
+sident ou simple membre}{\f36\insrsid5271686 , n\rquote est pas constitutive d\rquote une prise ill\'e9gale d\rquote int\'e9r\'eats. Elle l\rquote est si l\rquote association pr\'e9sum\'e9e \'e0 but non lucratif exerce des activit\'e9
+s commerciales, sources de revenus illicites. Cependant pour \'e9viter toute suspicion g\'e9n\'e9ratrice d\rquote un \'e9ventuel contentieux, et pour l\rquote avenir, il est demand\'e9 que les \'e9lus concern\'e9s s\rquote abstiennent de participer \'e0
+ de telles d\'e9lib\'e9rations.}{\f36\insrsid4720965 
+\par }{\f36\insrsid5325392 A cet effet, Monsieur le Maire demande d\rquote annuler purement et simplement  cette subvention pour l\rquote instant de raison. }{\f36\insrsid5271686 
+\par }{\f36\insrsid5325392 En cons\'e9quence, il est demand\'e9 aux conseillers municipaux de voter une nouvelle subvention du m\'eame montant. A noter que Monsieur MARCHAL est absent.
+\par }{\f36\insrsid5271686 Le r\'e9sultat du vote est le suivant\~:
+\par }{\f36\ul\insrsid5271686\charrsid5271686 Nombre de membres pr\'e9sents}{\f36\insrsid5271686 \~: 13}{\f36\insrsid5271686\charrsid12259744 
+\par }{\f36\ul\insrsid5271686\charrsid5271686 Nombre de votants}{\f36\insrsid5271686 \~: 13}{\f36\insrsid12259744 
+\par }{\f36\ul\insrsid5271686\charrsid5271686 Pour la subvention de 1\~000 \'80}{\f36\insrsid5271686 \~: 11 voix
+\par }{\f36\ul\insrsid5271686\charrsid5271686 Contre la subvention de 1\~000 \'80}{\f36\insrsid5271686 \~: 0 voix
+\par }{\f36\ul\insrsid5271686\charrsid5271686 Abstentions}{\f36\insrsid5271686 \~: 2 voix.
+\par Par ailleurs, Monsieur MARCHAL a r\'e9cemment propos\'e9 d\rquote enlever 200 \'80 de la subvention allou\'e9e au Comit\'e9 des F\'eates pour les verser \'e0 l\rquote association de la danse \'ab\~Broc\rquote attitude\~\'bb. Le Conseil Municipal, a l
+\rquote unanimit\'e9, dit ne pas vouloir remettre en question quelque subventi}{\f36\insrsid3877358 on que se soit qui a \'e9t\'e9 vot\'e9e mais se dit tout dispos\'e9 \'e0 allouer une somme \'e0 la danse, l\rquote ann\'e9e prochaine, si l\rquote 
+association en fait la demande.}{\f36\insrsid5271686 
+\par }{\f36\insrsid3877358 
+\par 
+\par 
+\par 
+\par 5\'b0 }{\f36\insrsid3877358\charrsid3877358 - }{\f36\ul\insrsid3877358\charrsid3877358 HORAIRES }{\f36\ul\insrsid3877358 DE FERMETURE}{\f36\ul\insrsid3877358\charrsid3877358  DES BARS ET BODEGAS POUR LES FETES LOCALES}{\f36\insrsid3877358\charrsid3877358 
+\~:}{\f36\insrsid3877358  Monsieur le Maire informe que tous les maires du d\'e9partement ont \'e9t\'e9 destinataires d\rquote un questionnaire de Monsieur le Pr\'e9fet des Landes relatif aux nouveaux horaires de fermeture des bars et }{
+\f36\insrsid8328642 bodegas}{\f36\insrsid3877358 , lors des f\'eates locales, qu\rquote il envisage de fixer par arr\'eat\'e9. Trois propositions ont \'e9t\'e9 soumises\~:
+\par }{\f36\insrsid3877358 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid3877358  }{\f36\insrsid5391561 F}{\f36\insrsid3877358 ermeture \'e0 3 heures pour toutes les communes hors Dax et Mont-de-Marsan\~;
+\par }{\f36\insrsid3877358 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid3877358  }{\f36\insrsid5391561 F}{\f36\insrsid3877358 ermeture \'e0 3 heures avec possibilit\'e9 d\rquote une nuit \'e0
+ 5 heures, au choix des Maires (avec un r\'e9gime de fermeture \'e0 4 heures pour Dax et Mont-de-Marsan}{\f36\insrsid5391561 )\~;}{\f36\insrsid3877358 
+\par }{\f36\insrsid5391561 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid5391561  Fermeture \'e0 4 heures pour toutes les communes y compris Dax et Mont-de-Marsan.
+\par Les pr\'e9sidents d\rquote associations et les tenanciers de bars de Brocas ont donc \'e9t\'e9 invit\'e9s \'e0 aider le Maire \'e0 se prononcer. A l\rquote issue de la r\'e9union, tous ont demand}{\f36\insrsid5325392 \'e9}{\f36\insrsid5391561 
+ de faire la proposition suivante\~: les bars et }{\f36\insrsid8328642 bodegas}{\f36\insrsid5391561  restent ouverts jusqu\rquote \'e0 5 heures mais avec interdiction de vendre de l\rquote alcool \'e0 partir de 4 heures du matin.
+\par Reste \'e0 voir ce que d\'e9cidera le pr\'e9fet, in fine.
+\par Au questionnaire en question \'e9tait aussi jointe une liste de mesures que pourraient mettre en place les communes et les comit\'e9s organisateurs pour limiter les effets de l\rquote alcool et pr\'e9
+venir les accidents de la route comme par exemple des points \'ab\~petits d\'e9jeuners\~\'bb, \'ab\~repos\~\'bb, }{\f36\insrsid8328642 etc.}{\f36\insrsid5391561 \'85.
+\par 
+\par 6\'b0 - }{\f36\ul\insrsid5391561\charrsid11094027 RECEPTION LORS DES FETES DE LA SAINT JEAN}{\f36\insrsid5391561 \~: Il est d\'e9cid\'e9 que la r\'e9ception, \'e0 l\rquote issue du spectacle de nuit du samedi, sera donn\'e9e \'e0 la salle de l\rquote 
+Etang des Forges et non plus \'e0 la Mairie. Monsieur le Maire souhaiterait la pr\'e9sence de tous les conseillers municipaux ce soir l\'e0.
+\par 
+\par }{\f36\insrsid11094027 7\'b0 - }{\f36\ul\insrsid11094027\charrsid11094027 CIMETIERE}{\f36\insrsid11094027 \~: Sur proposition de Monsieur Philippe MAILHO, le carr\'e9 militaire du cimeti\'e8re sera rafra\'ee
+chi avant le 11 novembre prochain en repeignant les tombes. Le \'ab\~Souvenir Fran\'e7ais\~\'bb pourrait aider \'e0 financer ces am\'e9liorations. Toutefois, avant d\rquote accepter son aide, v\'e9rification sera faite de son ob\'e9dience politique}{
+\f36\insrsid5325392  et/}{\f36\insrsid8328642 ou spirituelle.}{\f36\insrsid3877358\charrsid11094027 
+\par }{\f36\insrsid3877358 
+\par }{\f36\insrsid11094027 8\'b0 - }{\f36\ul\insrsid11094027\charrsid11094027 REUNION PUBLIQUE}{\f36\insrsid11094027 \~: }{\f36\insrsid8328642 La date n\rquote est pas encore arr\'eat\'e9e mais elle pourrait \'eatre programm\'e9
+e pour le mois de septembre. Elle permettra dans un premier temps de remercier la population pour la confiance qu\rquote elle a t\'e9moign\'e9e \'e0 l\rquote \'e9quipe municipale lors des \'e9lections et}{\f36\insrsid5325392  d\rquote \'e9voque
+r la situation des affaires et de la gestion de la commune \'e0 la prise d\rquote effet de la nouvelle mandature\~; de pr\'e9senter un premier bilan des actions mises en \'9cuvre puis d\rquote aborder les projets.}{\f36\insrsid8328642  }{
+\f36\insrsid11094027 
+\par }{\f36\insrsid8328642 
+\par 9\'b0 - }{\f36\ul\insrsid8328642\charrsid8328642 PERMIS POIDS LOURD}{\f36\insrsid8328642 \~: Monsieur Serge DUPOUY informe que Gilles MARSAN a pass\'e9\~avec succ\'e8s le permis super lourd. F\'e9licitations \'e0 lui et souhaitant qu\rquote Aur\'e9
+lien en fasse autant.
+\par 
+\par 10\'b0 - }{\f36\ul\insrsid8328642\charrsid8328642 AFFAIRE MU\'d1OS}{\f36\insrsid8328642 \~:}{\f36\insrsid7471371  Monsieur le Maire informe l\rquote assembl\'e9e de l\rquote entretien t\'e9l\'e9phonique qu\rquote 
+il a eu avec Monsieur Dominique SAVARY, directeur du Centre de Gestion de la Fonction Publique Territoriale des Landes qui lui a annonc\'e9 que Madame Nadine MU\'d1OS a sollicit\'e9 une mise en disponibilit\'e9 }{\f36\insrsid9129875 
+\par }{\f36\insrsid7471371 pour convenance personnelle du 1}{\f36\super\insrsid7471371\charrsid7471371 er}{\f36\insrsid7471371  juin 2008 au 30 novembre 2008. Si cela ne r\'e9sout en rien le probl\'e8me,}{\f36\insrsid4751171  ces six mois non r\'e9mun\'e9r\'e9
+s feront \'e9conomiser 20\~000 \'80 \'e0 la commune.}{\f36\insrsid5325392  Monsieur le Maire a clairement fait savoir \'e0 Monsieur SAVARY qu\rquote il suivrait de pr\'e8s la situation et veillera tout particuli\'e8rement aux offres propos\'e9es, dans l
+\rquote hypoth\'e8se o\'f9 Madame MU\'d1OS reprendrait son travail.}{\f36\insrsid8328642 
+\par }{\f36\insrsid4751171 
+\par 11\'b0 - }{\f36\ul\insrsid4751171\charrsid4751171 SIGNALISATION}{\f36\insrsid4751171 \~: }{\f36\insrsid5389719 Pour s\'e9curiser le franchissement du stop de la Rue de la Gare, la pose d\rquote un miroir est envisag\'e9e sur le b\'e2timent de l\rquote H
+\'f4tel de la Gare ou le trottoir. Une autorisation et des conseils vont \'eatre demand\'e9s aux services de la Direction D\'e9partementale de l\rquote Equipement des Landes. La d\'e9pense \'e0 envisager serait de 500 \'e0 600 \'80
+. Monsieur LAPORTE pense qu\rquote un stop serait plus utile, toutefois, s\rquote agissant de la rue principale, il semble difficile de faire arr\'eater la circulation devant l\rquote H\'f4tel de la Gare.}{\f36\insrsid4751171 
+\par }{\f36\insrsid5389719 
+\par 12\'b0 - }{\f36\ul\insrsid5389719\charrsid5389719 DOCUMENT D\rquote URBANISME}{\f36\insrsid5389719 \~: Monsieur le Maire informe que renseignements pris, il semble difficile apr\'e8s s\rquote \'eatre dot\'e9s d\rquote un Plan d\rquote 
+Occupation des Sols de revenir \'e0 une carte communale soumise au r\'e8glement national d\rquote urbanisme.
+\par 
+\par 13\'b0 - }{\f36\ul\insrsid5389719\charrsid1471146 RAMASSAGE DES DECHETS VERTS}{\f36\insrsid5389719 \~: Monsieur Serge DUPOUY d\'e9plore }{\f36\insrsid1471146 la d\'e9sinvolture de certains habitants qui abusent du service gratuit mis en place pour l
+\rquote enl\'e8vement des d\'e9chets verts et de la ferraille (sacs trop remplis et pas que de d\'e9chets verts\~; encombrants laiss\'e9s sur les trottoirs \'85). Un rappel va donc \'eatre fait \'e0 tous les habitants red\'e9
+finissant les conditions de ce ramassage. Monsieur Yves MOREL propose que les d\'e9chets de jardin soient conditionn\'e9s dans des poubelles de 100 litres, plus faciles \'e0 vider et plus \'e9cologiques que des sacs poubelles. Il est rappel\'e9
+ que le maintien de ce service reste n\'e9cessaire pour les personnes \'e2g\'e9es ou dans l\rquote impossibilit\'e9 de se d\'e9placer.}{\f36\insrsid5389719 
+\par }{\f36\insrsid1471146 
+\par 14\'b0 - }{\f36\ul\insrsid1471146\charrsid1471146 INVITATION}{\f36\insrsid1471146 \~: A l\rquote occasion de l\rquote ouverture annuelle du Mus\'e9e, tous les conseillers municipaux et leurs conjoints sont convi\'e9s par l\rquote association \'ab\~
+Les Amis des Forges\~\'bb le dimanche 15 juin 2008.
+\par 
+\par 15\'b0 - }{\f36\ul\insrsid1471146\charrsid2519660 REMERCIEMENTS}{\f36\insrsid1471146 \~: Pour la f\'eate des m\'e8res, sept mamans ont \'e9t\'e9 destinataires de bouquets de roses offerts par la municipalit\'e9. Deux courriers et deux }{
+\f36\insrsid2519660 coups de fil de remerciements sont parvenus \'e0 la Mairie.}{\f36\insrsid1471146 
+\par }{\f36\insrsid2519660 
+\par 16\'b0 - }{\f36\ul\insrsid2519660\charrsid2519660 DEMANDE DE RENDEZ\tab -VOUS}{\f36\insrsid2519660 \~: Monsieur DESTARAC souhaite rencontrer \'e0 nouveau la commission communale du Domaine Forestier pour \'e9voquer la remise \'e0
+ jour du document de gestion de la for\'eat communale.
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2519660 {\f36\insrsid5325392 
+\par 
+\par 
+\par 
+\par }{\f36\insrsid2519660 L\rquote ordre du jour \'e9tant \'e9puis\'e9, la s\'e9ance est lev\'e9e \'e0 0 h 45 mn.
+\par 
+\par Suivent les signatures.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9129875 {\b\f36\ul\insrsid9129875 
+\par }{\b\f36\insrsid9129875\charrsid9129875    }{\b\f36\ul\insrsid9129875\charrsid9129875 M. FOURCADE}{\f36\insrsid9129875                      }{\b\f36\ul\insrsid9129875 Y. MOREL}{\f36\insrsid9129875                       }{\b\f36\ul\insrsid9129875 J.L. BLA
+NC-SIMON}{\f36\insrsid9129875 
+\par 
+\par 
+\par 
+\par }{\b\f36\ul\insrsid9129875 
+\par }{\b\f36\ul\insrsid5325392 
+\par 
+\par 
+\par }{\b\f36\ul\insrsid9129875 A. SOURIGUES}{\f36\insrsid9129875                    }{\b\f36\ul\insrsid9129875 S. DUPOUY}{\f36\insrsid9129875                }{\b\f36\ul\insrsid9129875 J. FORNIER de LACHAUX}{\f36\insrsid9129875 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f36\insrsid9129875\charrsid9249018                      }{\b\f36\insrsid9129875 
+\par 
+\par 
+\par 
+\par 
+\par    }{\b\f36\insrsid9129875\charrsid9249018  }{\b\f36\ul\insrsid9129875\charrsid8537541 I. GALBERT}{\f36\insrsid9129875\charrsid8537541                        }{\b\f36\ul\insrsid9129875\charrsid8537541 J.P. LASSALLE}{\f36\insrsid9129875\charrsid8537541 
+                }{\b\f36\ul\insrsid9129875\charrsid8537541 F. SCHAERER}{\f36\insrsid9129875\charrsid8537541            
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f36\insrsid9129875\charrsid9129875     }{\b\f36\ul\insrsid9129875\charrsid9129875 G. LAPORTE}{\f36\insrsid9129875\charrsid9129875  }{\f36\insrsid9129875                      }{\b\f36\ul\insrsid9129875 V. GARDEILS}{\f36\insrsid9129875 
+                    }{\b\f36\ul\insrsid9129875 L. MARTINEZ
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9129875 {\b\f36\ul\insrsid9129875 
+\par 
+\par N. GILLET}{\f36\insrsid9129875 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9129875 {\f36\insrsid9129875 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12592769 {\f36\insrsid3877358 
+\par }{\f36\insrsid8588258\charrsid8588258 
+\par }}

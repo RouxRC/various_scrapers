@@ -1,0 +1,461 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f36\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f37\froman\fcharset2\fprq2{\*\panose 05020102010507070707}Wingdings 2;}{\f70\froman\fcharset238\fprq2 Times New Roman CE;}{\f71\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f73\froman\fcharset161\fprq2 Times New Roman Greek;}{\f74\froman\fcharset162\fprq2 Times New Roman Tur;}{\f75\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f76\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f77\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f78\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f90\fmodern\fcharset238\fprq1 Courier New CE;}{\f91\fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f93\fmodern\fcharset161\fprq1 Courier New Greek;}{\f94\fmodern\fcharset162\fprq1 Courier New Tur;}{\f95\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f96\fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f97\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f98\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f430\froman\fcharset238\fprq2 Bookman Old Style CE;}{\f431\froman\fcharset204\fprq2 Bookman Old Style Cyr;}
+{\f433\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f434\froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f437\froman\fcharset186\fprq2 Bookman Old Style Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \snext0 Normal;}{
+\s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 \styrsid10618584 heading 2;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext15 \styrsid2193707 footer;}{\*\cs16 \additive \sbasedon10 \styrsid2193707 page number;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid1{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-4051 ?;}{\levelnumbers;}\f3 \fi-360\li720
+\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-4051 ?;}{\levelnumbers;}\f3 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-4051 ?;}{\levelnumbers;}\f3 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01\u-4051 ?;}{\levelnumbers;}\f3 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-4051 ?;}{\levelnumbers;}\f3 
+\fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-4051 ?;}{\levelnumbers;}\f3 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-4051 ?;}{\levelnumbers;}\f3 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\u-4051 ?;}{\levelnumbers;}\f3 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-4051 ?;}{\levelnumbers;}\f3 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listname ;}\listid1}{\list\listtemplateid-1347003988\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0
+{\leveltext\leveltemplateid-1834352130\'01-;}{\levelnumbers;}\loch\af0\hich\af0\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid535392652}{\list\listtemplateid-625071488\listhybrid{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat13\levelspace0\levelindent0{\leveltext\leveltemplateid1116796642\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }
+{\listname ;}\listid766577636}{\list\listtemplateid-48604452\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid340295172\'01-;}{\levelnumbers;}
+\loch\af36\hich\af36\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160
+\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1926986949}{\list\listtemplateid664438934\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid606488774\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320
+\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid2066491435}}{\*\listoverridetable
+{\listoverride\listid535392652\listoverridecount0\ls1}{\listoverride\listid766577636\listoverridecount0\ls2}{\listoverride\listid1926986949\listoverridecount0\ls3}{\listoverride\listid2066491435\listoverridecount0\ls4}{\listoverride\listid1
+\listoverridecount0\ls5}}{\*\rsidtbl \rsid409093\rsid1196591\rsid1710125\rsid1792091\rsid2193707\rsid2906818\rsid3149737\rsid3223582\rsid3373236\rsid4416242\rsid5525269\rsid6049311\rsid6440906\rsid6518590\rsid6954205\rsid7097138\rsid7172150\rsid7824855
+\rsid8074964\rsid9444661\rsid9777054\rsid10618584\rsid10826980\rsid11280403\rsid11300677\rsid11351220\rsid11477018\rsid11940906\rsid12149657\rsid12853754\rsid13261997\rsid13859778\rsid14026645\rsid15155266\rsid15358304\rsid15801916\rsid16063668
+\rsid16253993\rsid16282383}{\*\generator Microsoft Word 11.0.5604;}{\info{\title PROCES-VERBAL SEANCE DU 8 DECEMBRE 2009}{\author MAIRIE DE BROCAS}{\operator MAIRIE DE BROCAS}{\creatim\yr2009\mo12\dy9\hr10\min17}{\revtim\yr2010\mo1\dy8\hr15\min33}
+{\version12}{\edmins134}{\nofpages10}{\nofwords2815}{\nofchars15485}{\nofcharsws18264}{\vern24689}}\paperw11906\paperh16838\margl1417\margr1417\margt1417\margb1417 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1417\dgvorigin1417\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale101\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot10618584\newtblstyruls\nogrowautofit \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid2193707 \chftnsep 
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid2193707 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid2193707 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid2193707 \chftnsepc 
+\par }}\sectd \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\footer \pard\plain \s15\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\pvpara\phmrg\posxr\posy0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3223582 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\field{\*\fldinst {\cs16\insrsid2193707 PAGE  }}{\fldrslt {
+\cs16\lang1024\langfe1024\noproof\insrsid8074964 8}}}{\cs16\insrsid2193707 
+\par }\pard \s15\ql \li0\ri360\widctlpar\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid2193707 {\insrsid2193707 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10618584 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\fs32\ul\insrsid7097138 
+\par }{\b\f36\fs32\ul\insrsid10618584\charrsid10618584 PROCES-VERBAL SEANCE DU 8 DECEMBRE 2009
+\par }\pard\plain \s2\qj \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid10618584 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid10618584 
+\par }{\f36\insrsid10618584\charrsid12853754 L\rquote AN DE}{\f36\insrsid10618584 UX MIL NEUF}{\f36\insrsid10618584\charrsid12853754 
+\par }\pard\plain \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10618584 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid10618584\charrsid12853754 Le}{\f36\insrsid10618584  }{
+\b\f36\insrsid10618584\charrsid10618584 HUIT DU MOIS DE DECEMBRE A 20 HEURES}{\f36\insrsid10618584\charrsid12853754  
+\par Le Conseil Municipal de la commune de BROCAS, d\'fbment convoqu\'e9, s\rquote est r\'e9uni en session ordinaire \'e0 la Mairie, sous la pr\'e9sidence de }{\b\f36\insrsid10618584\charrsid12853754 Monsieur FOURCADE Michel,}{
+\f36\insrsid10618584\charrsid12853754  }{\b\f36\insrsid10618584\charrsid12853754 Maire.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10618584 {\b\f36\ul\insrsid10618584\charrsid12853754 
+\par Date de la convocation}{\f36\insrsid10618584\charrsid12853754 \~: }{\f36\insrsid10618584 3 d\'e9cembre 2009}{\f36\insrsid10618584\charrsid12853754 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10618584 {\b\f36\ul\insrsid10618584\charrsid12853754 
+\par ETAIENT PRESENTS}{\f36\insrsid10618584\charrsid12853754 \~: }{\f36\insrsid10618584 M. FOURCADE Michel \endash  M. BLANC-SIMON Jean-Luc \endash  MME SOURIGUES Ang\'e9line \endash  M. DUPOUY Serge \endash  MME GILLET Nelly \endash  
+\par M. FORNIER de LACHAUX Jean \endash  M. LASSALLE Jean-Pierre \endash  MME SCHAERER Fabienne \endash  MME GARDEILS Val\'e9rie \endash  M. MARTINEZ Laurent \endash 
+\par 
+\par }{\b\f36\ul\insrsid10618584\charrsid10618584 ABSENTS EXCUSES}{\f36\insrsid10618584 \~: M. Alain MARCHAL \endash  M. Gilles LAPORTE \endash  M. Jean-Christophe ELINEAU \endash  
+\par 
+\par }{\b\f36\ul\insrsid10618584\charrsid10618584 Secr\'e9taire de s\'e9ance}{\f36\insrsid10618584 \~: MME Nelly GILLET
+\par }{\b\f36\ul\insrsid10618584\charrsid10618584 Secr\'e9taire adjointe}{\f36\insrsid10618584 \~: MME Florence LAPASSOUSE
+\par 
+\par }{\b\f36\ul\insrsid10618584\charrsid10618584 ORDRE DU JOUR}{\f36\insrsid10618584 \~:
+\par 
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid10618584 {
+\f36\insrsid10618584\charrsid10618584 Cl\'f4ture du budget annexe du Lotissement de l\rquote Esp\'e9rance\~;
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}Adh\'e9sion \'e0 l\rquote Association des Communes Foresti\'e8res sinistr\'e9es du Sud Ouest\~;
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}Carri\'e8re \'e0 ciel ouvert\~: contrat de fortage\~;
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}Dossier photovolta\'efque\~;
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}Projet de chantier b\'e9n\'e9vole patrimonial\~;
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}Droits de pr\'e9emption\~;
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}Dossier \'ab\~Malabat\~\'bb\~;
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}Avancement des projets communautaires\~;
+\par {\listtext\pard\plain\insrsid10618584\charrsid10618584 \hich\af0\dbch\af0\loch\f0 -\tab}Questions diverses.}{\f36\insrsid10618584 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11280403 {\f36\insrsid11280403 
+\par Avant d\rquote ouvrir la s\'e9ance, Monsieur le Maire demande \'e0 l\rquote assembl\'e9e l\rquote autorisation de rajouter }{\f36\insrsid7097138 trois}{\f36\insrsid11280403  points \'e0 l\rquote ordre du jour\~:
+\par }{\f36\insrsid15358304 
+\par {\listtext\pard\plain\insrsid15358304 \hich\af0\dbch\af0\loch\f0 -\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid15358304 {\f36\insrsid15358304 
+La tarification du chauffage dans les g\'eetes forestiers\~;
+\par {\listtext\pard\plain\insrsid7097138 \hich\af0\dbch\af0\loch\f0 -\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid11280403 {\f36\insrsid7097138 L}{\f36\insrsid11280403 e R\'e9
+gime Inde}{\f36\insrsid1792091 mnitaire et prime des agents sous contrat C.A.E.}{\f36\insrsid7097138 \~;}{\f36\insrsid11280403 
+\par {\listtext\pard\plain\insrsid7097138 \hich\af0\dbch\af0\loch\f0 -\tab}}{\f36\insrsid7097138 La d\'e9cision modificative budg\'e9taire N\'b0 3.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11280403 {\f36\insrsid11280403 
+\par Le Conseil Municipal donne son accord \'e0 l\rquote unanimit\'e9.
+\par }{\f36\insrsid12149657 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15358304 {\b\f36\fs28\ul\insrsid12149657 
+\par }{\b\f36\fs28\ul\insrsid7097138 
+\par 
+\par 
+\par }{\b\f36\fs28\ul\insrsid12149657 
+\par }{\b\f36\fs28\ul\insrsid15358304\charrsid6518590 FORFAIT CHAUFFAGE GITES
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15358304 {\f36\insrsid15358304\charrsid15358304 
+\par Monsieur le Maire pr\'e9cise \'e0 l\rquote assembl\'e9e que dans les contrats de location des g\'eetes forestiers communaux un suppl\'e9ment pour le chauffage est pr\'e9vu. Il convient donc d\rquote en fixer le montant.
+\par 
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, le Conseil Municipal d\'e9cide des tarifs  forfaitaires suivants\~:
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15358304 {\b\f36\ul\insrsid15358304\charrsid15358304 G\'eete 6 personnes}{\b\f36\insrsid15358304\charrsid15358304 \~: 100 \'80 /mois
+\par }{\b\f36\ul\insrsid15358304\charrsid15358304 G\'eete 4 personnes}{\b\f36\insrsid15358304\charrsid15358304 \~:   80 \'80/mois
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15358304 {\f36\insrsid15358304\charrsid15358304 
+\par Ces sommes seront r\'e9clam\'e9es pour la p\'e9riode du 1}{\f36\super\insrsid15358304\charrsid15358304 er}{\f36\insrsid15358304\charrsid15358304  octobre au 30 avril et calcul\'e9es au prorata de la p\'e9riode de location.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11280403 {\f36\insrsid6954205 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6954205 {\b\f36\fs28\ul\insrsid6954205\charrsid4416242 BUDGET PRINCIPAL COMMUNE}{\b\f36\fs28\ul\insrsid6954205  - }{\b\f36\fs28\ul\insrsid6954205\charrsid4416242 
+DECISION MODIFICATIVE N\'b0 3
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6954205 {\f36\insrsid6954205 
+\par Monsieur le Maire explique \'e0 l\rquote assembl\'e9e qu\rquote il est \'e0 nouveau n\'e9cessaire, suite aux ventes de bois consenties \'e0 la COFOGAR, d\rquote effectuer une modification budg\'e9taire afin de pr\'e9
+voir les 10 % de retenue pour la constitution d\rquote un fonds de garantie stockage conform\'e9ment aux accords du SYSSO. Il propose donc les modifications suivantes\~:
+\par 
+\par }{\b\f36\ul\insrsid6954205\charrsid4416242 DEPENSES 
+\par }{\f36\insrsid6954205 Compte 2764 \endash  Cr\'e9ances sur des particuliers et autres personnes de droit priv\'e9\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85+5\~000 \'80
+
+\par }{\b\f36\ul\insrsid6954205 
+\par }{\b\f36\ul\insrsid6954205\charrsid4416242 RECETTES
+\par }{\f36\insrsid6954205 Compte 2764 - Cr\'e9ances sur des particuliers et autres personnes de droit priv\'e9 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..  + 5\~000 \'80
+\par 
+\par Le Conseil Municipal, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9 des membres pr\'e9sents accepte la modification budg\'e9taire propos\'e9e tel que ci-dessus.
+\par }{\f36\insrsid12149657 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7824855 {\b\f36\fs28\ul\insrsid7824855\charrsid15155266 BUDGET PRINCIPAL COMMUNE}{\b\f36\fs28\ul\insrsid7824855  - DECISION MODIFICATIVE N\'b0 3 (Suite)}{
+\b\f36\fs28\ul\insrsid7824855\charrsid15155266 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7824855 {\f36\insrsid7824855\charrsid15155266 
+\par Monsieur le Maire explique \'e0 l\rquote assembl\'e9e qu\rquote \'e0 \'e9ch\'e9ance du 1}{\f36\super\insrsid7824855\charrsid15155266 er}{\f36\insrsid7824855\charrsid15155266  novembre 2009 un emprunt communal a \'e9t\'e9 d\'e9bit\'e9 d\rquote 
+office. Cependant, cet emprunt }{\b\f36\insrsid7824855\charrsid15155266 \'e0 taux}{\f36\insrsid7824855\charrsid15155266  }{\b\f36\insrsid7824855\charrsid15155266 variable}{\f36\insrsid7824855\charrsid15155266  n\'e9cessite, afin de pouvoir \'e9
+mettre le mandat de r\'e9gularisation, l\rquote augmentation des pr\'e9visions de l\rquote article 6611 (int\'e9r\'eat des emprunts) pour un montant de 1\~100 \'80.}{\f36\insrsid7824855 
+\par Il propose donc la modification suivante\~:}{\f36\insrsid7824855\charrsid15155266 
+\par 
+\par Article 61558 \endash  R\'e9parations sur autres mat\'e9riels \'85\'85\'85\'85\'85\'85\'85\'85   - 1\~100 \'80
+\par Article 6611 \endash  Int\'e9r\'eats des emprunts \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..   + 1\~100 \'80
+\par 
+\par }{\f36\insrsid7824855 Par ailleurs, afin de constater le montant des travaux effectu\'e9s en r\'e9gie sur les salles de l\rquote Etang des Forges, une d\'e9cision modificative telle que ci-dessous est n\'e9cessaire\~:
+\par 
+\par }{\b\f36\ul\insrsid7824855\charrsid5525269 SECTION D\rquote INVESTISSEMENT
+\par }{\f36\insrsid7824855 
+\par Article 2132 (op\'e9ration r\'e9elle) \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..  \endash  15\~052 \'80
+\par Article 2132-040 (op\'e9ration d\rquote ordre budg\'e9taire) \'85\'85\'85\'85  + 15\~052 \'80
+\par 
+\par }{\b\f36\ul\insrsid7824855\charrsid5525269 SECTION DE FONCTIONNEMENT
+\par }{\f36\insrsid7824855 
+\par Article 7022 (op\'e9ration r\'e9elle) \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85. \endash  15\~052 \'80
+\par Article 722-042 (op\'e9ration d\rquote ordre budg\'e9taire) \'85\'85\'85\'85. +\~15\~052 \'80
+\par 
+\par Le Conseil Municipal, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9 accepte les modifications budg\'e9taires telles que ci-dessus d\'e9taill\'e9es.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12149657 {\b\f36\fs28\ul\insrsid7824855 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11280403 {\b\f36\fs28\ul\insrsid11280403\charrsid11280403 REGIME INDEMNITAIRE}{\b\f36\fs28\ul\insrsid11280403 
+\par }{\b\f36\fs28\ul\insrsid11351220 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11351220 {\b\f36\insrsid11351220\charrsid1710125 Le Conseil Municipal,
+\par }{\f36\insrsid11351220\charrsid11477018 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11351220 {\b\f36\insrsid11351220\charrsid14026645 VU}{\f36\insrsid11351220\charrsid11477018  la loi n\'b0 84-53 du 26 janvier 1984}{\f36\insrsid11351220 
+ portant dispositions statutaires relatives \'e0 la Fonction Publique Territoriale et notamment l\rquote article 88\~;
+\par 
+\par }{\b\f36\insrsid11351220\charrsid14026645 VU }{\f36\insrsid11351220 le d\'e9cret n\'b0 91-875 du 6 septembre 1991 pris pour l\rquote application du 1}{\f36\super\insrsid11351220\charrsid11477018 er}{\f36\insrsid11351220  alin\'e9a de l\rquote 
+article 88 de la loi du 26 janvier 1984\~;
+\par 
+\par }{\b\f36\insrsid11351220\charrsid14026645 VU}{\f36\insrsid11351220  le d\'e9cret n\'b0 2002-61 du 14 janvier 2002 relatif \'e0 l\rquote Indemnit\'e9 d\rquote Administration et de Technicit\'e9 et de l\rquote arr\'eat\'e9 interminist\'e9riel du 14 janvi
+er 2002 fixant les montants de r\'e9f\'e9rence de l\rquote Indemnit\'e9 d\rquote Administration et de Technicit\'e9\~;
+\par 
+\par }{\b\f36\insrsid11351220\charrsid14026645 VU }{\f36\insrsid11351220 le d\'e9cret n\'b0 2002-63 du 14 janvier 2002 relatif \'e0 l\rquote Indemnit\'e9 Forfaitaire pour Travaux Suppl\'e9mentaires des services d\'e9concentr\'e9s et de l\rquote arr\'eat\'e9
+ interminist\'e9riel du 14 janvier 2002 fixant les montants annuels de l\rquote Indemnit\'e9 Forfaitaire pour Travaux Suppl\'e9mentaires\~;
+\par 
+\par }{\b\f36\insrsid11351220\charrsid14026645 VU}{\f36\insrsid11351220  le d\'e9cret n\'b0 2003-1013 du 23 octobre 2003\~;
+\par 
+\par }{\b\f36\insrsid11351220\charrsid14026645 CONSIDERANT}{\f36\insrsid11351220  les montant annuels maxima pr\'e9vus par les textes susvis\'e9s\~;
+\par 
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, }{\b\f36\insrsid11351220\charrsid14026645 DECIDE\~}{\f36\insrsid11351220 :
+\par 
+\par {\listtext\pard\plain\f36\insrsid11351220 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid11351220 {\f36\insrsid11351220 d\rquote instituer le r\'e9
+gime indemnitaire suivant au profit des agents de la commune\~:
+\par {\listtext\pard\plain\f36\insrsid7097138 \hich\af36\dbch\af0\loch\f36 -\tab}}{\f36\insrsid7097138 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11351220 {\f36\insrsid11351220 
+\par }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 161 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid11351220  }{\b\f36\ul\insrsid11351220\charrsid13261997 INDEMNITE D\rquote ADMINISTRATION ET DE TECHNICITE (I.A.T.)
+\par }{\f36\insrsid11351220 
+\par    }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid11351220  }{\b\f36\ul\insrsid11351220\charrsid13261997 Agent de Ma\'eetrise Principal}{\f36\insrsid11351220 \~
+: taux moyen annuel auquel sera appliqu\'e9 }{\b\f36\insrsid11351220\charrsid13261997 un coefficient multiplicateur de 2,5.
+\par }{\f36\insrsid11351220    }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid11351220  }{\b\f36\ul\insrsid11351220\charrsid13261997 Agents de cat\'e9gorie C \'e9chelle 3}{\f36\insrsid11351220 
+ (Adjoints Techniques de 2}{\f36\super\insrsid11351220\charrsid13261997 \'e8me}{\f36\insrsid11351220  classe)\~: taux moyen annuel auquel sera appliqu\'e9 }{\b\f36\insrsid11351220\charrsid13261997 un coefficient multiplicateur de 2\~,5.}{
+\b\f36\insrsid11351220 
+\par 
+\par }{\b\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 161 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\b\f36\insrsid11351220  }{\b\f36\ul\insrsid11351220\charrsid13261997 INDEMNITES FORFAITAIRES POUR TRAVAUX SUPPLEMENTAIRES}{\b\f36\insrsid11351220 
+           
+\par    (I.F.T.S. de deuxi\'e8me cat\'e9gorie)
+\par 
+\par }{\b\f36\ul\insrsid11351220\charrsid13261997 B\'e9n\'e9ficiaires}{\b\f36\insrsid11351220 \~: }{\f36\insrsid11351220 Agents relevant des cadres d\rquote emplois de cat\'e9gorie A appartenant \'e0 un grade dont l\rquote indice brut terminal est au plus \'e9
+gal \'e0 l\rquote indice brut 780.
+\par 
+\par      }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid11351220  }{\b\f36\ul\insrsid11351220\charrsid14026645 Secr\'e9taire de Mairie}{\f36\insrsid11351220 \~
+: taux moyen annuel auquel sera appliqu\'e9 }{\b\f36\insrsid11351220\charrsid14026645 un coefficient multiplicateur de 2.}{\f36\insrsid11351220 
+\par 
+\par }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 80 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid11351220  Les indemnit\'e9s vers\'e9es aux agents \'e0 temps non complet seront calcul\'e9es au prorata de leur temps de travail hebdomadaire.
+
+\par }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 80 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid11351220  Les taux des indemnit\'e9s \'e9volueront dans les m\'eames conditions que la r\'e9mun\'e9ration des fonctionnaires, da
+ns la limite des maxima r\'e9glementaires.
+\par }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 80 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid11351220  Les agents non titulaires percevront la prime pr\'e9vue pour le cadre d\rquote emploi correspondant \'e0 leur emploi, dans les m\'ea
+mes conditions que les titulaires.
+\par }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 80 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid11351220  Ces indemnit\'e9s seront vers\'e9es annuellement.
+\par }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 80 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid11351220  Monsieur le Maire est charg\'e9 de fixer, par arr\'eat\'e9, le montant individuel attribu\'e9 \'e0 chacun sans aucun crit\'e8re d
+\rquote attribution.
+\par }{\f36\insrsid11351220 {\field{\*\fldinst SYMBOL 80 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid11351220  La pr\'e9sente d\'e9lib\'e9ration prend effet \'e0 compter de ce jour.
+\par }{\f36\insrsid1792091 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1792091 {\b\f36\fs28\ul\insrsid1792091\charrsid1792091 PRIME POUR LES AGENTS RELEVANT DE CONTRATS DE DROIT PRIVE
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1792091 {\b\f36\fs28\ul\insrsid1792091\charrsid1792091 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1792091 {\f36\insrsid1792091 Sur proposition du Maire, le Conseil Municipal, \'e0 l\rquote unanimit\'e9, d\'e9
+cide pour 2009 de verser une prime aux agents relevant de contrats de droit priv\'e9 ainsi qu\rquote il suit\~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid1792091 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\adjustright\rin0\lin720\itap0\pararsid1792091 {\f36\insrsid1792091 CAE Temp\'ea
+te (temps complet) = }{\b\f36\insrsid1792091\charrsid6518590 1\~103,80 \'80
+\par {\listtext\pard\plain\f36\insrsid1792091 \hich\af36\dbch\af0\loch\f36 -\tab}}{\f36\insrsid1792091 CAE Agent d\rquote Entretien (30 heures/semaine) = }{\b\f36\insrsid1792091\charrsid6518590 946,09 \'80}{\b\f36\insrsid1792091 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1792091 {\b\f36\insrsid1792091 
+\par }{\f36\insrsid1792091 Cette prime sera vers\'e9e avec le salaire du mois de d\'e9cembre.
+\par }{\f36\insrsid7097138 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7097138 {\b\f36\fs28\ul\insrsid7097138\charrsid6049311 CL}{\b\f36\fs28\ul\insrsid7097138 \'d4}{\b\f36\fs28\ul\insrsid7097138\charrsid6049311 TURE DU BUDGET ANNEXE}{
+\b\f36\fs28\ul\insrsid7097138  }{\b\f36\fs28\ul\insrsid7097138\charrsid6049311  DU LOTISSEMENT DE L\rquote ESPERANCE
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7097138 {\b\f36\fs28\ul\insrsid7097138\charrsid6049311 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7097138 {\f36\insrsid7097138 Monsieur le Maire expose au Conseil Municipal que la balance du budget annexe du Lotissement de l\rquote Esp\'e9rance \'e9tant \'e0 z\'e9
+ro, il convient de le cl\'f4turer.
+\par 
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9 des membres pr\'e9sents, le Conseil Municipal d\'e9cide de cl\'f4turer le compte du budget annexe du Lotissement de l\rquote Esp\'e9rance.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11351220 {\f36\insrsid1792091 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11940906 {\b\f36\fs28\ul\insrsid11940906\charrsid16063668 ADHESION A L\rquote ASSOCIATION DES}{\b\f36\fs28\ul\insrsid11940906  }{
+\b\f36\fs28\ul\insrsid11940906\charrsid16063668 COMMUNES}{\b\f36\fs28\ul\insrsid7097138  }{\b\f36\fs28\ul\insrsid11940906 F}{\b\f36\fs28\ul\insrsid11940906\charrsid16063668 ORESTIERES SINISTREES DU SUD-OUEST
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11940906 {\f36\insrsid11940906 Monsieur le Maire expose ce qui suit\~:
+\par 
+\par Qu\rquote au terme d\rquote une r\'e9union qui s\rquote est tenue le quatorze novembre deux mil neuf \'e0 Labrit, l\rquote ensemble des Maires ou repr\'e9sentants des Communes Foresti\'e8res pr\'e9sents, ont pris la d\'e9cision de cr\'e9
+er une association Loi 1901, sous l\rquote intitul\'e9 suivant\~: \'ab\~Association des Communes Foresti\'e8res sinistr\'e9es du Sud Ouest\~\'bb.
+\par 
+\par L\rquote adh\'e9sion du plus grand nombre devrait permettre d\rquote assurer la repr\'e9sentativit\'e9 de cette Association dont l\rquote un des objectifs essentiels tient au respect d\rquote une parfaite \'e9galit\'e9 de toutes les communes dans la r\'e9
+partition des aides de l\rquote Etat.
+\par 
+\par En effet, la temp\'eate Klaus du vingt-quatre janvier deux mil neuf a entra\'een\'e9 la mise en place d\rquote aides directes ou indirectes, notamment pour le nettoyage et la reconstitution du patrimoine forestier.
+\par 
+\par Mais, \'e0 l\rquote heure actuelle, ces aides seraient seulement r\'e9serv\'e9es aux seules communes relevant du r\'e9gime forestier. Une telle situation parfaitement discriminatoire ne saurait \'eatre admise.
+\par 
+\par Il est demand\'e9, dans ces conditions, au Conseil Municipal d\rquote autoriser Monsieur le Maire \'e0 adh\'e9rer \'e0 ladite association dont les statuts ont \'e9t\'e9 approuv\'e9s \'e0 l\rquote unanimit\'e9 lors de l\rquote Assembl\'e9
+e Constitutive du quatorze novembre deux mil neuf.
+\par 
+\par Entendu l\rquote expos\'e9 de Monsieur le Maire,
+\par 
+\par Vu les statuts \'e9tablis le quatorze novembre deux mil neuf,
+\par 
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, le Conseil Municipal\~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid11940906\charrsid16063668 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid11940906 {
+\b\f36\insrsid11940906\charrsid16063668 SE PRONONCE}{\f36\insrsid11940906  }{\b\f36\insrsid11940906\charrsid16063668 pour l\rquote adh\'e9sion}{\f36\insrsid11940906  de la commune de Brocas \'e0 l\rquote Association des Communes Foresti\'e8res sinistr\'e9
+es du Sud-Ouest et }{\b\f36\insrsid11940906\charrsid16063668 approuve}{\f36\insrsid11940906  ses statuts.
+\par {\listtext\pard\plain\f36\insrsid11940906\charrsid16063668 \hich\af36\dbch\af0\loch\f36 -\tab}}{\b\f36\insrsid11940906\charrsid16063668 DONNE POUVOIR}{\f36\insrsid11940906  \'e0 Monsieur le Maire pour signer tout document relatif \'e0 cette adh\'e9sion.
+
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707 
+\par }\pard \ql \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\b\f36\fs28\ul\insrsid7097138 
+\par 
+\par 
+\par CARRIERE A CIEL OUVERT\~: CONTRAT DE FORTAGE
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3373236 {\b\f36\fs28\ul\insrsid7097138 
+\par }{\f36\insrsid7097138 Monsieur le Maire rappelle \'e0 l\rquote assembl\'e9e que le contrat de fortage liant la commune \'e0 l\rquote entreprise IZCO arrive}{\f36\insrsid3373236 ra}{\f36\insrsid7097138  \'e0 \'e9ch\'e9ance fin 2010.
+\par Monsieur IZCO est venu en Mairie, accompagn\'e9 de Ma\'eetre de Brisis pour exposer }{\f36\insrsid3373236 ses propositions dans le cadre d\rquote un nouveau contrat.}{\f36\insrsid7097138 
+\par }{\f36\insrsid3373236 Il a d\rquote ores et d\'e9j\'e0 avanc\'e9 son souhait de d\'e9velopper l\rquote exploitation de la carri\'e8re sur 25 hectares suppl\'e9mentaires et pr\'e9cis\'e9 qu\rquote 
+il avait 20 personnes productive de taxe professionnelle sur Brocas.
+\par Monsieur le Maire insiste sur le fait que pour poser nos conditions avec Monsieur IZCO, il faut avoir des bases de discussion qui pour l\rquote heure nous font d\'e9faut et notamment concernant le futur volume de pierre \'e0 extraire.
+\par Un relev\'e9 g\'e9ologique annuel serait plus fiable que le syst\'e8me du pont bascule.
+\par Il conviendrait \'e9galement de fixer un volume minimum d\rquote extraction annuel.
+\par Monsieur IZCO a \'e9galement propos\'e9 des r\'e8glements mensuels ou trimestriels plut\'f4t qu\rquote annuels.
+\par Le Conseil Municipal, entendu l\rquote expos\'e9 est d\rquote accord pour qu\rquote il soit expliqu\'e9 \'e0 Monsieur IZCO que des n\'e9gociations seront engag\'e9es pour qu\rquote aucune des parties ne soit l\'e9s\'e9e.
+\par Par ailleurs, comme le pr\'e9voit la convention de fortage encore en vigueur, une indexation \'e9tablie sur l\rquote indice INSEE du co\'fbt de la construction sera r\'e9clam\'e9e}{\f36\insrsid9777054  pour les volumes extraits au titre des ann\'e9es
+ 2009 et 2008.}{\f36\insrsid3373236  }{\f36\insrsid3373236\charrsid7097138 
+\par }{\b\f36\fs28\ul\insrsid7097138 
+\par }\pard \ql \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\b\f36\fs28\ul\insrsid9777054 DOSSIER PHOTOVOLTA\'cfQUE}{\b\f36\fs28\ul\insrsid7097138 
+\par }{\b\f36\fs28\ul\insrsid9777054 
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9777054 {\f36\insrsid9777054 Monsieur Jean-Luc BLANC-SIMON rapporte qu\rquote \'e0 ce jour, trois soci\'e9t\'e9s ont sollicit\'e9 la commune pour l\rquote 
+implantation de panneaux photovolta\'efques, au sol, sur les terrains communaux choisis. Il s\rquote agit des op\'e9rateurs suivants\~:
+\par 
+\par }{\f36\insrsid9777054 {\field{\*\fldinst SYMBOL 115 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid9777054  }{\b\f36\insrsid9777054\charrsid11300677 EDF Energie Nouvelle (EDF-EN)}{\f36\insrsid9777054 \~: est int\'e9ress\'e9e pour implanter sa 
+\'ab\~ferme photovolta\'efque\~\'bb sur le site de Sinl\'e8res/Tr\'e9p\'e9d\'e8s sur une surface d\rquote environ 180 hectares. Ce site est spacieux, proche du poste source de Garein (6,7 kms) auquel devra \'eatre raccord\'e9
+e toute implantation photovolta\'efque et \'e0 \'ab\~l\rquote avantage\~\'bb d\rquote \'eatre fortement impact\'e9 par la temp\'eate du 24 janvier dernier.
+\par Apr\'e8s discussions avec Monsieur Galen, repr\'e9sentant ladite soci\'e9t\'e9, le loyer serait de 2\~500 \'80 par hectare et par an. Par ailleurs EDF-EN s\rquote engage \'e0 financer, sans limite de plafond un temps \'e9voqu\'e9
+, le boisement compensatoire n\'e9cessaire pour mener \'e0 bien un tel projet.
+\par 
+\par }{\f36\insrsid9777054 {\field{\*\fldinst SYMBOL 115 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid11300677  }{\b\f36\insrsid9777054\charrsid11300677 Nass et Wind (NW)}{\f36\insrsid9777054 \~: est \'e9galement int\'e9ress\'e9
+e par le site de Sinl\'e8res/Tr\'e9p\'e9d\'e8s. A ce jour, NW serait pr\'eat \'e0 payer un loyer de 2\~500 \'80 par hectare cl\'f4tur\'e9 et par an. Autre possibilit\'e9, NW pourrait payer un loyer non pas bas\'e9
+ sur la surface mais sur le potentiel de production install\'e9. Ce syst\'e8me pourrait permettre d\rquote \'e9tablir un loyer pouvant aller jusqu\rquote \'e0 3\~500 \'80 par hectare et par an.
+\par }{\f36\insrsid11300677 Au fil des conversations avec les interlocuteurs repr\'e9sentant la soci\'e9t\'e9 Nass et Wind, en l\rquote occurrence Messieurs Dorredon et Neumann, NW se dit pr\'eate \'e0 s\rquote investir dans des projets de d\'e9
+veloppement de Brocas. Ont \'e9t\'e9 \'e9voqu\'e9}{\f36\insrsid409093 e}{\f36\insrsid11300677 s\~: la restauration du Mus\'e9e des Forges, la r\'e9alisation d\rquote une salle de conf\'e9rence \'e0 l\rquote \'e9tang, voire la restauration de l\rquote \'e9
+glise sous forme, pourquoi pas, de m\'e9c\'e9nat ou autre.
+\par NW est \'e9galement pr\'eat \'e0 suivre le dossier de boisement compensatoire et \'e0 indemniser la commune \'e0 hauteur de 200 \'80 par hectare et par an pour le temps n\'e9cessaire d\rquote 
+immobilisation des terrains entre la signature de la promesse de bail et le d\'e9but des travaux d\rquote implantation des panneaux.
+\par 
+\par }{\f36\insrsid11300677 {\field{\*\fldinst SYMBOL 115 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid11300677  }{\b\f36\insrsid11300677\charrsid11300677 Exosun}{\f36\insrsid11300677 \~: Entreprise bas\'e9e pr\'e8s de L\'e9ognan. 
+Messieurs Conchy repr\'e9sentants de la soci\'e9t\'e9 sont avant tout des industriels de la fili\'e8re et ont, \'e0 ce titre, confectionn\'e9 la premi\'e8re centrale photovolta\'efque de France inaugur\'e9e en 2008 \'85\'85 devant leurs bureaux\~! 
+Ils sont \'e9galement les concepteurs des panneaux \'ab\~trackers\~\'bb qui suivent \'e0 course du soleil et ont ainsi une meilleure productivit\'e9. En partenariat avec EDF EN, Exosun a r\'e9alis\'e9 une partie (10 hectares) de la ferme photovolta\'ef
+que du Gabardan en trackers.
+\par Messieurs Conchy sont \'e0 ce jour pr\'eats \'e0 diff\'e9rentes hypoth\'e8ses\~: soit travailler sur le site Sinl\'e8res/Tr\'e9p\'e9d\'e8s en partenariat avec EDF-EN ou Nass et Wind qui, l\rquote un ou l\rquote autre pourrait}{\f36\insrsid409093  leur r
+\'e9server une partie de leurs installations, soit d\'e9velopper eux-m\'eames leur propre projet \'e0 Sinl\'e8res/Tr\'e9p\'e9d\'e8s sur une quarantaine d\rquote hectares ou de part et d\rquote autre de la piste d\rquote Angueys (ce site est pour eux tr
+\'e8s int\'e9ressant car proche du poste source de Garein\~: 5,8 kms).}{\f36\insrsid11300677 
+\par }{\f36\insrsid409093 
+\par Monsieur Blanc-Simon termine en expliquant que les discussions avec les diff\'e9rents interlocuteurs ci-dessus nomm\'e9s vont se poursuivre afin de peser tous les param\'e8tres qui permettront \'e0 l\rquote \'e9quipe municipale de s\rquote 
+engager avec une ou plusieurs de ces soci\'e9t\'e9s.
+\par 
+\par Avant de signer la ou les promesses de bail, le Conseil Municipal d\'e9cide de tenir, au pr\'e9alable, une r\'e9union d\rquote information pour les Brocassaises et les Brocassais le mardi 15 d\'e9cembre 2009 \'e0 20 heures \'e0 la salle des f\'ea
+tes de la Mairie.
+\par }{\f36\insrsid11300677  }{\f36\insrsid11300677\charrsid9777054 
+\par }\pard \ql \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\b\f36\fs28\ul\insrsid2193707\charrsid1196591 PROJET DE CHANTIER BENEVOLE PATRIMONIAL}{\b\f36\fs28\ul\insrsid2193707 
+\par }{\b\f36\fs28\ul\insrsid2193707\charrsid1196591 
+\par }\pard \qj \li0\ri0\sb113\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707\charrsid1196591 Ce projet a d\'e9j\'e0 \'e9t\'e9 \'e9voqu\'e9 en Conseil Municipal.
+\par Ce chantier vise \'e0 construire un b\'e2timent, de type bergerie traditionnelle landaise\~\'bb sur le site de l'\'e9tang, afin de permettre l'exercice d'activit\'e9s de loisirs par tous les temps.
+\par Les b\'e9n\'e9voles de l'association Brocas P\'e9tanque se sont mobilis\'e9s pour \'e9laborer le projet architectural pour lequel l'ABF a donn\'e9 un avis favorable.
+\par Les b\'e9n\'e9voles ont manifest\'e9 leur souhait de s'impliquer dans la r\'e9alisation de cette bergerie, en r\'e9alisant eux-m\'eames les travaux de construction.
+\par Au vu de cet investissement citoyen d'une trentaine d'habitants et de la qualit\'e9 du projet, en coh\'e9rence avec la d\'e9marche de mise en valeur du site de l'\'e9tang, le Maire propose que la Mairie soutienne cette action en prenant \'e0
+ sa charge la fourniture des mat\'e9riaux et en \'e9tant garante de la s\'e9curit\'e9 du chantier et de la conformit\'e9 de la r\'e9alisation \'e0 la r\'e9glementation.
+\par }{\f36\insrsid2193707 I}{\f36\insrsid2193707\charrsid1196591 l est pr\'e9cis\'e9 que ce local sera mis gratuitement \'e0 disposition de l'association Brocas P\'e9tanque, afin de lui permettre de cr\'e9er une \'e9cole de p\'e9tanque, mais il pourra aussi 
+\'eatre utilis\'e9 pour d'autres activit\'e9s (expositions, stages artistiques etc.).
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707\charrsid1196591 
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, le Conseil municipal d\'e9cide :
+\par 
+\par {\listtext\pard\plain\f3\insrsid2193707\charrsid1196591 \loch\af3\dbch\af0\hich\f3 \'2d\tab}}\pard \qj \fi-360\li720\ri0\nowidctlpar\jclisttab\tx720\hyphpar0\aspnum\faauto\ls5\adjustright\rin0\lin720\itap0\pararsid2193707 {
+\f36\insrsid2193707\charrsid1196591 de s'engager dans ce chantier pour un total d'investissement estim\'e9 \'e0 19 771 euros HT (23 646,77 euros TTC), dont le plan de financement g\'e9n\'e9ral s\rquote \'e9tablit comme suit\~:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707\charrsid1196591 
+\par           Autofinancement  taux :  71,14 %      :      14}{\f36\insrsid2193707  }{\f36\insrsid2193707\charrsid1196591 065,30  \'80    
+\par           Subvention           taux :  26,21 %     :         5}{\f36\insrsid2193707  }{\f36\insrsid2193707\charrsid1196591 182,32  \'80 
+\par           Total                     taux : 100,00 %    :       19}{\f36\insrsid2193707  }{\f36\insrsid2193707\charrsid1196591 771,00  \'80
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707\charrsid1196591 
+\par {\listtext\pard\plain\f3\insrsid2193707\charrsid1196591 \loch\af3\dbch\af0\hich\f3 \'2d\tab}}\pard \qj \fi-360\li720\ri0\nowidctlpar\jclisttab\tx720\hyphpar0\aspnum\faauto\ls5\adjustright\rin0\lin720\itap0\pararsid2193707 {
+\f36\insrsid2193707\charrsid1196591 de solliciter une aide LEADER d'un montant de 5 182,32 euros, \'e0 l'appui du plan de financement suivant :
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707\charrsid1196591 
+\par }\trowd \irow0\irowband0\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil \cellx2907\clvertalt\clbrdrt\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt
+\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb
+\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil \cellx7700\clvertalt\clbrdrt\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\pard \qc \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\b\f36\insrsid2193707\charrsid1196591 POSTES DE DEPENSES
+\par ELIGIBLES\cell }{\b\f36\fs22\insrsid2193707\charrsid1196591 MONTANT\cell }{\b\f36\insrsid2193707\charrsid1196591 FINANCEMENT\cell TAUX\cell }{\b\f36\fs22\insrsid2193707\charrsid1196591 MONTANT\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f36\insrsid2193707\charrsid1196591 \trowd \irow0\irowband0\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt
+\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil \cellx2907\clvertalt\clbrdrt\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb
+\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil \cellx7700\clvertalt\clbrdrt
+\brdrs\brdrw20\brdrcf1 \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\row }\trowd \irow1\irowband1
+\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil 
+\cellx2907\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb
+\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil 
+\cellx7700\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\pard 
+\qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 Tuile}{\f36\insrsid2193707 s}{\f36\insrsid2193707\charrsid1196591  canal\cell }\pard 
+\qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 4 348,00\cell }\pard \qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {
+\f36\insrsid2193707\charrsid1196591 LEADER\cell }\pard \qc \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\fs22\insrsid2193707\charrsid1196591 55,00%\cell }\pard 
+\qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 5\~182,32\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f36\insrsid2193707\charrsid1196591 
+\trowd \irow1\irowband1\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil \cellx2907\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrtbl \clbrdrl
+\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil \cellx7700\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\row }\pard 
+\qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 Sciage et traitement bois\cell }\pard \qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {
+\f36\insrsid2193707\charrsid1196591 2 730,40\cell }\pard \qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 Autofinancement\cell }\pard 
+\qc \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\fs22\insrsid2193707\charrsid1196591 45,00%\cell }\pard \qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {
+\f36\insrsid2193707\charrsid1196591 4\~240,08\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f36\insrsid2193707\charrsid1196591 \trowd \irow2\irowband2
+\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil 
+\cellx2907\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb
+\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil 
+\cellx7700\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\row }\pard 
+\qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 S\'e9chage bois\cell }\pard \qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {
+\f36\insrsid2193707\charrsid1196591 1 856,00\cell }\pard \qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 \cell }\pard 
+\qc \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 \cell }\pard \qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 
+\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f36\insrsid2193707\charrsid1196591 \trowd \irow3\irowband3\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt
+\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil \cellx2907\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr
+\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrtbl 
+\clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil \cellx7700\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\row }\pard \qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 Coloration bois\cell }\pard 
+\qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 488,00\cell }\pard \qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {
+\f36\insrsid2193707\charrsid1196591 \cell }\pard \qc \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 \cell }\pard 
+\qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f36\insrsid2193707\charrsid1196591 
+\trowd \irow4\irowband4\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil \cellx2907\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrtbl \clbrdrl
+\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil \cellx7700\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw5\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\row 
+}\trowd \irow5\irowband5\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil \cellx2907\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrtbl \clbrdrl
+\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil \cellx7700\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\pard 
+\qj \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 \cell }\pard \qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 
+\cell }\pard \ql \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 \cell }\pard \qc \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {
+\f36\insrsid2193707\charrsid1196591 \cell }\pard \qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\f36\insrsid2193707\charrsid1196591 \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f36\insrsid2193707\charrsid1196591 \trowd \irow5\irowband5\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt
+\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil \cellx2907\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrtbl \clbrdrl
+\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil \cellx7700\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\row }\pard \qr \li0\ri72\widctlpar\intbl\aspnum\faauto\adjustright\rin72\lin0\pararsid13859778 {\b\f36\insrsid2193707\charrsid1196591 TOTAL \cell 9\~422,40\cell TOTAL\cell 100%\cell }{
+\b\f36\insrsid2193707  }{\b\f36\insrsid2193707\charrsid1196591 9\~422,40\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f36\insrsid2193707\charrsid1196591 \trowd \irow6\irowband6\lastrow 
+\ts11\trrh263\trleft0\trftsWidth1\trpaddl70\trpaddr70\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2907\clshdrawnil 
+\cellx2907\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1446\clshdrawnil \cellx4353\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb
+\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth2253\clshdrawnil \cellx6606\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1094\clshdrawnil 
+\cellx7700\clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrs\brdrw20\brdrcf1 \clbrdrb\brdrs\brdrw20\brdrcf1 \clbrdrr\brdrs\brdrw20\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1439\clshdrawnil \cellx9139\row }\pard 
+\qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707\charrsid1196591 
+\par {\listtext\pard\plain\f3\insrsid2193707\charrsid1196591 \loch\af3\dbch\af0\hich\f3 \'2d\tab}}\pard \qj \fi-360\li720\ri0\nowidctlpar\jclisttab\tx720\hyphpar0\aspnum\faauto\ls5\adjustright\rin0\lin720\itap0\pararsid2193707 {
+\f36\insrsid2193707\charrsid1196591 donne pouvoir \'e0 Monsieur le Maire pour signer tout document relatif \'e0 la conduite de ce projet}{\f36\insrsid409093 .}{\f36\insrsid2193707 
+\par }\pard \qj \li0\ri0\nowidctlpar\hyphpar0\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid409093 {\b\f36\fs28\ul\insrsid409093\charrsid409093 
+\par DROITS DE PREEMPTION}{\f36\insrsid409093 
+\par 
+\par Monsieur le Maire informe qu\rquote il a \'e9t\'e9 destinataire de deux d\'e9clarations d\rquote intention d\rquote ali\'e9ner des biens soumis \'e0 droit de pr\'e9emption. En l\rquote occurrence l\rquote immeuble appartenant \'e0
+ la succession de Monsieur Robert LOULOUM et l\rquote immeuble appartenant \'e0 Monsieur Philippe LABADIE.
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, le Conseil Municipal d\'e9cide de ne pas faire valoir le droit de pr\'e9emption de la commune pour la vente de ces deux biens.
+\par }{\f36\insrsid6440906 
+\par 
+\par 
+\par }{\f36\insrsid409093 
+\par }{\b\f36\fs28\ul\insrsid409093\charrsid409093 DOSSIER \'ab\~MALABAT\~\'bb
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707 
+\par }{\f36\insrsid6440906 Il est expos\'e9 que Monsieur Pascal Fasolo souhaiterait faire un \'e9levage de \'ab\~poulets libert\'e9\~\'bb qui n\'e9cessite du foncier.}{\f36\insrsid10826980  Pour ce faire, il serait int\'e9ress\'e9 par l\rquote 
+achat ou la location de 30 hectares suppl\'e9mentaires sur lesquels il y encore des pins.}{\f36\insrsid409093 
+\par }{\f36\insrsid10826980 Monsieur Fasolo dispose d\'e9j\'e0 de 52 hectares cl\'f4tur\'e9s pour l\rquote \'e9levage des toros, de 18 hectares \'e0 \'ab\~Gouhuron\~\'bb et d\rquote une trentaine d\rquote hectares \'e0 Malabat.
+\par Apr\'e8s discussions, il est d\'e9cid\'e9 qu\rquote il sera propos\'e9 \'e0 Monsieur Fasolo la vente d\rquote une partie de la parcelle cadastr\'e9e section A N\'b0 623 qui contient tout de m\'eame 19 hectares et qu\rquote 
+en aucun cas cette parcelle ne fera l\rquote objet d\rquote une location par le biais de quelque bail que ce soit.
+\par A ce sujet, il convient de faire payer \'e0 Monsieur Fasolo, comme il le faisait au pr\'e9alable aupr\'e8s de Monsieur S}{\f36\insrsid2906818 aubesty}{\f36\insrsid10826980 , la location des immeubles qui repr\'e9sentent la ganaderia \'ab\~M}{
+\f36\insrsid2906818 a}{\f36\insrsid10826980 labat\~\'bb et ce, avec effet r\'e9troactif}{\f36\insrsid2906818  depuis le legs consenti \'e0 la commune par Monsieur Saubesty.}{\f36\insrsid10826980 
+\par }{\f36\insrsid2906818 
+\par }{\b\f36\fs28\ul\insrsid2906818\charrsid8074964 AVANCEMENT DES PROJETS COMMUNAUTAIRES
+\par }{\f36\insrsid2906818 
+\par {\listtext\pard\plain\f36\insrsid2906818 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid2906818 {\f36\insrsid2906818 Station d\rquote Epuration\~:
+ nous ne poss\'e9dons toujours par l\rquote autorisation de d\'e9fricher au regard d\rquote une bande de terrain qui serait situ\'e9e en zone Natura 2000 aux dires de la DDEAF (ce que conteste le SYDEC et le g\'e9om\'e8tre) ;
+\par {\listtext\pard\plain\f36\insrsid2906818 \hich\af36\dbch\af0\loch\f36 -\tab}Salle omnisports\~: Monsieur Serge Dupouy informe que la cabane de chantier des ma\'e7ons a \'e9t\'e9 install\'e9e cette semaine. Des r\'e9
+unions de chantier ont lieu tous les jeudis matin. La livraison de la salle est pr\'e9vue pour juin 2010, hors VRD. Pour ce qui concerne la proposition qu\rquote avait fait la commune \'e0 la CCPA, d\rquote installer des panneaux photovolta\'ef
+ques sur le toit, cette derni\'e8re a re\'e7u une fin de non recevoir par la CCPA.
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2906818 {\f36\insrsid2906818 
+\par }{\b\f36\ul\insrsid2906818\charrsid8074964 QUESTIONS DIVERSES
+\par }{\f36\insrsid2906818 
+\par {\listtext\pard\plain\f36\insrsid2906818 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid8074964 {\f36\insrsid2906818 Monsieur le Maire annonce le d\'e9
+part d\rquote Aur\'e9lien Marques, employ\'e9 communal, au 31 d\'e9cembre 2009. Ce dernier en effet, }{\f36\insrsid8074964 d\'e9missionne de son poste pour quitter le d\'e9partement.}{\f36\insrsid2906818 
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8074964 {\f36\insrsid8074964 
+\par {\listtext\pard\plain\f36\insrsid8074964 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid8074964 {\f36\insrsid8074964 S\'e9curit\'e9 routi\'e8re\~: 
+pour faire suite a ce qui a \'e9t\'e9 \'e9voqu\'e9 lors de diff\'e9rents d\'e9bats, Monsieur le Maire informe qu\rquote il a pris rendez-vous aupr\'e8s des services de l\rquote Am\'e9nagement du Conseil G\'e9n\'e9ral des Landes mais que ce dernier n
+\rquote aura lieu qu\rquote en janvier (le 16 ou le 17).
+\par }\pard \qj \li0\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8074964 {\f36\insrsid8074964 
+\par }\pard \qj \li360\ri0\widctlpar\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid8074964 {\f36\insrsid8074964\charrsid1196591 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193707 {\f36\insrsid2193707 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11280403 {\b\f36\fs28\ul\insrsid11940906 
+\par }{\b\f36\fs28\ul\insrsid11940906\charrsid11280403 
+\par }{\f36\insrsid11280403 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10618584 {\f36\insrsid10618584\charrsid12853754 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\insrsid10618584 
+\par }}

@@ -1,0 +1,490 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f36\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f37\froman\fcharset2\fprq2{\*\panose 05020102010507070707}Wingdings 2;}{\f40\froman\fcharset238\fprq2 Times New Roman CE;}{\f41\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f43\froman\fcharset161\fprq2 Times New Roman Greek;}{\f44\froman\fcharset162\fprq2 Times New Roman Tur;}{\f45\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f46\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f47\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f48\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f50\fswiss\fcharset238\fprq2 Arial CE;}{\f51\fswiss\fcharset204\fprq2 Arial Cyr;}{\f53\fswiss\fcharset161\fprq2 Arial Greek;}
+{\f54\fswiss\fcharset162\fprq2 Arial Tur;}{\f55\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f56\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f57\fswiss\fcharset186\fprq2 Arial Baltic;}{\f58\fswiss\fcharset163\fprq2 Arial (Vietnamese);}
+{\f60\fmodern\fcharset238\fprq1 Courier New CE;}{\f61\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f63\fmodern\fcharset161\fprq1 Courier New Greek;}{\f64\fmodern\fcharset162\fprq1 Courier New Tur;}{\f65\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f66\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f67\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f68\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f400\froman\fcharset238\fprq2 Bookman Old Style CE;}
+{\f401\froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f403\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f404\froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f407\froman\fcharset186\fprq2 Bookman Old Style Baltic;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \snext0 Normal;}{\s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 
+\sbasedon0 \snext0 \styrsid14762011 heading 2;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext15 \styrsid2830288 footer;}{\*\cs16 \additive \sbasedon10 \styrsid2830288 page number;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid1{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat6\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\f36 \fi-360\li720
+\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2 \fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10 
+\fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname RTF_Num 2;}\listid1}{\list\listtemplateid-748935348\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext
+\leveltemplateid-1203616082\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid787116765}}{\*\listoverridetable{\listoverride\listid787116765
+\listoverridecount0\ls1}{\listoverride\listid1\listoverridecount0\ls2}}{\*\rsidtbl \rsid202994\rsid620047\rsid2499003\rsid2818944\rsid2830288\rsid2971631\rsid3149737\rsid3694012\rsid3956042\rsid4411933\rsid4789189\rsid4940258\rsid4991053\rsid5177738
+\rsid5183093\rsid5202513\rsid5269668\rsid5645358\rsid6310885\rsid6443224\rsid6628647\rsid6883533\rsid7172150\rsid7281983\rsid7283230\rsid7622983\rsid8075899\rsid9444661\rsid9978353\rsid10028513\rsid10425949\rsid11427130\rsid11750838\rsid11870994
+\rsid12201665\rsid12537566\rsid12853754\rsid13064291\rsid13246557\rsid13641719\rsid13661840\rsid13771048\rsid14116081\rsid14118279\rsid14758555\rsid14762011\rsid14821013\rsid14951407\rsid15475926\rsid15563027\rsid15801916\rsid15928131\rsid16088376
+\rsid16210159\rsid16253993\rsid16347523}{\*\generator Microsoft Word 11.0.5604;}{\info{\title PROCES-VERBAL SEANCE DU 15 OCTOBRE 2008}{\author MAIRIE DE BROCAS}{\operator MAIRIE DE BROCAS}{\creatim\yr2008\mo10\dy24\hr10\min47}
+{\revtim\yr2008\mo12\dy9\hr14\min23}{\printim\yr2008\mo12\dy5\hr14\min58}{\version14}{\edmins698}{\nofpages12}{\nofwords3501}{\nofchars19260}{\nofcharsws22716}{\vern24689}}\paperw11906\paperh16838\margl1417\margr1417\margt1417\margb1417 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1417\dgvorigin1417\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot14762011\newtblstyruls\nogrowautofit \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid2830288 \chftnsep 
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid2830288 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid2830288 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid2830288 \chftnsepc 
+\par }}\sectd \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\footer \pard\plain \s15\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\pvpara\phmrg\posxr\posy0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12537566 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\field{\*\fldinst {\cs16\insrsid2830288 PAGE  }}{\fldrslt {
+\cs16\lang1024\langfe1024\noproof\insrsid6443224 12}}}{\cs16\insrsid2830288 
+\par }\pard \s15\ql \li0\ri360\widctlpar\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid2830288 {\insrsid2830288 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14762011 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\fs32\ul\insrsid202994 
+\par 
+\par }{\b\f36\fs32\ul\insrsid14762011\charrsid14762011 PROCES-VERBAL SEANCE DU 15 OCTOBRE 2008}{\b\f36\fs32\ul\insrsid9444661 
+\par }{\b\f36\fs32\ul\insrsid14762011 
+\par }\pard\plain \s2\qj \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid14762011 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid14762011\charrsid12853754 L\rquote AN DEUX MIL HUIT
+
+\par }\pard\plain \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14762011 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid14762011\charrsid12853754 Le }{\b\f36\insrsid14762011\charrsid14762011 
+QUINZE DU MOIS D\rquote OCTOBRE A 20 HEURES}{\f36\insrsid14762011 ,}{\f36\insrsid14762011\charrsid12853754 
+\par Le Conseil Municipal de la commune de BROCAS, d\'fbment convoqu\'e9, s\rquote est r\'e9uni en session ordinaire \'e0 la Mairie, sous la pr\'e9sidence de }{\b\f36\insrsid14762011\charrsid12853754 Monsieur FOURCADE Michel,}{
+\f36\insrsid14762011\charrsid12853754  }{\b\f36\insrsid14762011\charrsid12853754 Maire.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14762011 {\b\f36\ul\insrsid14762011\charrsid12853754 
+\par Date de la convocation}{\f36\insrsid14762011\charrsid12853754 \~: }{\f36\insrsid14762011 10 Octobre 2008}{\f36\insrsid14762011\charrsid12853754 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14762011 {\b\f36\ul\insrsid14762011\charrsid12853754 
+\par ETAIENT PRESENTS}{\f36\insrsid14762011\charrsid12853754 \~: }{\f36\insrsid14762011 M. FOURCADE Michel \endash  M. MOREL Yves \endash  M. BLANC-SIMON Jean-Luc \endash  MME SOURIGUES Ang\'e9line \endash  M. DUPOUY Serge \endash  M. FORNIER de LACHAUX Jean 
+\endash }{\f36\insrsid4940258  }{\f36\insrsid14762011 M. LASSALLE Jean-Pierre \endash  MME SCHAERER Fabienne \endash  M. MARCHAL Alain \endash  M. LAPORTE Gilles \endash  MME GARDEILS Val\'e9rie \endash  M. ELINEAU Jean-Christophe \endash 
+ MME GILLET Nelly \endash 
+\par 
+\par }{\b\f36\ul\insrsid14762011\charrsid14762011 ABSENT EXCUSE}{\f36\insrsid14762011 \~: M. Laurent MARTINEZ
+\par 
+\par }{\f36\ul\insrsid14762011\charrsid14762011 Secr\'e9taire de s\'e9ance}{\f36\insrsid14762011 \~: MME Ang\'e9line SOURIGUES
+\par }{\f36\ul\insrsid14762011\charrsid14762011 Secr\'e9taire auxiliaire}{\f36\insrsid14762011 \~: MME Florence LAPASSOUSE
+\par 
+\par }{\b\f36\ul\insrsid14762011\charrsid14762011 ORDRE DU JOUR}{\b\f36\insrsid14762011\charrsid14762011 \~:
+\par }{\f36\insrsid14762011 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14762011 {\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Approbation du proc\'e8
+s-verbal de la derni\'e8re s\'e9ance.
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Convention COMMUNE/C.C.P.A. relative \'e0 la mise en commun des effectifs scolaires.
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Remise aux normes \'e9clairage camping et armoires d\rquote \'e9clairage\~: devis SYDEC.
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Remise aux normes de l\rquote installation \'e9lectrique de la Brigade de Gendarmerie\~: acquisition de radiateurs.
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Acquisition de mat\'e9riel audio et m\'e9dical.
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Investissements/budget 2008\~\endash  F.E.C. Edilit\'e9 \endash 
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Passation d\rquote un contrat d\rquote assurance couvrant les risques statutaires du personnel.
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Demande d\rquote inscription de travaux sur la liste du Travail d\rquote Int\'e9r\'eat G\'e9n\'e9ral (art R.131-17 du Code P\'e9nal).
+
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Participation financi\'e8re au profit de l\rquote Ecole Notre-Dame.
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Demande d\rquote autorisation d\rquote exploiter un taxi.
+\par }{\f36\insrsid14762011 {\field{\*\fldinst SYMBOL 232 \\f "Wingdings 2" \\s 12}{\fldrslt\f37\fs24}}}{\f36\insrsid14762011  Questions diverses.
+\par }{\f36\insrsid5177738 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16210159 {\b\f36\fs28\ul\insrsid2830288 
+\par 
+\par 
+\par }{\b\f36\fs28\ul\insrsid5177738\charrsid5177738 APPROBATION DU PROCES-VERBAL DE LA DERNIERE SEANCE}{\b\f36\fs28\ul\insrsid5177738 .}{\b\f36\fs28\ul\insrsid5177738\charrsid5177738 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14762011 {\f36\insrsid14762011 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5177738 {\f36\insrsid5177738 Monsieur le Maire fait donner lecture du proc\'e8s-verbal de la derni\'e8re s\'e9ance qui est adopt\'e9 sans observation.
+\par Monsieur Jean-Luc BLANC-SIMON rappelle toutefois qu\rquote une r\'e9union sur la gestion de la for\'eat aura lieu en pr\'e9sence de Monsieur Thierry CARBONNIERES, conseiller au C.R.P.F., le samedi 29 novembre 2008 \'e0 9 heures \'e0 la Mairie.
+\par 
+\par }{\b\f36\fs28\ul\insrsid5177738\charrsid5177738 CONVENTION COMMUNE/C.C.P.A. RELATIVE A LA MISE EN COMMUN DES EFFECTIFS SCOLAIRES.}{\b\f36\fs28\ul\insrsid5177738 
+\par }{\b\f36\fs28\ul\insrsid3694012 
+\par }{\f36\insrsid3694012 Monsieur le Maire rappelle \'e0 l\rquote assembl\'e9e qu\rquote \'e0 la rentr\'e9e scolaire 2008-2009, l\rquote \'e9volution des effectifs de Brocas a rendu difficile }{\f36\insrsid15563027 
+ le maintien de tous les niveaux au sein de l\rquote \'e9cole. C\rquote est la raison pour laquelle, pour des raisons p\'e9dagogiques et apr\'e8s concertation avec l\rquote Inspecteur d\rquote Acad\'e9mie et les parents d\rquote \'e9l\'e8ves, il a \'e9t
+\'e9 d\'e9cid\'e9 que les \'e9l\'e8ves des classes de CE2, CM1 et CM2  des communes de B\'e9lis, Brocas, Canenx et R\'e9aut, C\'e8re et Maill\'e8res seront rassembl\'e9s pour former des classes homog\'e8nes \'e0 partir de la rentr\'e9e 2008. La r\'e9
+partition des classes est donc la suivante\~:}{\f36\insrsid3694012 
+\par }{\f36\insrsid15563027 
+\par }{\f36\insrsid15563027 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid15563027  CE2 \'e0 l\rquote \'e9cole de Brocas
+\par }{\f36\insrsid15563027 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid15563027  CM1 \'e0 l\rquote \'e9cole de Maill\'e8res
+\par }{\f36\insrsid15563027 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid15563027  CM2 + quelques CM1 de mani\'e8re \'e0 ne pas d\'e9s\'e9quilibrer les classes \'e0 l\rquote \'e9cole de B\'e9lis.
+\par 
+\par Brocas ne faisant pas partie du RPI, pour des questions de garanties d\rquote assurances lors des transports scolaires notamment, il convient de signer}{\f36\insrsid14951407  avec la CCPA, comp\'e9tente en mati\'e8re scolaire, ainsi qu\rquote 
+avec toutes les communes concern\'e9es par ce partage, une convention de mise en commun des effectifs scolaires du 02 septembre 2008 au 02 septembre 2009.}{\f36\insrsid15563027 
+\par }{\f36\insrsid14951407 
+\par Le Conseil Municipal, entendu Monsieur le Maire, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, accepte les termes de ladite convention et autorise Monsieur le Maire ou \'e0 d\'e9faut }{\f36\insrsid11870994 un}{\f36\insrsid14951407 
+ adjoint, \'e0 la signer.}{\f36\insrsid14951407\charrsid3694012 
+\par }{\b\f36\fs28\ul\insrsid3694012 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16210159 {\b\f36\fs28\ul\insrsid11427130\charrsid2971631 REMISE AUX NORMES ECLAIRAGE CAMPING ET ARMOIRES D\rquote ECLAIRAGE\~: DEVIS SYDEC}{
+\b\f36\fs28\ul\insrsid11427130 .
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid11427130 Monsieur MOREL pr\'e9sente \'e0 l\rquote assembl\'e9e les devis \'e9tablis par le SYDEC pour la remise aux normes de l\rquote \'e9
+clairage du camping et la mise en conformit\'e9 des armoires d\rquote \'e9clairage de la commune en vue d\rquote \'e9conomies d\rquote \'e9nergie futures.
+\par 
+\par }{\f36\insrsid2830288 
+\par 
+\par 
+\par 
+\par }{\f36\insrsid11427130 Les plans de financement des travaux se d\'e9composent comme suit\~:
+\par 
+\par }{\b\f36\ul\insrsid11427130\charrsid2971631 REMISE AUX NORMES ECLAIRAGE PUBLIC CAMPING
+\par }{\f36\insrsid11427130 
+\par {\listtext\pard\plain\f36\insrsid11427130 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid11427130 {\f36\insrsid11427130 Mise en conformit\'e9
+ de 10 cand\'e9labres avec d\'e9pose et repose des bulles existantes\~:
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid11427130 
+\par Montant estimatif T.T.C. \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85   6\~570 \'80
+\par TVA pr\'e9 financ\'e9e par le SYDEC\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85  1\~077 \'80 
+\par Montant HT\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   5\~493 \'80
+\par Subventions apport\'e9es par SYDEC \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   4\~120 \'80
+\par }{\b\f36\insrsid11427130\charrsid2971631 Participation communale }{\b\f36\insrsid11427130 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.  1\~373 \'80}{\b\f36\insrsid11427130\charrsid2971631 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\b\f36\insrsid11427130 
+\par }{\b\f36\ul\insrsid11427130\charrsid5645358 MISE EN CONFORMITE ARMOIRES ECLAIRAGE
+\par }{\f36\insrsid11427130 
+\par }{\b\i\f36\ul\insrsid11427130\charrsid5645358 POSTE P20 RENCONTRE
+\par }{\f36\insrsid11427130 
+\par {\listtext\pard\plain\f36\insrsid11427130 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid11427130 {\f36\insrsid11427130 D\'e9pose de l\rquote 
+armoire existante
+\par {\listtext\pard\plain\f36\insrsid11427130 \hich\af36\dbch\af0\loch\f36 -\tab}Fourniture, pose et raccordement d\rquote une armoire d\rquote \'e9clairage public \'e9quip\'e9e d\rquote une radiolite\~:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid11427130 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid11427130 Montant estimatif T.T.C. \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85   2 240 \'80
+\par TVA pr\'e9 financ\'e9e par le SYDEC\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85    \~367 \'80 
+\par Montant HT\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   1\~873 \'80
+\par Subventions apport\'e9es par SYDEC \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   1\~404 \'80
+\par }{\b\f36\insrsid11427130\charrsid2971631 Participation communale }{\b\f36\insrsid11427130 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   \~468 \'80
+\par 
+\par }{\b\i\f36\ul\insrsid11427130\charrsid5645358 POSTE P 30 LA POSTE
+\par }{\f36\insrsid11427130 
+\par {\listtext\pard\plain\f36\insrsid11427130 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid11427130 {\f36\insrsid11427130 D\'e9pose de l\rquote 
+armoire existante
+\par {\listtext\pard\plain\f36\insrsid11427130 \hich\af36\dbch\af0\loch\f36 -\tab}Fourniture, pose et raccordement d\rquote une armoire d\rquote \'e9clairage public \'e9quip\'e9e d\rquote une radiolite\~:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid11427130 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid11427130 Montant estimatif T.T.C. \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85   1 566 \'80
+\par TVA pr\'e9 financ\'e9e par le SYDEC\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85    \~257 \'80 
+\par Montant HT\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   1\~309 \'80
+\par Subventions apport\'e9es par SYDEC \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.     \~982 \'80
+\par }{\b\f36\insrsid11427130\charrsid2971631 Participation communale }{\b\f36\insrsid11427130 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   \~327 \'80
+\par 
+\par }{\b\i\f36\ul\insrsid11427130\charrsid5645358 POSTE P10 BOURG
+\par }{\f36\insrsid11427130 
+\par {\listtext\pard\plain\f36\insrsid11427130 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid11427130 {\f36\insrsid11427130 D\'e9pose de l\rquote 
+armoire existante
+\par {\listtext\pard\plain\f36\insrsid11427130 \hich\af36\dbch\af0\loch\f36 -\tab}Fourniture, pose et raccordement d\rquote une armoire d\rquote \'e9clairage public \'e9quip\'e9e d\rquote une radiolite\~:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid11427130 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid2830288 
+\par }{\f36\insrsid11427130 Montant estimatif T.T.C. \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85   1 658 \'80
+\par TVA pr\'e9 financ\'e9e par le SYDEC\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85    \~272 \'80 
+\par Montant HT\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   1\~386 \'80
+\par Subventions apport\'e9es par SYDEC \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   1 040 \'80
+\par }{\b\f36\insrsid11427130\charrsid2971631 Participation communale }{\b\f36\insrsid11427130 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   \~347 \'80
+\par 
+\par }{\b\i\f36\ul\insrsid11427130 RECAPITULATIF}{\f36\insrsid11427130 
+\par 
+\par Montant estimatif T.T.C. \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85   5 463 \'80
+\par TVA pr\'e9 financ\'e9e par le SYDEC\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85    \~895 \'80 
+\par Montant HT\~\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   4\~568 \'80
+\par Subventions apport\'e9es par SYDEC \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.   3 426 \'80
+\par }{\b\f36\insrsid11427130\charrsid2971631 Participation communale }{\b\f36\insrsid11427130 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.  1\~142 \'80
+\par 
+\par }{\f36\insrsid11427130 Le Conseil Municipal, entendu l\rquote expos\'e9 de Monsieur MOREL, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, accepte les montants des travaux \'e0 r\'e9aliser tels que ci-dessus d\'e9taill\'e9
+s, dit que la participation communale soit 2\~515 \'80 pour les deux op\'e9rations sera rembours\'e9e au SYDEC sur fonds libres.
+\par }{\f36\insrsid14951407 
+\par }{\b\f36\fs28\ul\insrsid14951407\charrsid14951407 REMISE AUX NORMES DE L\rquote INSTALLATION ELECTRIQUE DE LA BRIGADE DE GENDARMERIE}{\b\f36\fs28\insrsid14951407\charrsid14951407 \~: }{\b\f36\fs28\ul\insrsid14951407\charrsid14951407 ACQUISITION DE}{
+\b\f36\fs28\insrsid14951407\charrsid14951407  }{\b\f36\fs28\ul\insrsid14951407\charrsid14951407 RADIATEURS}{\b\f36\fs28\insrsid14951407\charrsid14951407 .}{\b\f36\fs28\insrsid14951407 
+\par 
+\par }{\f36\insrsid14951407 Monsieur Morel informe l\rquote assembl\'e9e  qu\rquote il a fallu, dans l\rquote urgence, faire effectuer des travaux de remise aux normes}{\f36\insrsid13641719  de l\rquote installation \'e9lectrique des }{\f36\insrsid16088376 
+bureaux}{\f36\insrsid13641719  de la brigade de gendarmerie. Monsieur Eric LAMAISON, \'e9lectricien \'e0 Labrit a r\'e9alis\'e9 ces travaux pour un montant TTC de 1972,63 \'80. }{\f36\insrsid14951407 
+\par }{\f36\insrsid13641719 Pour que la mise en conformit\'e9 soit totale, Monsieur MOREL explique qu\rquote il serait \'e9galement n\'e9cessaire de changer tous les radiateurs des dits }{\f36\insrsid16088376 bureaux}{\f36\insrsid13641719  install\'e9
+s depuis maintenant 25 ans, d\rquote autant qu\rquote ils consomment \'e9norm\'e9ment d\rquote \'e9lectricit\'e9. Le devis r\'e9clam\'e9 au Comptoir Electrique Fran\'e7ais sis \'e0 Mont-de-Marsan pour des radiants s\rquote \'e9l\'e8ve \'e0 la somme de 2\~
+073,87 \'80 T.T.C.
+\par 
+\par Le Conseil Municipal, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, autorise Monsieur le Maire \'e0 signer ledit devis. Dit que la d\'e9pense sera pay\'e9e sur l\rquote article 2188 de la section d\rquote investissement.
+\par }{\f36\insrsid16210159 
+\par }{\b\f36\fs28\ul\insrsid16210159\charrsid16210159 ACQUISITION DE MATERIEL AUDIO ET}{\b\f36\fs28\ul\insrsid11870994  MATERIEL}{\b\f36\fs28\ul\insrsid16210159\charrsid16210159  MEDICAL}{\b\f36\fs28\ul\insrsid16210159 
+\par 
+\par }{\f36\insrsid16210159 Monsieur MOREL explique qu\rquote il serait utile que la commune se dote de mat\'e9riel audio compos\'e9 d\rquote un amplificateur, d\rquote un micro et d\rquote une enceinte ce, afin d\rquote \'e9viter l\rquote emprunt syst\'e9
+matique de ce mat\'e9riel au comit\'e9 des F\'eates. Le Conseil Municipal le charge de se renseigner sur les prix et donne un accord de principe}{\f36\insrsid13661840  pour l\rquote achat de ce mat\'e9riel.}{\f36\insrsid16210159 
+\par }{\f36\insrsid13661840 
+\par }{\f36\insrsid2830288 
+\par 
+\par 
+\par }{\f36\insrsid13661840 Par ailleurs Monsieur le Maire informe qu\rquote il a charg\'e9 Madame SCHAERER Fabienne de se renseigner sur les conditions d\rquote acquisition de d\'e9fibrilateurs }{\f36\insrsid13064291 qui pourraient \'e9
+quiper le stade de football, la salle de l\rquote Etang et peut \'eatre le tennis. D\rquote ores et d\'e9j\'e0, il faut savoir que la d\'e9pense avoisine les 1\~500 \'80 T.T.C. Le Conseil Municipal donne \'e9
+galement un accord de principe sur ce point et demande que renseignements soient pris sur les organismes susceptibles d\rquote aider au financement de ce mat\'e9r}{\f36\insrsid14118279 iel. Monsieur Jean }{\f36\insrsid15475926 FORNIER de LACHAUX }{
+\f36\insrsid14758555 souligne que cette question pourrait \'eatre discut\'e9e en Conseil }{\f36\insrsid6310885  
+\par }{\f36\insrsid14758555 Communautaire car si d\rquote autres communes \'e9taient int\'e9ress\'e9es, un achat group\'e9 permettrait s\'fbrement de meilleures offres de prix.}{\f36\insrsid14758555\charrsid16210159 
+\par }{\f36\insrsid16210159 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16210159 {\b\f36\fs28\ul\insrsid6883533 REHABILITATION D\rquote UN BATIMENT COMMUNAL\~: F.E.C. EDILITE 2008
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6883533 {\b\f36\fs28\ul\insrsid6883533 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6883533 {\f36\insrsid6883533 Monsieur le Maire informe l\rquote assembl\'e9e qu\rquote il a \'e9t\'e9 averti r\'e9cemment, par la Communaut\'e9 des Communes du Pays d
+\rquote Albret, que la commune de Brocas \'e9tait \'e9ligible au Fonds d\rquote Equipement des Communes Edilit\'e9 2008 pour un montant de 15\~153 \'80. Pour b\'e9n\'e9ficier de cette somme il convient de constituer, en urgence, un dossier de demande d
+\rquote aide .
+\par 
+\par Le Conseil Municipal, entendu Monsieur le Maire, apr\'e8s avoir dress\'e9 un inventaire sur les priorit\'e9s \'e0 accorder au vu des nombreux travaux \'e0 r\'e9aliser,  \'e0 l\rquote unanimit\'e9, consid\'e9rant les travaux de r\'e9habilitation \'e0
+ effectuer sur un b\'e2timent communal aux fins d\rquote y am\'e9nager une ou deux salles de r\'e9unions destin\'e9es notamment aux associations locales\~:
+\par 
+\par }{\b\f36\insrsid6883533 ARRETE }{\f36\insrsid6883533  le plan de financement tel ci-dessus\~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid6883533 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\nowidctlpar\tx720\hyphpar0\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid6883533 {\f36\insrsid6883533 Montant total estimatif H.T. 
+\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..  22\~027,21 \'80
+\par {\listtext\pard\plain\f36\insrsid6883533 \hich\af36\dbch\af0\loch\f36 -\tab}Subvention F.EC. \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..  15\~153,00 \'80
+\par {\listtext\pard\plain\f36\insrsid6883533 \hich\af36\dbch\af0\loch\f36 -\tab}Fonds propres}{\f36\insrsid7622983  }{\f36\insrsid6883533 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.    6\~874,21 \'80
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6883533 {\f36\insrsid6883533 
+\par }{\b\f36\insrsid6883533 SOLLICITE}{\f36\insrsid6883533   de Monsieur le Pr\'e9sident du Conseil G\'e9n\'e9ral des Landes l\rquote aide financi\'e8re du D\'e9partement dans le cadre du F.E.C. Edilit\'e9 2008\~;
+\par 
+\par }{\b\f36\insrsid6883533 CHARGE}{\f36\insrsid6883533  Monsieur le Maire ou \'e0 d\'e9faut l\rquote un de ses adjoints pour signer tout document se rapportant \'e0 ce dossier.
+\par }{\f36\insrsid14758555 
+\par }{\b\f36\fs28\ul\insrsid14758555\charrsid14758555 PASSATION D\rquote UN CONTRAT D\rquote ASSURANCE COUVRANT LES RISQUES STATUTAIRES DU PERSONNEL}{\b\f36\fs28\ul\insrsid14758555 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid14758555 Monsieur le Maire expose \'e0 l\rquote assembl\'e9e qu\rquote \'e0 ce jour, c\rquote est la Caisse Nationale de Pr\'e9
+voyance qui assure les risques statutaires du personnel communal. Le contrat arrivant \'e0 \'e9ch\'e9ance au 1}{\f36\super\insrsid14758555\charrsid14758555 er}{\f36\insrsid14758555 
+ janvier 2009, il convient de se pencher sur sa reconduction ou non sachant que pour 2008, la somme r\'e9gl\'e9e \'e0 la CNP s\rquote est \'e9lev\'e9e \'e0 12\~000 \'80. }{\f36\insrsid11427130 
+\par }{\f36\insrsid14758555 
+\par }{\f36\insrsid2830288 
+\par 
+\par 
+\par }{\f36\insrsid14758555 Le Conseil Municipal demande, avant de se prononcer, que d\rquote autres compagnies d\rquote assurances soient contact\'e9es pour une mise en concurrence. Les r\'e9ponses \'e0 l\rquote appel d\rquote offres seront examin\'e9
+es par la commission communale d\rquote appels d\rquote offres.
+\par 
+\par }{\b\f36\fs28\ul\insrsid6310885\charrsid6310885 DEMANDE D\rquote INSCRIPTION SUR LA LISTE DU TRAVAIL D\rquote INTERET GENERAL}{\b\f36\fs28\insrsid6310885\charrsid6310885  ( art R.131-17 du Code P\'e9nal)}{\b\f36\fs28\insrsid14758555 
+\par }{\b\f36\fs28\insrsid5202513 
+\par }{\f36\insrsid5202513 Monsieur le Maire donne lecture d\rquote un courrier du Tribunal de Grande Instance de Mont-de-Marsan demandant si la commune de Brocas souhaite toujours accueillir des personnes condamn\'e9es \'e0 des peines de travail d\rquote int
+\'e9r\'eat g\'e9n\'e9ral. Si oui, une proc\'e9dure d\rquote inscription est n\'e9cessaire}{\f36\insrsid10028513  et}{\f36\insrsid5202513  }{\f36\insrsid14116081 le juge d\rquote application des peines}{\f36\insrsid10028513  prendra une d\'e9cision d\'e9
+finitive dans un d\'e9lai de 1 \'e0 3 mois.}{\f36\insrsid5202513 
+\par }{\f36\insrsid10028513 
+\par Le Conseil Municipal, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, demande \'e0 Monsieur le Maire d\rquote inscrire la commune de Brocas sur la liste du Travail d\rquote Int\'e9r\'eat G\'e9n\'e9ral.
+\par 
+\par }{\b\f36\fs28\ul\insrsid10028513\charrsid10028513 PARTICIPATION FINANCIERE AU PROFIT DE L\rquote ECOLE NOTRE-DAME}{\b\f36\fs28\ul\insrsid10028513 
+\par 
+\par }{\f36\insrsid10028513 Monsieur le Maire informe l\rquote assembl\'e9e qu\rquote il a \'e9t\'e9 saisi par la directrice de l\rquote \'e9cole priv\'e9e Notre-Dame \'e0 Mont-de-Marsan d\rquote une demande de versement du forfait communal l\'e9
+gal concernant les \'e9l\'e8ves inscrits dans cet \'e9tablissement pour les ann\'e9es 2006/2007 et 2007/2008 soit respectivement pour 5 et 7 enfants.
+\par }{\f36\insrsid2499003 Le Conseil Municipal, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9, donne un refus de principe \'e0 cette requ\'eate.
+\par 
+\par }{\b\f36\fs28\ul\insrsid2499003\charrsid2499003 QUESTIONS DIVERSES}{\b\f36\fs28\ul\insrsid2499003 
+\par 
+\par }{\f36\insrsid2499003 1\'b0 - }{\f36\ul\insrsid2499003\charrsid2499003 Remplacement d\rquote Ingrid GALBERT}{\f36\insrsid2499003 \~:
+\par 
+\par        }{\f36\insrsid2499003 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid2499003  \'e0 la suppl\'e9ance du Conseil Communautaire = MME GARDEILS Val\'e9rie\~;
+\par        }{\f36\insrsid2499003 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid2499003  \'e0 la Commission Enfance Jeunesse Sports et Loisirs\~= MME GILLET Nelly.
+\par 
+\par }{\f36\insrsid12201665 2\'b0 - }{\f36\ul\insrsid12201665\charrsid12201665 Modification du Plan d\rquote Occupation des Sols}{\f36\insrsid12201665 \~:}{\f36\insrsid2499003 
+\par }{\f36\insrsid12201665 
+\par Monsieur le Maire informe que dans le projet de la future salle des sports, l\rquote existence d\rquote un mur \'e0 gauche d\'e9passant les huit m\'e8tres de hauteur implique que le Plan d\rquote Occupation des Sols soit modifi\'e9 (l\rquote actuel r\'e8
+glement sur la zone concern\'e9e ne permettant pas son \'e9dification) et ce, pour ne pas freiner davantage le projet. En effet, la subvention allou\'e9e a \'e9t\'e9 prorog\'e9e jusqu\rquote \'e0 fin 2009 et il est de notre responsabilit\'e9 d\rquote 
+engager dans les meilleurs }{\f36\insrsid2830288 
+\par }{\f36\insrsid12201665 d\'e9lais les travaux afin de ne pas faire perdre la subvention allou\'e9e \'e0 la Communaut\'e9 de Communes.
+\par }{\f36\insrsid2830288 
+\par }{\f36\insrsid5269668 D\rquote autre part, deux familles de Brocas \'e9tant toujours dans l\rquote impossibilit\'e9 de construire du fait \'e9galement des contraintes du Plan d\rquote Occupation des Sols actuel, une deuxi\'e8me modification }{
+\f36\insrsid11870994 pourrait s\rquote inscrire dans cette d\'e9marche si la loi le permet}{\f36\insrsid5269668  et ce, parall\'e8lement \'e0 l\rquote \'e9laboration du Plan Local d\rquote Urbanisme. 
+\par Le co\'fbt de l\rquote op\'e9ration avoisinerait les 1\~500 \'80.
+\par Ce point sera \'e0 l\rquote ordre du jour de la prochaine s\'e9ance du Conseil Municipal.
+\par 
+\par }{\f36\insrsid14821013 3\'b0 - }{\f36\ul\insrsid14821013\charrsid14821013 Station d\rquote \'e9puration}{\f36\insrsid14821013 \~:}{\f36\insrsid5269668 
+\par }{\f36\insrsid14821013 
+\par Nous sommes toujours dans l\rquote attente des r\'e9sultats de la lecture des pi\'e9zom\'e8tres.
+\par 
+\par }{\f36\insrsid8075899 4\'b0 - }{\f36\ul\insrsid8075899\charrsid8075899 Demande de location de la salle de l\rquote Etang \'e0 titre gratuit}{\f36\insrsid8075899 \~:}{\f36\insrsid14821013 
+\par }{\f36\insrsid8075899 
+\par Monsieur Hippolyte RABARRY, organisateur du march\'e9 de No\'ebl au profit de l\rquote Association oeuvrant pour les enfants malgaches a sollicit\'e9 la gratuit\'e9 de la salle de l\rquote Etang pour toute la dur\'e9
+e de la manifestation. Monsieur le Maire propose que la dite association reverse en contre partie une somme}{\f36\insrsid11870994  m\'eame modique}{\f36\insrsid8075899  au profit du Centre Communal d\rquote 
+Action Sociale de la commune. Messieurs BLANC-SIMON et FORNIER de LACHAUX soulignent que cette association est tout de m\'eame a but humanitaire et qu\rquote il ne faudrait pas trop grever son budget en demandant un don. Monsieur le Maire les rassure 
+sur le montant de la somme qui devrait \'eatre vers\'e9e.
+\par 
+\par 5\'b0 - }{\f36\ul\insrsid8075899\charrsid8075899 Rencontre avec Monsieur OLIVARES, architecte au PACT des Landes}{\f36\insrsid8075899 \~:
+\par 
+\par Suite \'e0 la visite des diff\'e9rents locaux qui sont en projet de r\'e9habilitation (la Poste}{\f36\insrsid11870994  \endash  si acquisition -}{\f36\insrsid8075899 , le logement du chef de l\rquote ancienne gendarmerie, le presbyt\'e8
+re, le logement au dessus de l\rquote \'e9cole) une \'e9tude de faisabilit\'e9 chiffr\'e9e nous est parvenue. Tous les conseillers municipaux en ont \'e9t\'e9 destinataires.
+\par 
+\par Pour ce qui concerne la visite du C.A.U.E. une \'e9bauche du r\'e9am\'e9nagement du bourg et de la descente vers le lac doit nous }{\f36\insrsid7283230 parvenir sous une quinzaine de jours. Monsieur LAPORTE pr\'e9cise que le devenir de cette \'e9tude d
+\'e9pendra de nos choix financiers. En outre, il s\rquote \'e9tonne d\rquote avoir constat\'e9 qu\rquote une dalle de b\'e9ton a \'e9t\'e9 r\'e9alis\'e9e en bordure de route devant la salle de l\rquote Etang sans que le Conseil Municipal en ait \'e9t\'e9
+ avis\'e9. Monsieur Morel lui r\'e9pond que cette dalle a \'e9t\'e9 demand\'e9e par le SICTOM du Marsan et qu\rquote elle est pr\'e9vue pour accueillir des containers \'e0 ordures qui seront, comme les autres, dissimul\'e9s.}{\f36\insrsid8075899 
+\par }{\f36\insrsid7283230 
+\par }{\f36\insrsid2830288 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\f36\insrsid13771048 6\'b0 - }{\f36\ul\insrsid13771048\charrsid13771048 D\'e9signation de deux personnes qui participeront au nouveau calcul des}{\f36\insrsid13771048  }{\f36\ul\insrsid13771048\charrsid13771048 taxes locales}{\f36\insrsid13771048 \~:}{
+\f36\insrsid7283230 
+\par }{\f36\insrsid13771048 
+\par En vue d\rquote une harmonisation des taxes locales de toutes les communes de la Communaut\'e9 de Communes du Pays d\rquote Albret}{\f36\insrsid4411933  deux personnes doivent \'eatre d\'e9sign\'e9es dans chaque municipalit\'e9
+ pour participer aux travaux d\rquote \'e9tude}{\f36\insrsid11870994 s}{\f36\insrsid4411933 . Messieurs Gilles LAPORTE et Jean-Luc BLANC-SIMON se portent volontaires.}{\f36\insrsid13771048 
+\par }{\f36\insrsid4411933 
+\par }{\f36\insrsid6628647 7\'b0 - }{\f36\ul\insrsid6628647\charrsid6628647 Bac \'e0 sable de l\rquote \'e9cole}{\f36\insrsid6628647 \~:}{\f36\insrsid4411933 
+\par }{\f36\insrsid6628647 
+\par La consultation lanc\'e9e aupr\'e8s de tous les parents d\rquote \'e9l\'e8ves de Brocas a donn\'e9 les r\'e9sultats suivants\~: 14 voix pour le maintien\~; 10 voix contre.
+\par Il sera donc maintenu avec toutes les pr\'e9cautions d\rquote hygi\'e8ne qui s\rquote imposent.
+\par 
+\par 8\'b0 - }{\f36\ul\insrsid6628647\charrsid6628647 T\'e9l\'e9thon 2008}{\f36\insrsid6628647 \~:
+\par 
+\par Il se d\'e9roulera les 5 et 6 d\'e9cembre prochains.}{\f36\insrsid11870994  Les associations seront consult\'e9es pour une \'e9ventuelle participation.}{\f36\insrsid6628647 
+\par 
+\par 9\'b0 - }{\f36\ul\insrsid6628647\charrsid6628647 11 Novembre 2008}{\f36\insrsid6628647 \~:
+\par 
+\par Monsieur le Maire informe que les c\'e9r\'e9monies se d\'e9rouleront comme de coutume, }{\f36\insrsid11870994 la population sera invit\'e9e}{\f36\insrsid6628647  \'e0 y participer.}{\f36\insrsid11870994 
+ Le Maire souhaite que le conseil municipal y assiste \'e9galement.}{\f36\insrsid6628647  Il tient \'e0 f\'e9liciter les employ\'e9s communaux pour le travail remarquable effectu\'e9 sur le carr\'e9 militaire.
+\par 
+\par 10\'b0 - }{\f36\ul\insrsid6628647\charrsid6628647 Travaux d\rquote \'e9lagage}{\f36\insrsid6628647 \~:
+\par 
+\par Deux devis sont parvenus en Mairie aux fins d\rquote \'e9laguer des ch\'eanes se trouvant au quartier des Forges, au lac, pr\'e8s du tennis et en bordure de la route de Vert. Ils s\rquote \'e9l\'e8vent l\rquote un \'e0 897 \'80 et l\rquote autre \'e0 1\~
+495 \'80.
+\par D\rquote avis g\'e9n\'e9ral, les ch\'eanes, dans la mesure o\'f9 ils ne repr\'e9sentent pas une entrave ou un danger pour la circulation ne seront pas coup\'e9s.
+\par Accord est donc donn}{\f36\insrsid2818944 \'e9 p}{\f36\insrsid6628647 our faire \'e9laguer.
+\par 
+\par 11\'b0 - }{\f36\ul\insrsid6628647\charrsid6628647 Voirie communale}{\f36\insrsid6628647 \~:
+\par 
+\par }{\f36\insrsid15928131 Monsieur MOREL informe qu\rquote apr\'e8s consultation, l\rquote entreprise IZCO de Gabarret \'e0 \'e9t\'e9 retenue pour un montant de 1\~445 \'80 pour la r\'e9fection des voies suivantes\~: c\'f4t\'e9
+ de la boulangerie, entre la gendarmerie et la maison de M. et MME Langlois, chemin d\rquote acc\'e8s au camping, piste de Malabat sur 1 kilom\'e8tre.}{\f36\insrsid6628647 
+\par }{\f36\insrsid15928131 
+\par }{\f36\insrsid2830288 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\f36\insrsid15928131 12\'b0 - }{\f36\ul\insrsid15928131\charrsid15928131 S\'e9curisation de la travers\'e9e du village}{\f36\insrsid15928131 \~:
+\par 
+\par Monsieur ELINEAU insiste sur la n\'e9cessit\'e9 d\rquote installer des ralentisseurs sur la route de B\'e9lis devant le lotissement de l\rquote Esp\'e9rance en raison de la vitesse excessive des v\'e9hicules sur cette voie. Il est }{\f36\insrsid2818944 
+\'e0}{\f36\insrsid15928131  noter que le probl\'e8me est le m\'eame devant le lotissement des Forges.
+\par 
+\par 13\'b0 - }{\f36\ul\insrsid15928131\charrsid4991053 Ateliers relais}{\f36\insrsid15928131 \~:
+\par 
+\par Monsieur le Maire souhaite que la commission charg\'e9e de l\rquote \'e9tude d\rquote installation d\rquote ateliers re}{\f36\insrsid4991053 lais \'e0 la zone artisanale de Bacouy\'e8s se r\'e9unisse au plus vite }{\f36\insrsid620047 pour \'e9
+tudier les devis collect\'e9s}{\f36\insrsid2818944 . La prochaine \'e9tape sera la publication d\rquote un appel d\rquote offres. L\rquote \'e9tude financi\'e8re se fera ult\'e9rieurement.}{\f36\insrsid15928131 
+\par }{\f36\insrsid2818944 
+\par 14\'b0 - }{\f36\ul\insrsid2818944\charrsid2818944 Ordinateurs}{\f36\insrsid2818944 \~:
+\par 
+\par Madame PRADINES, directrice de l\rquote Ecole de Brocas, souhaite savoir o\'f9 en est la commande des ordinateurs. Monsieur ELINEAU pr\'e9cise qu\rquote elle a \'e9t\'e9 pass\'e9e et que les cinq ordinateurs devraient arriver rapidement. Le co\'fb
+t de cet achat est de 1\~445 \'80.
+\par 
+\par 15\'b0 - }{\f36\ul\insrsid2818944\charrsid2818944 R\'e9union publique}{\f36\insrsid2818944 \~:
+\par 
+\par Elle ne pourra avoir lieu le 14 novembre comme pr\'e9vu car le Cercle des Travailleurs organise ce soir l\'e0 une soir\'e9e couscous. Une date sera donc \'e0 red\'e9finir.
+\par }{\f36\insrsid4789189 
+\par 16\'b0 - }{\f36\ul\insrsid4789189\charrsid4789189 Go\'fbter de fin d\rquote ann\'e9e pour les a\'een\'e9s de Brocas}{\f36\insrsid4789189 \~:
+\par 
+\par Il sera offert le dimanche 21 d\'e9cembre 2008 \'e0 la Salle de l\rquote Etang.
+\par 
+\par }{\b\f36\fs28\ul\insrsid4789189\charrsid4789189 DEMANDE D\rquote AUTORISATION D\rquote EXPLOITER UN TAXI}{\b\f36\fs28\ul\insrsid4789189 
+\par 
+\par }{\f36\insrsid4789189 Les questions diverses pass\'e9es, Madame Ang\'e9line SOURIGUES, 4}{\f36\super\insrsid4789189\charrsid4789189 \'e8me}{\f36\insrsid4789189  adjointe au Maire ayant des int\'e9r\'eats dans ce dossier a quitt\'e9 la s\'e9
+ance et ne prend donc pas part aux discussions sur ce point.
+\par 
+\par Monsieur le Maire retrace tout d\rquote abord la gen\'e8se de cette affaire. L\rquote exploitation d\rquote un taxi n\'e9cessite l\rquote accord du Maire, celui-ci \'e9tant valable 1 an.
+\par En juillet 2008, Monsieur le Maire signe une lettre d\rquote accord pour l\rquote exploitation d\rquote un taxi \'e0 Monsieur Bruno SOURIGUES\~; cette m\'eame autorisation avait \'e9t\'e9 accord\'e9e, toujours \'e0
+ Monsieur Bruno SOURIGUES, par le Maire pr\'e9c\'e9dent en juillet 2007.
+\par }{\f36\insrsid2830288 
+\par }{\f36\insrsid4789189 Monsieur Andr\'e9 DUPRAT est actuellement d\'e9tenteur de deux licences.
+\par Lors d\rquote un rendez-vous entre Monsieur le Maire et Monsieur DUPRAT, celui-ci pr\'e9sente un arr\'eat\'e9 du Maire pr\'e9c\'e9dent, dat\'e9 du m\'eame jour de juillet 2007, pr\'e9cisant que le nombre de taxis autoris\'e9s \'e0
+ exploiter sur la commune de Brocas est fix\'e9 \'e0 deux.
+\par 
+\par Monsieur le Maire rappelle que le dossier d\rquote installation de Monsieur SOURIGUES a \'e9t\'e9 examin\'e9 par la commission comp\'e9tente, en pr\'e9fecture des Landes le 22 septembre dernier. Commission compos\'e9e d\rquote un repr\'e9
+sentant du Syndicat des Taxis, de la Gendarmerie, de la Police, de la Chambre des M\'e9tiers des Landes et de la Pr\'e9fecture. Elle a donn\'e9 un avis d\'e9favorable \'e0 l\rquote exploitation d\rquote un troisi\'e8me taxi sur la commune.
+\par 
+\par }{\f36\insrsid13246557 Monsieur le Maire pr\'e9cise \'e9galement que Monsieur DUPRAT ne peut vendre qu\rquote une de ses deux licences, la deuxi\'e8me n\rquote ayant pas 15 ans d\rquote exploitation. La chambre des M\'e9tiers}{\f36\insrsid10425949  va }{
+\f36\insrsid13246557 demande}{\f36\insrsid10425949 r}{\f36\insrsid13246557  d\rquote ailleurs \'e0 Monsieur DUPRAT de bien vouloir r\'e9viser son prix de vente jug\'e9 trop \'e9lev\'e9. Il est alors pr\'e9cis\'e9
+ que Monsieur DUPRAT serait en discussion avec les Ambulances Montoises bas\'e9es \'e0 Mont-de-Marsan.}{\f36\insrsid4789189 
+\par }{\f36\insrsid13246557 
+\par Monsieur le Maire indique alors qu\rquote une loi a \'e9t\'e9 vot\'e9e en 2007, avec un d\'e9cret d\rquote application 6 mois plus tard, pr\'e9cisant que les Caisses Primaires d\rquote Assurance Maladie ont la facult\'e9 d\rquote imposer aux taxis qui s
+\rquote installent une p\'e9riode de carence de 2 ans sans convention avec elles. Durant cette p\'e9riode, les taxis ne peuvent transporter de malades ayant une prise en charge des C.P.A.M.
+\par Monsieur ELINEAU pr\'e9cise alors que ces transports repr\'e9sentent 80 % environ de l\rquote activit\'e9 d\rquote un taxi.
+\par Monsieur le Maire indique qu\rquote il pr\'e9f\'e8re une reprise de licence par une personne de Brocas plut\'f4t que de Mont-de-Marsan. Il signale donc que si une place de taxi suppl\'e9mentaire est octroy\'e9e sur le village, le d\'e9
+lai de carence de conventionnement s\rquote appliquera.
+\par Madame SCHAERER pr\'e9cise que s\rquote il y a reprise d\rquote une licence existante, ce d\'e9lai ne s\rquote applique pas du moins sur la premi\'e8re, la seconde ne pouvant \'eatre vendue.
+\par Monsieur DUPOUY demande alors si les Ambulances Montoises viendraient sur Brocas ou si elles ne rach\'e8teraient pas plut\'f4t la licence pour en avoir une suppl\'e9mentaire sur Mont-de-Marsan. 
+\par Monsieur le Maire pr\'e9cise que la licence doit \'eatre exploit\'e9e sur la commune o\'f9 elle a \'e9t\'e9 accord\'e9e.
+\par 
+\par Il est indiqu\'e9 ensuite que Monsieur DUPRAT propose \'e0 Monsieur SOURIGUES de l}{\f36\insrsid10425949 e}{\f36\insrsid13246557  salarier pendant 6 mois avant de lui vendre la licence mais sans accepter une diminution de prix.
+\par 
+\par }{\f36\insrsid2830288 
+\par 
+\par 
+\par }{\f36\insrsid13246557 Monsieur le Maire propose que chacun exprime son avis sur l\rquote exploitation d\rquote un troisi\'e8me taxi }{\f36\insrsid16347523 par bulletin secret si besoin.}{\f36\insrsid13246557 
+\par }{\f36\insrsid16347523 
+\par Madame GILLET indique que la seule question que l\rquote assembl\'e9e doit se poser est souhaite t-on oui ou non qu\rquote une personne de Brocas cr\'e9e son entreprise\~? La question de carence de convention n\rquote int\'e9resse pas le d\'e9bat }{
+\f36\insrsid9978353 elle ne concerne que Monsieur SOURIGUES. Elle dit ouvertement donner sa voix pour l\rquote installation d\rquote un troisi\'e8me taxi ne pouvant envisager de refuser la cr\'e9ation d\rquote 
+une entreprise sur Brocas. Monsieur Serge DUPOUY se range aussi \'e0 cet avis.}{\f36\insrsid16347523 
+\par }{\f36\insrsid9978353 
+\par Monsieur le Maire pr\'e9cise que si Monsieur DUPRAT continue son activit\'e9 jusqu\rquote en juin 2009 et si une autre licence est accord\'e9e, il n\rquote y aura pas de concurrence puisque le nouveau taxi sera soumis au d\'e9
+lai de carence de convention que ne subit pas Monsieur DUPRAT.
+\par 
+\par Monsieur Jean-Pierre LASSALLE pr\'e9cise donc qu\rquote il faut effectivement voir d\rquote abord la cr\'e9ation d\rquote entreprise comme l\rquote a indiqu\'e9 Madame GILLET et que l\rquote accord ne peut emp\'ea
+cher une future entente entre les deux parties.
+\par 
+\par Monsieur le Maire demande donc de passer au vote \'e0 main lev\'e9e.
+\par 
+\par Monsieur MARCHAL indique qu\rquote il s\rquote abstient consid\'e9rant qu\rquote il n\rquote a pas \'e0 s\rquote immiscer dans une affaire commerciale d\rquote ordre priv\'e9. Monsieur ELINEAU et Monsieur MOREL en font de m\'eame.
+\par 
+\par Le Conseil Municipal, apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 la majorit\'e9\~d\'e9cide donc\~:
+\par 
+\par }{\f36\insrsid9978353 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid9978353  de fixer \'e0 }{\b\f36\insrsid9978353\charrsid6443224 TROIS}{\f36\insrsid9978353  le nombre de taxis admis \'e0
+ exploiter sur le territoire de la commune\~;
+\par }{\f36\insrsid9978353 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid9978353  le stationnement du nouveau taxi se fera sur la voie publique, devant }{\f36\insrsid11750838 le domicile de Monsieur SOURIGUES\~;}{
+\f36\insrsid9978353 
+\par }{\f36\insrsid11750838 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\f36\insrsid11750838  Monsieur SOURIGUES devra s\rquote acquitter annuellement du droit de stationnement dont le tarif sera l\rquote Euro symbolique.}{
+\f36\insrsid9978353 
+\par }{\f36\insrsid11750838 
+\par Monsieur ELINEAU pr\'e9cise encore que l\rquote entente entre les deux protagonistes r\'e8glerait bien des probl\'e8mes.
+\par Monsieur MOREL, sans vouloir remettre en question le vote, se demande si le fait d\rquote avoir accord\'e9 une troisi\'e8me autorisation d\rquote exploiter ne laisse pas la porte ouverte \'e0 l\rquote installation de quelqu\rquote un d\rquote 
+autre dans la mesure o\'f9 Messieurs DUPRAT et SOURIGUES finiraient par s\rquote entendre.
+\par Monsieur le Maire le rassure car l\rquote accord est nominatif et rappelle que seul Monsieur Bruno SOURIGUES est inscrit sur le registre communal depuis deux ans.
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11750838 {\f36\insrsid2830288 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\f36\insrsid11750838 L\rquote ordre du jour \'e9tant \'e9puis\'e9, la s\'e9ance est lev\'e9e.
+\par 
+\par Suivent les signatures.
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5183093 {\b\f1\ul\insrsid2830288 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid5183093\charrsid3956042 Michel FOURCADE}{\b\f1\insrsid5183093\charrsid3956042                    }{\b\f1\ul\insrsid5183093\charrsid3956042 Yves MOREL}{\b\f1\insrsid5183093\charrsid3956042                   }{
+\b\f1\ul\insrsid5183093\charrsid3956042 Jean-Luc BLANC-SIMON}{\b\f1\insrsid5183093\charrsid3956042 
+\par }{\f1\insrsid5183093 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid5183093\charrsid3956042 Ang\'e9line SOURIGUES}{\b\f1\insrsid5183093\charrsid3956042           }{\b\f1\ul\insrsid5183093\charrsid3956042 Serge DUPOUY}{\b\f1\insrsid5183093\charrsid3956042            }{
+\b\f1\ul\insrsid5183093\charrsid3956042 Jean FORNIER de LACHAUX}{\b\f1\insrsid5183093\charrsid3956042 
+\par 
+\par }{\f1\insrsid5183093 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid5183093\charrsid3956042 Jean-Pierre LASSALLE}{\b\f1\insrsid5183093\charrsid3956042            }{\b\f1\ul\insrsid5183093\charrsid3956042 Fabienne SCHAERER}{\b\f1\insrsid5183093\charrsid3956042            }{
+\b\f1\ul\insrsid5183093\charrsid3956042 Alain MARCHAL}{\b\f1\insrsid5183093\charrsid3956042 
+\par }{\f1\insrsid5183093 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7281983 {\b\f1\ul\insrsid5183093\charrsid3956042 Gilles LAPORTE }{\b\f1\insrsid5183093\charrsid3956042                   }{\b\f1\ul\insrsid5183093\charrsid3956042 Val
+\'e9rie GARDEILS}{\b\f1\insrsid5183093\charrsid3956042 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5183093 {\f1\insrsid5183093 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7281983 {\b\f1\ul\insrsid5183093\charrsid3956042 Jean-Christophe ELINEAU}{\b\f1\insrsid5183093\charrsid3956042                                     }{
+\b\f1\ul\insrsid5183093\charrsid3956042 Nelly GILLE}{\b\f1\ul\insrsid5183093 T}{\f36\insrsid11750838 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11427130 {\f36\insrsid11750838 
+\par 
+\par }{\f36\insrsid9978353 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14762011 {\f36\insrsid14762011\charrsid14762011 
+\par }}

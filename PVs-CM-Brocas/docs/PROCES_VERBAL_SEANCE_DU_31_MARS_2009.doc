@@ -1,0 +1,1042 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1036\deflangfe1036{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f36\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f37\froman\fcharset0\fprq2{\*\panose 02040502050405020303}Georgia;}{\f38\froman\fcharset238\fprq2 Times New Roman CE;}{\f39\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f41\froman\fcharset161\fprq2 Times New Roman Greek;}{\f42\froman\fcharset162\fprq2 Times New Roman Tur;}{\f43\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f44\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f45\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f46\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f48\fswiss\fcharset238\fprq2 Arial CE;}{\f49\fswiss\fcharset204\fprq2 Arial Cyr;}{\f51\fswiss\fcharset161\fprq2 Arial Greek;}
+{\f52\fswiss\fcharset162\fprq2 Arial Tur;}{\f53\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f54\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f55\fswiss\fcharset186\fprq2 Arial Baltic;}{\f56\fswiss\fcharset163\fprq2 Arial (Vietnamese);}
+{\f58\fmodern\fcharset238\fprq1 Courier New CE;}{\f59\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f61\fmodern\fcharset161\fprq1 Courier New Greek;}{\f62\fmodern\fcharset162\fprq1 Courier New Tur;}{\f63\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f64\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f65\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f66\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f398\froman\fcharset238\fprq2 Bookman Old Style CE;}
+{\f399\froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f401\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f402\froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f405\froman\fcharset186\fprq2 Bookman Old Style Baltic;}
+{\f408\froman\fcharset238\fprq2 Georgia CE;}{\f409\froman\fcharset204\fprq2 Georgia Cyr;}{\f411\froman\fcharset161\fprq2 Georgia Greek;}{\f412\froman\fcharset162\fprq2 Georgia Tur;}{\f415\froman\fcharset186\fprq2 Georgia Baltic;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red224\green224\blue224;\red217\green217\blue217;\red204\green204\blue204;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \snext0 \styrsid16593677 Normal;}{
+\s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext0 \styrsid16593677 heading 2;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\ts15\tsrowd\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \sbasedon11 \snext15 \styrsid7878168 Table Grid;}{\s16\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon0 \snext16 \styrsid1769944 footer;}{\*\cs17 \additive \sbasedon10 \styrsid1769944 page number;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid-1230360572\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat13\levelspace0\levelindent0{\leveltext\leveltemplateid1696898946
+\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1477648121}{\list\listtemplateid954521576\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-94236204\'01\u-3913 ?;}{\levelnumbers;}\loch\af3\hich\af3\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040
+\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1940866688}
+{\list\listtemplateid-2051359714\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-1342526314\'01-;}{\levelnumbers;}\loch\af36\hich\af36\dbch\af0\fbias0 
+\fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67895297\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895299
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67895301\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid2137988587}}{\*\listoverridetable{\listoverride\listid1940866688\listoverridecount0\ls1}{\listoverride\listid1477648121\listoverridecount0\ls2}{\listoverride\listid2137988587
+\listoverridecount0\ls3}}{\*\rsidtbl \rsid736275\rsid1079980\rsid1327901\rsid1769944\rsid2105103\rsid2181448\rsid2714884\rsid2766314\rsid3149737\rsid3159223\rsid3956042\rsid4333477\rsid4802439\rsid5854216\rsid6185290\rsid6446293\rsid6703758\rsid7172150
+\rsid7831144\rsid7878168\rsid8930370\rsid9187632\rsid9444661\rsid10688554\rsid10703336\rsid10968101\rsid11022188\rsid11798928\rsid11873085\rsid12853754\rsid12985692\rsid13395463\rsid13779458\rsid14762803\rsid15148303\rsid15433315\rsid15801916\rsid15934120
+\rsid16012794\rsid16211992\rsid16253993\rsid16274507\rsid16397781\rsid16479920\rsid16593677\rsid16647007}{\*\generator Microsoft Word 11.0.5604;}{\info{\title PROCES VERBAL SEANCE DU 31 MARS 2009}{\author MAIRIE DE BROCAS}{\operator MAIRIE DE BROCAS}
+{\creatim\yr2009\mo4\dy2\hr16\min49}{\revtim\yr2009\mo5\dy29\hr14\min45}{\printim\yr2009\mo4\dy29\hr16\min21}{\version16}{\edmins120}{\nofpages10}{\nofwords2384}{\nofchars13116}{\nofcharsws15470}{\vern24689}}
+\paperw11906\paperh16838\margl1440\margr1417\margt1417\margb1417 \deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1440
+\dgvorigin1417\dghshow1\dgvshow1\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot16593677\newtblstyruls\nogrowautofit \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid1769944 \chftnsep 
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid1769944 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid1769944 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\insrsid1769944 \chftnsepc 
+\par }}\sectd \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sectrsid16211992\sftnbj {\footer \pard\plain \s16\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\pvpara\phmrg\posxr\posy0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1769944 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\field{\*\fldinst {\cs17\insrsid1769944 PAGE  }}{\fldrslt {
+\cs17\lang1024\langfe1024\noproof\insrsid736275 5}}}{\cs17\insrsid1769944 
+\par }\pard \s16\ql \fi360\li0\ri360\widctlpar\tqc\tx4536\tqr\tx9072\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid1769944 {\insrsid1769944 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \s2\qc \li0\ri0\keepn\widctlpar\brdrt\brdrs\brdrw10\brsp20 \brdrl\brdrs\brdrw10\brsp80 \brdrb
+\brdrs\brdrw10\brsp20 \brdrr\brdrs\brdrw10\brsp80 \aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\rtlgutter\itap0\pararsid13779458 \b\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\fs36\insrsid16593677\charrsid6703758 
+PROCES VERBAL SEANCE DU 31 MARS 2009}{\f36\fs36\insrsid16593677\charrsid13779458 
+\par }\pard \s2\qc \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid16593677 {\f36\fs36\ul\insrsid16593677\charrsid13779458 
+\par }\pard \s2\qj \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid16593677 {\f36\insrsid16593677 
+\par }{\f36\insrsid16593677\charrsid12853754 L\rquote AN DE}{\f36\insrsid16593677 UX MIL NEUF}{\f36\insrsid16593677\charrsid12853754 
+\par }\pard\plain \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16593677 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16593677\charrsid12853754 Le }{\b\f36\insrsid16593677\charrsid2766314 
+TRENTE ET UN DU MOIS DE MARS}{\f36\insrsid16593677\charrsid12853754 
+\par Le Conseil Municipal de la commune de BROCAS, d\'fbment convoqu\'e9, s\rquote est r\'e9uni en session ordinaire \'e0 la Mairie, sous la pr\'e9sidence de }{\b\f36\insrsid16593677\charrsid12853754 Monsieur FOURCADE Michel,}{
+\f36\insrsid16593677\charrsid12853754  }{\b\f36\insrsid16593677\charrsid12853754 Maire.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16593677 {\b\f36\ul\insrsid16593677\charrsid12853754 
+\par Date de la convocation}{\f36\insrsid16593677\charrsid12853754 \~: }{\f36\insrsid16593677 25 MARS 2009}{\f36\insrsid16593677\charrsid12853754 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16593677 {\b\f36\ul\insrsid16593677\charrsid12853754 
+\par ETAIENT PRESENTS}{\f36\insrsid16593677\charrsid12853754 \~: }{\f36\insrsid16593677 M. FOURCADE Michel \endash  M. BLANC-SIMON Jean-Luc \endash  MME SOURIGUES Ang\'e9line \endash  M. DUPOUY Serge \endash  M. FORNIER de LACHAUX Jean \endash 
+ M. LASSALLE Jean-Pierre \endash  M. MARCHAL Alain \endash    M. LAPORTE Gilles \endash  MME GARDEILS Val\'e9rie \endash  M. MARTINEZ Laurent \endash  MME GILLET Nelly \endash 
+\par }{\b\f36\ul\insrsid16593677\charrsid2766314 ABSENTS EXCUSES}{\f36\insrsid16593677 \~: M. MOREL Yves \endash  MME SCHAERER Fabienne \endash  M. ELINEAU Jean-Christophe \endash 
+\par 
+\par }{\f36\ul\insrsid16593677\charrsid16593677 Secr\'e9taire de s\'e9ance\~}{\f36\insrsid16593677 : MME Ang\'e9line SOURIGUES 
+\par }{\f36\ul\insrsid16593677\charrsid16593677 Secr\'e9taire adjointe\~}{\f36\insrsid16593677 : MME Florence LAPASSOUSE 
+\par 
+\par }{\b\f36\ul\insrsid16593677\charrsid16593677 ORDRE DU JOUR}{\b\f36\insrsid16593677\charrsid16593677 \~:
+\par 
+\par {\listtext\pard\plain\f3\insrsid16593677 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid16593677 {\f36\insrsid16593677 
+Vote du Compte Administratif de l\rquote exercice 2008\~;
+\par {\listtext\pard\plain\f3\insrsid16593677 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Affectation du r\'e9sultat d\rquote exploitation de l\rquote exercice 2008\~;
+\par {\listtext\pard\plain\f3\insrsid16593677 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Approbation du Compte de Gestion du Receveur Municipal\~;
+\par {\listtext\pard\plain\f3\insrsid16593677 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Pr\'e9sentation et vote du Budget Primitif de l\rquote exercice 2009\~;
+\par {\listtext\pard\plain\f3\insrsid16593677 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Vote des quatre taxes locales pour l\rquote ann\'e9e 2009\~;
+\par {\listtext\pard\plain\f3\insrsid16593677 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Application du dispositif du plan de relance de l\rquote \'e9conomie relatif au FCTVA\~;
+\par {\listtext\pard\plain\f3\insrsid16593677 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Questions diverses.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16593677 {\f36\insrsid16593677 
+\par }{\b\f36\fs28\ul\insrsid16593677\charrsid16593677 VOTE DU COMPTE ADMINISTRATIF 2008}{\b\f36\fs28\ul\insrsid16593677 
+\par }{\b\f36\fs28\ul\insrsid7878168 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15934120 {\f36\insrsid7878168 Le Conseil Municipal, r\'e9uni sous la }{\b\f36\insrsid7878168\charrsid8930370 pr\'e9sidence}{\f36\insrsid7878168  de Monsieur }{
+\b\f36\insrsid7878168\charrsid8930370 Jean-Luc BLANC-SIMON}{\f36\insrsid7878168 , }{\b\f36\insrsid7878168\charrsid8930370 Maire Adjoint}{\f36\insrsid7878168 , d\'e9lib\'e9rant  sur le compte administratif de l\rquote exercice 2008 dress\'e9
+ par Monsieur Michel FOURCADE, Maire, apr\'e8s s\rquote \'eatre fait pr\'e9senter le budget primitif, le budget suppl\'e9mentaire et les d\'e9cisions modificatives de l\rquote exercice consid\'e9r\'e9\~;
+\par 
+\par \tab 1\'b0 - Lui donne acte de la pr\'e9sentation faite du compte administratif, lequel peut se r\'e9sumer ainsi\~:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7878168 {\f36\insrsid7878168 
+\par }{\insrsid7878168 
+\par 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16593677 {\f36\insrsid16593677\charrsid16593677 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16211992 {\fs18\insrsid16211992\charrsid10688554 
+\par }\trowd \irow0\irowband0\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\b\fs18\insrsid16211992\charrsid10688554 LIBELLE\cell }\pard \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\b\fs18\insrsid16211992\charrsid10688554 FONCTIONNEMENT
+\par DEPENSES OU
+\par DEFICIT\cell FONCTIONNEMENT
+\par RECETTES OU
+\par EXCEDENT\cell INVESTISSEMENT
+\par DEPENSES OU
+\par DEFICIT\cell INVESTISSEMENT
+\par RECETTES OU
+\par EXCEDENTS\cell ENSEMBLE
+\par DEPENSES OU
+\par DEFICIT\cell ENSEMBLE
+\par RECETTES OU
+\par EXCEDENTS\cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow0\irowband0\ts15\trgaph70\trleft-1260\trbrdrt
+\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \cell \cell \cell \cell \cell \cell \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \trowd \irow1\irowband1\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 R\'e9sultats report\'e9s\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 \cell 128\~781,92\cell 74\~306,93\cell 
+\cell 74\~306,93\cell 128\~781,92\cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow2\irowband2
+\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 \cell \cell \cell \cell \cell \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow3\irowband3\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 Op\'e9rations de l\rquote exercice\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 561\~562,48\cell 759\~277,65
+\cell 165\~416,16\cell 188\~134,58\cell 726\~978,64\cell 947\~412,23\cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \trowd \irow4\irowband4\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 \cell \cell \cell \cell \cell \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow5\irowband5\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 TOTAUX\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 561\~562,48\cell 888\~059,57\cell 239\~723,09\cell 188\~
+134,58\cell 801\~285,57\cell 1\~076\~194,15\cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow6\irowband6
+\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 \cell \cell \cell \cell \cell \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow7\irowband7\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\b\fs18\insrsid16211992\charrsid10688554 R\'e9sultats de cl\'f4ture\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 \cell }{
+\b\fs18\insrsid16211992\charrsid10688554 326\~497,09\cell 51\~588,51\cell \cell \cell 274\~908,58\cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \trowd \irow8\irowband8\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 \cell \cell \cell \cell \cell \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow9\irowband9\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 Restes \'e0 r\'e9aliser\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 \cell \cell 43\~000,00\cell \cell 43\~000,00
+\cell \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow10\irowband10\ts15\trgaph70\trleft-1260\trbrdrt
+\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 \cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 \cell \cell \cell \cell \cell \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow11\irowband11\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\fs18\insrsid16211992\charrsid10688554 TOTAUX CUMULES\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\insrsid16211992\charrsid10688554 561\~562,48\cell 888\~059,57\cell 94\~588,51\cell 
+\cell 43\~000,00\cell 274\~908,58\cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\insrsid16211992\charrsid10688554 \trowd \irow12\irowband12
+\ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1287\clshdrawnil \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx2004\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1977\clshdrawnil \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1817\clshdrawnil \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1217\clshdrawnil \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1428\clshdrawnil \cellx10260\row }\trowd \irow13\irowband13\lastrow \ts15\trgaph70\trleft-1260\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv
+\brdrs\brdrw10 \trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1287\clcbpatraw17 \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\clcbpat17\cltxlrtb\clftsWidth3\clwWidth1977\clcbpatraw17 \cellx2004\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1977\clcbpatraw17 \cellx3981\clvertalt
+\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1817\clcbpatraw17 \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1817\clcbpatraw17 \cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1217\clcbpatraw17 \cellx8832
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1428\clcbpatraw17 \cellx10260\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\fs18\cf6\insrsid16211992\charrsid6703758 RESULTATS DEFINITIFS\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid4802439\yts15 {\fs18\cf6\insrsid16211992\charrsid6703758 \cell }{\b\fs18\cf6\insrsid16211992\charrsid6703758 326\~497,09\cell 94\~588,51\cell \cell \cell 231\~908,58\cell 
+}\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\fs18\cf6\insrsid16211992\charrsid6703758 \trowd \irow13\irowband13\lastrow \ts15\trgaph70\trleft-1260\trbrdrt
+\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth3\trwWidth11520\trftsWidthB3\trftsWidthA3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1287\clcbpatraw17 \cellx27\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1977\clcbpatraw17 \cellx2004
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1977\clcbpatraw17 \cellx3981\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1817\clcbpatraw17 \cellx5798\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1817\clcbpatraw17 
+\cellx7615\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1217\clcbpatraw17 \cellx8832\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1428\clcbpatraw17 \cellx10260\row }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16211992 {\fs18\cf6\insrsid16211992\charrsid6703758 
+
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15934120 {\f36\insrsid15934120 2\'b0 - Constate aussi bien pour la comptabilit\'e9 principale que pour chacune des comptabilit\'e9s annexes, les  identit\'e9
+s de valeurs avec les indications du compte de gestion relative au report \'e0 nouveau, au r\'e9sultat d\rquote exploitation de l\rquote exercice et au fonds de roulement du bilan d\rquote entr\'e9e et du bilan de sortie, aux d\'e9bits et aux cr\'e9
+dits port\'e9s \'e0 titre budg\'e9taire aux diff\'e9rents comptes\~;
+\par 
+\par 3\'b0 - Reconna\'eet la sinc\'e9rit\'e9 des restes \'e0 r\'e9aliser\~;
+\par 
+\par 4\'b0 Arr\'eate les r\'e9sultats d\'e9finitifs tels que r\'e9sum\'e9s ci-dessus.
+\par }{\f36\insrsid11873085 
+\par }{\b\f36\fs28\ul\insrsid11873085\charrsid11873085 AFFECTATION DU RESULTAT D\rquote EXPLOITATION DE L\rquote EXERCICE 2008}{\b\f36\fs28\ul\insrsid11873085 
+\par }{\b\f36\fs28\ul\insrsid11022188 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11022188 {\f36\insrsid11022188 Le Conseil Municipal, r\'e9uni sous la pr\'e9sidence de M. BLANC-SIMON Jean-Luc, apr\'e8s avoir approuv\'e9
+ le compte administratif de l\rquote exercice 2008,
+\par 
+\par }{\b\f36\insrsid11022188\charrsid11022188 Consid\'e9rant}{\f36\insrsid11022188  qu\rquote il y a lieu de pr\'e9voir l\rquote \'e9quilibre budg\'e9taire,
+\par 
+\par }{\b\f36\insrsid11022188\charrsid11022188 Statuant}{\f36\insrsid11022188  sur l\rquote affectation du r\'e9sultat d\rquote exploitation de l\rquote exercice 2008,
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15934120 {\b\f36\insrsid11022188\charrsid11022188 Constatant}{\f36\insrsid11022188  que le compte administratif fait appara\'eetre\~:
+\par 
+\par - un exc\'e9dent de fonctionnement de\~:\tab \tab }{\f36\insrsid12985692 \tab }{\f36\insrsid11022188 \tab }{\f36\insrsid12985692        }{\b\f36\insrsid11022188\charrsid11022188 197\~715,17
+\par }{\f36\insrsid11022188 - un exc\'e9dent report\'e9 de\~:\tab \tab \tab \tab \tab }{\f36\insrsid12985692 \tab        }{\b\f36\insrsid11022188\charrsid11022188 128\~781,92}{\f36\insrsid11022188 
+\par Soit un exc\'e9dent de fonctionnement cumul\'e9 de\~:    }{\f36\insrsid12985692 \tab \tab        }{\b\f36\insrsid11022188\charrsid11022188 326\~497,09\tab }{\f36\insrsid11022188 
+\par - un d\'e9ficit d\rquote investissement de\~: \tab \tab \tab }{\f36\insrsid12985692 \tab  }{\f36\insrsid11022188  }{\f36\insrsid12985692 \tab          }{\b\f36\insrsid11022188\charrsid11022188 51\~588,51
+\par }{\f36\insrsid11022188 - un d\'e9ficit des restes \'e0 r\'e9aliser de\~:              }{\f36\insrsid12985692 \tab   }{\f36\insrsid11022188                }{\f36\insrsid12985692           }{\b\f36\insrsid11022188\charrsid11022188 43\~000,00
+\par }{\f36\insrsid11022188 Soit un besoin de financement de\~:                               }{\f36\insrsid12985692                  }{\b\f36\insrsid11022188\charrsid11022188 94\~588,51}{\f36\insrsid11022188 
+\par }{\b\f36\insrsid11022188\charrsid11022188 DECIDE }{\f36\insrsid11022188 d\rquote affecter le r\'e9sultat d\rquote exploitation de l\rquote exercice 2008 comme suit\~:
+\par 
+\par RESULTAT D\rquote EXPLOITATION AU 31.12.2008\~: EXCEDENT\tab    }{\f36\insrsid12985692    }{\b\f36\insrsid11022188\charrsid14762803 326\~497,09
+\par }{\f36\insrsid11022188 AFFECTATION COMPLEMENTAIRE EN RESERVE (1068)           }{\f36\insrsid12985692   }{\f36\insrsid11022188  }{\b\f36\insrsid11022188\charrsid14762803 94\~588,51
+\par }{\f36\insrsid11022188 RESULTAT DE FONCTIONNEMENT REPORTE (002)                 }{\f36\insrsid12985692   }{\b\f36\cf6\insrsid12985692\charrsid6703758 2}{\b\f36\cf6\insrsid11022188\charrsid6703758 31\~908,58}{\f36\insrsid11022188 
+\par 
+\par RESULTAT D\rquote INVESTISSEMENT REPORTE (001)\~: DEFICIT       }{\f36\insrsid12985692   }{\f36\insrsid11022188  }{\b\f36\insrsid11022188\charrsid14762803 51\~588,51}{\f36\insrsid11022188 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12985692 {\b\f36\fs28\ul\insrsid11873085\charrsid6185290 APPROBATION DU COMPTE DE GESTION DRESSE PAR MONSIEUR Bernard FRAN\'c7OISE, }{\b\f36\fs28\ul\insrsid11873085 
+Receveur.}{\b\f36\fs28\ul\insrsid11873085\charrsid6185290 
+\par }{\f36\insrsid11873085 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11873085 {\f36\insrsid11873085 Le Conseil Municipal, apr\'e8s s\rquote \'eatre fait pr\'e9senter les budgets primitifs et suppl\'e9mentaires de l\rquote 
+exercice 2008 et les d\'e9cisions modificatives qui s\rquote y rattachent, les titres d\'e9finitifs des cr\'e9ances \'e0 recouvrer, le d\'e9tail des d\'e9penses effectu\'e9es et celui des mandats d\'e9livr\'e9s, les bor
+dereaux de titres de recettes, les bordereaux de mandats, le compte de gestion dress\'e9 par le Receveur accompagn\'e9 des \'e9tats de d\'e9veloppement des comptes de tiers ainsi que l\rquote \'e9tat de l\rquote Actif, l\rquote \'e9tat du Passif, l
+\rquote \'e9tat des restes \'e0 recouvrer et l\rquote \'e9tat des restes \'e0 payer.
+\par 
+\par Apr\'e8s avoir entendu et approuv\'e9 le compte administratif de l\rquote exercice 2008.
+\par 
+\par Apr\'e8s s\rquote \'eatre assur\'e9 que le receveur a repris dans ses \'e9critures le montant de chacun des soldes figurant au bilan de l\rquote exercice 2008, celui de tous les titres de recettes \'e9mis et celui de tous les mandats de paiement ordonnanc
+\'e9s et qu\rquote il a proc\'e9d\'e9 toutes les op\'e9rations d\rquote ordre qu\rquote il lui a \'e9t\'e9 prescrit de passer dans ses \'e9critures.
+\par 
+\par Consid\'e9rant que toutes les op\'e9rations ont \'e9t\'e9 r\'e9guli\'e8rement effectu\'e9es\~:
+\par 
+\par 1\'b0 - Statuant sur l\rquote ensemble des op\'e9rations effectu\'e9es du 1}{\f36\super\insrsid11873085\charrsid15148303 er}{\f36\insrsid11873085  janvier 2008 au 31 d\'e9cembre 2008, y compris celles relatives \'e0 la journ\'e9e compl\'e9mentaire\~;
+
+\par 
+\par 2\'b0 - Statuant sur l\rquote ex\'e9cution du budget de l\rquote exercice 2008 en ce qui concerne les diff\'e9rentes sections budg\'e9taires et budgets annexes\~;
+\par 
+\par 3\'b0 - Statuant sur la comptabilit\'e9 des valeurs inactives\~;
+\par 
+\par {\listtext\pard\plain\f36\insrsid11873085\charrsid15148303 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid11873085 {
+\b\f36\insrsid11873085\charrsid15148303 D\'e9clare que le compte de gestion dress\'e9 pour l\rquote exercice 2008 par le Receveur, vis\'e9 et certifi\'e9 conforme par l\rquote ordonnateur, n\rquote appelle ni observation ni r\'e9serve de sa part.}{
+\b\f36\insrsid11873085 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f36\insrsid16479920 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f36\fs28\ul\insrsid16479920\charrsid2181448 BUDGET PRIMITIF PRINCIPAL DE LA COMMUNE}{\b\f36\fs28\ul\insrsid16479920  }{\b\f36\fs28\insrsid16479920 
+\endash  }{\b\f36\fs28\ul\insrsid16479920\charrsid2181448 EXERCICE 200}{\b\f36\fs28\ul\insrsid16479920 9}{\b\f36\fs28\insrsid16479920  \endash 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f36\fs28\insrsid16479920 
+\par }{\f36\insrsid16479920\charrsid16012794 Monsieur le Maire pr\'e9sente au Conseil Municipal le projet de Budget Primitif de la commune de BROCAS, pour l\rquote ann\'e9e 200}{\f36\insrsid16479920 9, }{\f36\insrsid16479920\charrsid16012794  \'e9quilibr\'e9
+ en d\'e9penses et en recettes, toutes sections confondues, \'e0 la somme de }{\b\f36\ul\cf6\insrsid16479920\charrsid6703758 1\~527 312 \'80}{\f36\insrsid16479920\charrsid16012794  et d\'e9taill\'e9 comme suit\~:}{\f36\insrsid16479920 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f36\fs28\ul\insrsid16479920 S}{\b\f36\fs28\ul\insrsid16479920\charrsid16012794 ECTION DE FONCTIONNEMENT
+\par VUE D\rquote ENSEMBLE
+\par }{\f37\insrsid16479920 
+\par }{\b\f36\ul\insrsid16479920\charrsid16012794 DEPENSES
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\f37\insrsid16479920 
+\par }\trowd \irow0\irowband0\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw18 \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4499\clcbpatraw18 \cellx6123
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3040\clcbpatraw18 \cellx9157\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\insrsid16479920\charrsid16012794 CHAPITRES\cell LIBELLES\cell PROPOSITIONS 200}{
+\b\f36\insrsid16479920 9}{\b\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f37\insrsid16479920 
+\trowd \irow0\irowband0\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw18 \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4499\clcbpatraw18 \cellx6123
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3040\clcbpatraw18 \cellx9157\row }\trowd \irow1\irowband1\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 011\cell }\pard \qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Charges 
+\'e0 caract\'e8re g\'e9n\'e9ral\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 202 600}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow1\irowband1\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 012\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Charges de personnel et frais assimil\'e9s\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 259 300}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow2\irowband2\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 65\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Autres charges de gestion courante\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 197 404}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow3\irowband3\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 66\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Charges financi\'e8res\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 11 054}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow4\irowband4\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 67\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Charges exceptionnelles\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 4 200}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow5\irowband5\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 022\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 D\'e9penses impr\'e9vues\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 25 000}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow6\irowband6\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\row }\trowd \irow7\irowband7\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol 
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw17 \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth4499\clcbpatraw17 \cellx6123\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth3040\clcbpatraw17 
+\cellx9157\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\insrsid16479920\charrsid16012794 D\'e9penses de l\rquote exercice\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\insrsid16479920 699 558}{\b\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow7\irowband7\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw17 \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth4499\clcbpatraw17 \cellx6123
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth3040\clcbpatraw17 \cellx9157\row }\trowd \irow8\irowband8\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 023\cell }\pard \qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 
+Virement \'e0 la section d\rquote investissement\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 99 737}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow8\irowband8\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4499\clshdrawnil \cellx6123\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3040\clshdrawnil \cellx9157\row }\trowd \irow9\irowband9\lastrow \ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 
+\trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw18 \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4499\clcbpatraw18 \cellx6123
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3040\clcbpatraw18 \cellx9157\pard\plain 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \cell }{\b\f36\cf6\insrsid16479920\charrsid6703758 
+TOTAL DEPENSES\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\cf6\insrsid16479920\charrsid6703758 799 295\cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow9\irowband9\lastrow \ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 
+\trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw18 \cellx1640\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4499\clcbpatraw18 \cellx6123
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3040\clcbpatraw18 \cellx9157\row }\pard 
+\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f37\ul\insrsid16479920 
+\par }{\b\f36\ul\insrsid16479920\charrsid16012794 RECETTES
+\par 
+\par }\trowd \irow0\irowband0\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw18 \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4413\clcbpatraw18 \cellx6054
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9125\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\insrsid16479920\charrsid6703758 CHAPITRES\cell LIBELLES\cell PROPOSITIONS 2009}{
+\b\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow0\irowband0
+\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw18 \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4413\clcbpatraw18 \cellx6054
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9125\row }\trowd \irow1\irowband1\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 70\cell }\pard \qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 
+Produit des services\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 13 750}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow1\irowband1\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 73\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Imp\'f4ts et taxes\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 97 211}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow2\irowband2\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 74\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Dotations et participations\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 285 114}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow3\irowband3\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 75\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Autres produits de gestion courante\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 164 700}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow4\irowband4\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 013\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Att\'e9nuation de charges\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 0}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow5\irowband5\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 76\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Produits financiers\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 300}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow6\irowband6\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 77\cell }\pard 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Produits exceptionnels\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 6 312}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow7\irowband7\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\row }\trowd \irow8\irowband8\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol 
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw18 \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4413\clcbpatraw18 \cellx6054\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 
+\cellx9125\pard\plain \qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \cell }{
+\b\f36\insrsid16479920\charrsid16012794 Recettes de l\rquote exercice\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\insrsid16479920 567 387}{\b\f36\insrsid16479920\charrsid16012794 
+\cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow8\irowband8\ts15\trgaph70\trleft-108\trbrdrt
+\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw18 \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4413\clcbpatraw18 \cellx6054
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9125\row }\trowd \irow9\irowband9\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 002\cell }\pard \qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid16012794 Exc\'e9
+dent de fonctionnement report\'e9\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 231 908}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow9\irowband9\ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1749\clshdrawnil \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4413\clshdrawnil \cellx6054\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9125\row }\trowd \irow10\irowband10\lastrow \ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 
+\trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw17 \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4413\clcbpatraw18 \cellx6054
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9125\pard\plain 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \cell }{\b\f36\cf6\insrsid16479920\charrsid6703758 
+TOTAL RECETTES\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\cf6\insrsid16479920\charrsid6703758 799 295\cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow10\irowband10\lastrow \ts15\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 
+\trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat17\cltxlrtb\clftsWidth3\clwWidth1749\clcbpatraw17 \cellx1641\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4413\clcbpatraw18 \cellx6054
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9125\row }\pard 
+\qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\f36\insrsid16479920 
+\par }{\f36\insrsid16479920\charrsid16012794 En d\'e9penses de fonctionnement, \'e0 l\rquote article 6574, il est propos\'e9 le versement des subventions suivantes\~:}{\f36\insrsid16479920 
+\par 
+\par }\trowd \irow0\irowband0\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4030\clcbpatraw18 \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1800\clcbpatraw18 \cellx5722
+\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\insrsid16479920 A}{\b\f36\insrsid16479920\charrsid16012794 SSOCIATION\cell montant
+\cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow0\irowband0\ts15\trqc\trgaph70\trleft-108\trbrdrt
+\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4030\clcbpatraw18 \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1800\clcbpatraw18 \cellx5722
+\row }\trowd \irow1\irowband1\ts15\trqc\trgaph70\trrh232\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\lang2057\langfe1036\langnp2057\insrsid16479920\charrsid1327901 U.S.B. SECTION TENNIS\cell 
+}\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\lang2057\langfe1036\langnp2057\insrsid16479920 1 000}{\f36\lang2057\langfe1036\langnp2057\insrsid16479920\charrsid1327901 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\lang2057\langfe1036\langnp2057\insrsid16479920\charrsid1327901 \trowd \irow1\irowband1
+\ts15\trqc\trgaph70\trrh232\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row 
+}\trowd \irow2\irowband2\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 COMITE DES FETES\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 1 100}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow2\irowband2\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 A.C.C.A. DE BROCAS\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 700}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow3\irowband3\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\f36\lang2057\langfe1036\langnp2057\insrsid16479920\charrsid16012794 U.S.B. SECTION FOOTBALL\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\lang2057\langfe1036\langnp2057\insrsid16479920 
+3 354}{\f36\lang2057\langfe1036\langnp2057\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\f36\lang2057\langfe1036\langnp2057\insrsid16479920\charrsid16012794 \trowd \irow4\irowband4\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv
+\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722
+\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 U.S.B. SECTION PETANQUE\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 550}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow5\irowband5\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\f36\insrsid16479920\charrsid16012794 U.S.B. SECTION PELOTE\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 400}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow6\irowband6\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920 MUSEE DES FORGES}{\f36\insrsid16479920\charrsid16012794 \cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 650}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow7\irowband7\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\f36\insrsid16479920\charrsid16012794 ANCIENS COMBATTANTS\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 150}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow8\irowband8\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 CERCLE TAURIN\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 0}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow9\irowband9\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\f36\insrsid16479920\charrsid16012794 PARENTS D\rquote ELEVES\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 450}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow10\irowband10\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 PREVENTION ROUTIERE\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 250}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow11\irowband11\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920 BROC
+\rquote ATTITUDE      }{\f36\insrsid16479920\charrsid16012794 \cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 1 000}{\f36\insrsid16479920\charrsid16012794 \cell 
+}\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow12\irowband12\ts15\trqc\trgaph70\trleft-108\trbrdrt
+\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920 SYNDICAT D\rquote INITIATIVE}{\f36\insrsid16479920\charrsid16012794 \cell 
+}\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 500}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow13\irowband13\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 CERCLE DES TRAVAILLEURS\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 500}{\f36\insrsid16479920\charrsid16012794 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow14\irowband14\ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4030\clshdrawnil \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1800\clshdrawnil \cellx5722\row }\trowd \irow15\irowband15\lastrow \ts15\trqc\trgaph70\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv
+\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth4030\clcbpatraw19 \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\clcbpat19\cltxlrtb\clftsWidth3\clwWidth1800\clcbpatraw19 \cellx5722\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\b\f36\cf6\insrsid16479920\charrsid6703758 TOTAL\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\cf6\insrsid16479920\charrsid6703758 10 604\cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid16012794 \trowd \irow15\irowband15\lastrow \ts15\trqc\trgaph70\trleft-108\trbrdrt
+\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth4030\clcbpatraw19 \cellx3922\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1800\clcbpatraw19 \cellx5722
+\row }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f37\fs28\ul\insrsid16479920 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\f36\insrsid16479920 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f36\fs28\ul\insrsid16479920\charrsid6446293 SECTION D\rquote INVESTISSEMENT
+\par VUE D\rquote ENSEMBLE
+\par }{\b\f36\ul\insrsid16479920\charrsid6446293 
+\par DEPENSES
+\par 
+\par }\trowd \irow0\irowband0\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1690\clcbpatraw18 \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4451\clcbpatraw18 \cellx6071
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9142\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\insrsid16479920\charrsid6446293 COMPTES\cell LIBELLES\cell PROPOSITIONS 200}{
+\b\f36\insrsid16479920 9}{\b\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {
+\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow0\irowband0\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1690\clcbpatraw18 \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4451\clcbpatraw18 \cellx6071
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9142\row }\trowd \irow1\irowband1\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \cell \cell \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow1\irowband1\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 001\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid6446293 D\'e9ficit d\rquote investissement report\'e9\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 51 589}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow2\irowband2\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 16\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid6446293 Remboursement d\rquote emprunts\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 36 115}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow3\irowband3\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 20\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid6446293 Immobilisations incorporelles\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 22 000}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow4\irowband4\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 21\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid6446293 Immobilisations corporelles\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 583 313}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow5\irowband5\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 23\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid6446293 Immobilisations en cours\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 35 000}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow6\irowband6\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 27\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid6446293 Autres immobilisations financi\'e8res\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 0}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow7\irowband7\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 020\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid6446293 D\'e9penses impr\'e9vues\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 0}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow8\irowband8\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\ul\insrsid16479920\charrsid6446293 \cell }\pard \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {
+\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow9\irowband9
+\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\trowd \irow10\irowband10\lastrow \ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 
+\trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1690\clcbpatraw18 \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4451\clcbpatraw18 \cellx6071
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9142\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \cell }{\b\f36\cf6\insrsid16479920\charrsid6703758 
+TOTAL DEPENSES\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\cf6\insrsid16479920\charrsid6703758 728 017\cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\ul\insrsid16479920\charrsid6446293 \trowd \irow10\irowband10\lastrow \ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 
+\trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1690\clcbpatraw18 \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4451\clcbpatraw18 \cellx6071
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9142\row }\pard 
+\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f36\ul\insrsid16479920\charrsid6446293 
+\par }{\b\f36\ul\insrsid16479920 
+\par }{\b\f36\ul\insrsid16479920\charrsid6446293 RECETTES}{\f36\insrsid16479920\charrsid6446293 
+\par 
+\par }\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\insrsid16479920\charrsid6446293 COMPTES\cell LIBELLES\cell PROPOSITIONS 200}{
+\b\f36\insrsid16479920 9}{\b\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 
+\trowd \irow0\irowband0\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1690\clcbpatraw18 \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4451\clcbpatraw18 \cellx6071
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9142\row }\trowd \irow1\irowband1\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \cell \cell \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 
+{\f36\insrsid16479920\charrsid6446293 \trowd \irow1\irowband1\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 10\cell Dotations \endash  Fonds divers \endash  R\'e9serves 
+\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 122 655}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \trowd \irow2\irowband2\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 13\cell Subventions d\rquote investissement\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 117 568}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \trowd \irow3\irowband3\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid736275 16}{\f36\insrsid16479920\charrsid6446293 \cell }{\f36\insrsid736275 Emprunts}{
+\f36\insrsid16479920\charrsid6446293 \cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 388 057}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \trowd \irow4\irowband4\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 021\cell Virement de la section de fonctionn.\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920 99 737}{\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \trowd \irow5\irowband5\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \cell \cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid16479920\charrsid6446293 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \trowd \irow6\irowband6\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1690\clshdrawnil \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth4451\clshdrawnil \cellx6071\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3071\clshdrawnil \cellx9142\row }\trowd \irow7\irowband7\lastrow 
+\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1690\clcbpatraw18 \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4451\clcbpatraw18 \cellx6071
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9142\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \cell }{\b\f36\cf6\insrsid16479920\charrsid6703758 
+TOTAL RECETTES\cell }\pard \qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\b\f36\cf6\insrsid16479920\charrsid6703758 728 017\cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid16479920\charrsid6446293 \trowd \irow7\irowband7\lastrow \ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth1690\clcbpatraw18 \cellx1620\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth4451\clcbpatraw18 \cellx6071
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat18\cltxlrtb\clftsWidth3\clwWidth3071\clcbpatraw18 \cellx9142\row }\pard 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\f36\insrsid16479920 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\f36\insrsid16479920 Apr\'e8s \'e9claircissements apport\'e9s, et d\'e9lib\'e9rations, }{\f36\insrsid16479920\charrsid6446293 Monsieur le Maire demande \'e0
+ l\rquote assembl\'e9e de se prononcer sur }{\f36\insrsid16479920 l\rquote adoption }{\f36\insrsid16479920\charrsid6446293 du budget primitif principal de la commune}{\f36\insrsid16479920  tel que ci-dessus}{\f36\insrsid16479920\charrsid6446293 
+\par 
+\par Il est proc\'e9d\'e9 au vote qui donne les r\'e9sultats suivants\~:
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f36\insrsid16479920 
+\par }{\b\f36\insrsid1769944 
+\par 
+\par }{\b\f36\insrsid10703336 
+\par 
+\par }{\b\f36\insrsid16479920\charrsid6446293 Nombre de conseillers en exercice}{\b\f36\insrsid16479920  \'85\'85..  14}{\b\f36\insrsid16479920\charrsid6446293 
+\par Nombre de conseiller}{\b\f36\insrsid16479920 s}{\b\f36\insrsid16479920\charrsid6446293  pr\'e9sents}{\b\f36\insrsid16479920  \'85\'85\'85...  }{\b\f36\insrsid16479920\charrsid6446293 1}{\b\f36\insrsid16479920 1}{\b\f36\insrsid16479920\charrsid6446293 
+
+\par Nombre de suffrages exprim\'e9s}{\b\f36\insrsid16479920  \'85\'85\'85\'85..}{\b\f36\insrsid16479920\charrsid6446293   1}{\b\f36\insrsid16479920 1}{\b\f36\insrsid16479920\charrsid6446293 
+\par Vote\~:  pour \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85}{\b\f36\insrsid16479920 \'85\'85\'85.  11 
+\par }{\b\f36\insrsid2714884 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2714884 {\b\f36\fs28\ul\insrsid2714884\charrsid5854216 TAUX D\rquote IMPOSITION}{\b\f36\fs28\ul\insrsid2714884  DES QUATRE TAXES DIRE\tab CTES LOCALES  POUR L\rquote 
+ANNEE }{\b\f36\fs28\ul\insrsid2714884\charrsid5854216 200}{\b\f36\fs28\ul\insrsid2714884 9}{\b\f36\fs28\ul\insrsid2714884\charrsid5854216 
+\par }{\f36\insrsid2714884\charrsid5854216 
+\par Dans le cadre du vote du budget primitif principal de l\rquote exercice 200}{\f36\insrsid2714884 9, Monsieur le Maire expose \'e0 l\rquote assembl\'e9e\~:
+\par }{\f36\insrsid2714884\charrsid5854216 
+\par }{\b\f36\insrsid2714884\charrsid5854216 Consid\'e9rant}{\f36\insrsid2714884\charrsid5854216  les bases notifi\'e9es}{\f36\insrsid2714884  en augmentation}{\f36\insrsid2714884\charrsid5854216  des quatre taxes directes locales pour 200}{
+\f36\insrsid2714884 9 }{\f36\insrsid2714884\charrsid5854216 ;
+\par 
+\par }{\b\f36\insrsid2714884\charrsid5854216 Consid\'e9rant}{\f36\insrsid2714884\charrsid5854216  le produit fiscal n\'e9cessaire \'e0 l\rquote \'e9quilibre dudit budget\~;}{\f36\insrsid2714884 
+\par 
+\par }{\b\f36\insrsid9187632\charrsid9187632 Consid\'e9rant}{\f36\insrsid10703336  qu\rquote il n\rquote y a pas eu d\rquote investissement important r\'e9alis\'e9 depuis le d\'e9but de la nouvelle mandature et vu le contexte de crise \'e9conomique, }{
+\f36\insrsid2714884 Monsieur le Maire }{\f36\insrsid10703336 estime qu\rquote il n\rquote est pas opportun d\rquote ob\'e9rer davantage le budget des contribuables de la commune et dit qu\rquote il n}{\f36\insrsid9187632 \rquote est pas souhaitable,}{
+\f36\insrsid10703336  }{\f36\insrsid2714884 cette ann\'e9e encore, }{\f36\insrsid9187632 d\rquote }{\f36\insrsid2714884 augmenter les taux d\rquote imposition}{\f36\insrsid10703336 . Il}{\f36\insrsid2714884  d\'e9
+taille comme ci-dessous ce que serait le produit fiscal attendu en conservant les taux\~de 2008\~:
+\par 
+\par 
+\par }\trowd \irow0\irowband0\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth2139\clcbpatraw19 \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1811\clcbpatraw19 \cellx3872
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1581\clcbpatraw19 \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1765\clcbpatraw19 \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1954\clcbpatraw19 
+\cellx9157\pard\plain \qc \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\insrsid2714884\charrsid2105103 TAXES\cell BASES 200}{
+\b\f36\insrsid2714884 9}{\b\f36\insrsid2714884\charrsid2105103 \cell TAUX 200}{\b\f36\insrsid2714884 8}{\b\f36\insrsid2714884\charrsid2105103 \cell TAUX 200}{\b\f36\insrsid2714884 9}{\b\f36\insrsid2714884\charrsid2105103 \cell PRODUIT\cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 \trowd \irow0\irowband0\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth2139\clcbpatraw19 \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1811\clcbpatraw19 \cellx3872
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1581\clcbpatraw19 \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1765\clcbpatraw19 \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1954\clcbpatraw19 
+\cellx9157\row }\trowd \irow1\irowband1\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2139\clshdrawnil \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1811\clshdrawnil \cellx3872\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1581\clshdrawnil \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1765\clshdrawnil \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1954\clshdrawnil \cellx9157\pard\plain 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 \cell \cell \cell \cell \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 \trowd \irow1\irowband1\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2139\clshdrawnil \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1811\clshdrawnil \cellx3872\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1581\clshdrawnil \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1765\clshdrawnil \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1954\clshdrawnil \cellx9157\row }\pard\plain 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 Habitation\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid2714884 527 300}{\f36\insrsid2714884\charrsid2105103 \cell }{\f36\insrsid2714884 6,57}{\f36\insrsid2714884\charrsid2105103 \cell 6,57\cell }{
+\f36\insrsid2714884 34 644}{\f36\insrsid2714884\charrsid2105103 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 
+\trowd \irow2\irowband2\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2139\clshdrawnil \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1811\clshdrawnil \cellx3872\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1581\clshdrawnil \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1765\clshdrawnil \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1954\clshdrawnil \cellx9157\row }\pard\plain 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 Fonci\'e8re B\'e2ti\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid2714884 345 900}{\f36\insrsid2714884\charrsid2105103 \cell }{\f36\insrsid2714884 7,41}{\f36\insrsid2714884\charrsid2105103 \cell 7,41\cell }{
+\f36\insrsid2714884 25 631}{\f36\insrsid2714884\charrsid2105103 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 
+\trowd \irow3\irowband3\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2139\clshdrawnil \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1811\clshdrawnil \cellx3872\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1581\clshdrawnil \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1765\clshdrawnil \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1954\clshdrawnil \cellx9157\row }\pard\plain 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 Fonci\'e8re Non B\'e2ti\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid2714884 56 600}{\f36\insrsid2714884\charrsid2105103 \cell }{\f36\insrsid2714884 14,13}{\f36\insrsid2714884\charrsid2105103 \cell 14,13\cell }{
+\f36\insrsid2714884 7 998}{\f36\insrsid2714884\charrsid2105103 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 
+\trowd \irow4\irowband4\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2139\clshdrawnil \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1811\clshdrawnil \cellx3872\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1581\clshdrawnil \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1765\clshdrawnil \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1954\clshdrawnil \cellx9157\row }\pard\plain 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 Professionnelle\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid2714884 651 300}{\f36\insrsid2714884\charrsid2105103 \cell }{\f36\insrsid2714884 4,09}{\f36\insrsid2714884\charrsid2105103 \cell 4,09\cell }{
+\f36\insrsid2714884 26 638}{\f36\insrsid2714884\charrsid2105103 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 
+\trowd \irow5\irowband5\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2139\clshdrawnil \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1811\clshdrawnil \cellx3872\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1581\clshdrawnil \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth1765\clshdrawnil \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1954\clshdrawnil \cellx9157\row }\pard\plain 
+\qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 \cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid2714884\charrsid2105103 \cell \cell \cell \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 \trowd \irow6\irowband6\ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 
+\trbrdrv\brdrs\brdrw10 \trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2139\clshdrawnil \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1811\clshdrawnil \cellx3872
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1581\clshdrawnil \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1765\clshdrawnil \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1954\clshdrawnil \cellx9157\row 
+}\trowd \irow7\irowband7\lastrow \ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth2139\clcbpatraw19 \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1811\clcbpatraw19 \cellx3872
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1581\clcbpatraw19 \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1765\clcbpatraw19 \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1954\clcbpatraw19 
+\cellx9157\pard\plain \qj \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\b\f36\cf6\insrsid2714884\charrsid6703758 PRODUIT\cell }\pard 
+\qr \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid10968101\yts15 {\f36\insrsid2714884\charrsid2105103 \cell \cell \cell }{\b\f36\cf6\insrsid2714884\charrsid6703758 94 911\cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 {\f36\insrsid2714884\charrsid2105103 \trowd \irow7\irowband7\lastrow \ts15\trgaph70\trleft-70\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllklastrow\tbllkhdrcols\tbllklastcol \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth2139\clcbpatraw19 \cellx2067\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1811\clcbpatraw19 \cellx3872
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1581\clcbpatraw19 \cellx5448\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1765\clcbpatraw19 \cellx7207\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \clcbpat19\cltxlrtb\clftsWidth3\clwWidth1954\clcbpatraw19 
+\cellx9157\row }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2714884 {\f36\insrsid2714884 
+\par }{\f36\insrsid2714884\charrsid6446293 La proposition de Monsieur le Maire de conserver les taux de 200}{\f36\insrsid2714884 8}{\f36\insrsid2714884\charrsid6446293  est soumise \'e0 un vote \'e0 main lev\'e9e qui donne les r\'e9sultats suivants\~:
+\par 
+\par }{\f36\ul\insrsid2714884\charrsid6446293 Nombre de votants}{\f36\insrsid2714884\charrsid6446293 \~: 1}{\f36\insrsid2714884 1
+\par }{\f36\ul\insrsid2714884\charrsid6446293 Pour le maintien des taux de 200}{\f36\ul\insrsid2714884 8}{\f36\insrsid2714884\charrsid6446293 \~: 11}{\f36\insrsid2714884  }{\f36\insrsid2714884\charrsid6446293 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\b\f36\insrsid2714884 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16479920 {\f36\insrsid16479920 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16397781 {\b\f36\fs28\ul\insrsid10703336 
+\par 
+\par 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10703336 {\b\f36\fs28\ul\insrsid16397781\charrsid4333477 APPLICATION DU PLAN DE RELANCE DE L\rquote ECONOMIE }{\b\f36\fs28\ul\insrsid16397781 
+\par }{\b\f36\fs28\ul\insrsid16397781\charrsid4333477 RELATIF AU FCTVA}{\b\f36\fs28\ul\insrsid16397781 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16397781 {\b\f36\fs28\ul\insrsid16397781 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16397781 {\b\f36\insrsid16397781 Application des dispositions de l\rquote article 1}{\b\f36\super\insrsid16397781\charrsid4333477 er}{\b\f36\insrsid16397781 
+ de la loi de finances rectificative pour 2009, codifi\'e9es \'e0 l\rquote article L. 1615-6 du code g\'e9n\'e9ral des collectivit\'e9s territoriales, pour le versement anticip\'e9 des attributions du FCTVA au titre des d\'e9penses r\'e9alis\'e9
+es en 2008.
+\par 
+\par }{\b\f36\insrsid16397781\charrsid7831144 VU }{\f36\insrsid16397781 le Code G\'e9n\'e9ral des collectivit\'e9s territoriales et notamment son article L. 1615-6,
+\par 
+\par Le dispositif du plan de relance de l\rquote \'e9conomie relatif au fonds de compensation pour la TVA (FCTVA), inscrit \'e0 l\rquote article L. 1615-6 du code g\'e9n\'e9ral des collectivit\'e9
+s territoriales (CGCT), permet le versement en 2009 des attributions du fonds au titre des d\'e9penses r\'e9alis\'e9es en 2008 pour les b\'e9n\'e9ficiaires du fonds qui s\rquote engagent, par convention avec le repr\'e9sentant de l\rquote Etat, \'e0 accro
+\'eetre leurs d\'e9penses d\rquote investissement en 2009.
+\par 
+\par Cette d\'e9rogation au principe du d\'e9calage de deux ans entre la r\'e9alisation de la d\'e9pense et l\rquote attribution du FCTVA devient p\'e9renne pour les b\'e9n\'e9ficiaires du fonds d\'e8s que les services de pr\'e9fectures constateront, au 1}{
+\f36\super\insrsid16397781\charrsid13395463 er}{\f36\insrsid16397781  trimestre 2010, qu\rquote ils ont respect\'e9 leur engagement au regard des montants effectivement r\'e9alis\'e9s en 2009.
+\par 
+\par Ayant entendu l\rquote expos\'e9 de Monsieur le Maire,
+\par 
+\par Apr\'e8s en avoir d\'e9lib\'e9r\'e9, \'e0 l\rquote unanimit\'e9 soit par 11 voix, le Conseil Municipal\~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid16397781\charrsid7831144 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid16397781 {
+\b\f36\insrsid16397781\charrsid7831144 PREND }{\b\f36\insrsid16397781 A}{\b\f36\insrsid16397781\charrsid7831144 CTE}{\f36\insrsid16397781  que le montant de r\'e9f\'e9rence est la moyenne des montants des d\'e9penses r\'e9elles d\rquote \'e9quipement r
+\'e9alis\'e9es pour les exercices 2004, 2005, 2006 et 2007, soit cent mille cent vingt-sept (100\~127) Euros\~;
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16397781 {\f36\insrsid16397781 
+\par {\listtext\pard\plain\f36\insrsid16397781\charrsid7831144 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid16397781 {
+\b\f36\insrsid16397781\charrsid7831144 DECIDE}{\f36\insrsid16397781  d\rquote inscrire au budget de la commune six cent quarante mille trois cent treize (640\~313) Euros de d\'e9penses r\'e9elles d\rquote \'e9quipement, soit une augmentation de 
+\par }\pard \qj \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid16397781 {\f36\insrsid16274507 539,50}{\f36\insrsid16397781  % par rapport au montant de r\'e9f\'e9rence d\'e9termin\'e9 par les services de l\rquote Etat\~;
+
+\par }\pard \qj \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid16397781 {\f36\insrsid16397781 
+\par {\listtext\pard\plain\f36\insrsid16397781\charrsid7831144 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid16397781 {
+\b\f36\insrsid16397781\charrsid7831144 AUTORISE}{\f36\insrsid16397781  le Maire \'e0 conclure avec le repr\'e9sentant de l\rquote Etat la convention par laquelle la commune s\rquote engage \'e0 augmenter ses d\'e9penses r\'e9elles d\rquote \'e9
+quipement en 2009}{\f36\insrsid16274507  d\rquote au moins 100\~128 \'80}{\f36\insrsid16397781  afin de b\'e9n\'e9ficier de la r\'e9duction du d\'e9lai d\rquote attribution du FCTVA au titre des d\'e9penses r\'e9alis\'e9es en 2008.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10703336 {\f36\insrsid10703336 
+\par 
+\par 
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1079980 {\f36\insrsid1079980 
+\par }\pard \qc \li0\ri0\widctlpar\brdrt\brdrs\brdrw10\brsp20 \brdrl\brdrs\brdrw10\brsp80 \brdrb\brdrs\brdrw10\brsp20 \brdrr\brdrs\brdrw10\brsp80 \aspalpha\aspnum\faauto\adjustright\rin0\lin0\rtlgutter\itap0\pararsid1079980 {\b\f36\fs28\insrsid1079980 
+\par }{\b\f36\fs28\insrsid1079980\charrsid11798928 CONVENTION POUR L\rquote APPLICATION DU DISPOSITIF
+\par DU PLAN DE RELANCE DE L\rquote ECONOMIE RELATIF AU FCTVA}{\b\f36\fs28\insrsid1079980 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1079980 {\b\f36\fs28\insrsid1079980 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1079980 {\f36\insrsid1079980 
+\par }{\b\f36\insrsid1079980\charrsid16647007 ENTRE
+\par Le Pr\'e9fet des Landes
+\par }{\f36\insrsid1079980 
+\par }{\b\f36\insrsid1079980\charrsid16647007 ET
+\par }{\f36\insrsid1079980 
+\par }{\b\f36\insrsid1079980\charrsid16647007 La Commune de Brocas
+\par }{\f36\insrsid1079980 Repr\'e9sent\'e9e par son Maire, Monsieur Michel FOURCADE,
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1079980 {\b\f36\insrsid1079980\charrsid16647007 VU }{\f36\insrsid1079980 la d\'e9lib\'e9ration du Conseil Municipal en date du 31 mars 2009 autorisant le Maire \'e0
+ conclure la pr\'e9sente convention,
+\par }{\b\f36\insrsid1079980\charrsid16647007 VU }{\f36\insrsid1079980 l\rquote article L. 1615-6 du Code G\'e9n\'e9ral des Collectivit\'e9s Territoriales issu de l\rquote article 1}{\f36\super\insrsid1079980\charrsid11798928 er}{\f36\insrsid1079980 
+ de la loi de finances rectificative pour 2009,
+\par 
+\par }{\b\f36\insrsid1079980\charrsid16647007 EST CONVENU CE QUI SUIT}{\f36\insrsid1079980 \~:
+\par 
+\par }{\f36\ul\insrsid1079980\charrsid16647007 Article 1}{\f36\ul\super\insrsid1079980\charrsid16647007 er}{\f36\insrsid1079980  \endash  }{\f36\ul\insrsid1079980\charrsid3159223 Progression des d\'e9penses r\'e9elles d\rquote \'e9quipement}{
+\f36\insrsid1079980 
+\par Les d\'e9penses r\'e9elles d\rquote \'e9quipement de la commune de Brocas, inscrites aux comptes 20, 204, 21 et 23 de l\rquote exercice 2009 s\rquote \'e9tablissent \'e0 six cent quarante mille trois cent treize (640\~313) Euros.
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1079980 {\f36\insrsid1079980 Le signataires conviennent que ce montant est sup\'e9rieur d\rquote au moins un euro \'e0 la moyenne des d\'e9penses constat\'e9
+es au cours des ann\'e9es 2004, 2005, 2006 et 2007, s\rquote \'e9tablissant \'e0 cent mille sept cent vingt-sept (100\~727) Euros, conform\'e9ment \'e0 l\rquote article L.1615-6 du CGCT.}{\f36\insrsid16274507 
+\par }{\f36\insrsid1079980 L\rquote augmentation est de }{\f36\insrsid16274507 539,50 }{\f36\insrsid1079980 %.
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1079980 {\f36\insrsid1079980 
+\par }{\f36\ul\insrsid1079980\charrsid3159223 Article 2}{\f36\insrsid1079980  \endash  }{\f36\ul\insrsid1079980\charrsid3159223 Versement du FCTVA d\'fb au titre des d\'e9penses effectu\'e9es en 2008}{\f36\insrsid1079980 
+\par La commune de Brocas transmettra les \'e9tats d\'e9claratifs permettant \'e0 la pr\'e9fecture de liquider le fonds de compensation pour la TVA d\'fb au titre des d\'e9penses effectu\'e9es en 2008 avant le 1}{\f36\super\insrsid1079980\charrsid16647007 er}{
+\f36\insrsid1079980  mai 2009\~; apr\'e8s v\'e9rification des services pr\'e9fectoraux, l\rquote attribution de FCTVA correspondante sera vers\'e9e avant le 30 juin 2009.
+\par 
+\par }{\f36\ul\insrsid1079980\charrsid3159223 Article 3}{\f36\insrsid1079980  \endash  }{\f36\ul\insrsid1079980\charrsid3159223 Versement du FCTVA d\'fb au titre des d\'e9penses effectu\'e9es en 2007}{\f36\insrsid1079980 
+\par La commune de Brocas transmettra les \'e9tats d\'e9claratifs permettant \'e0 la pr\'e9fecture de liquider le fonds de compensation pour la TVA d\'fb au titre des d\'e9penses effectu\'e9es en 2007 avant le 15 septembre 2009\~; apr\'e8s v\'e9
+rification des services pr\'e9fectoraux, l\rquote attribution de FCTVA correspondante sera vers\'e9e 
+\par avant le 1}{\f36\super\insrsid1079980\charrsid16647007 er}{\f36\insrsid1079980  d\'e9cembre 2009.
+\par 
+\par }{\f36\ul\insrsid10703336 
+\par 
+\par }{\f36\ul\insrsid1079980\charrsid3159223 Article 4}{\f36\insrsid1079980  \endash  }{\f36\ul\insrsid1079980\charrsid3159223 Contr\'f4le de la somme des investissements au 31 d\'e9cembre 2009}{\f36\insrsid1079980 
+\par Au cours du premier trimestre 2010, les services de l\rquote Etat v\'e9rifieront que le niveau des d\'e9penses effectu\'e9es en 2009 pour la commune de Brocas a \'e9t\'e9 sup\'e9rieur d\rquote au moins un euro \'e0 la moyenne de ses d\'e9penses d\rquote 
+\'e9quipement r\'e9elles constat\'e9es au cours des ann\'e9es 2004, 2005, 2006 et 2007. Un arr\'eat\'e9 pr\'e9fectoral constatera le respect ou le non respect des termes de la pr\'e9sente convention.
+\par 
+\par En cas de respect des termes de la pr\'e9sente convention, conform\'e9ment \'e0 l\rquote article L.1615-6 du Code G\'e9n\'e9ral des Collectivit\'e9s Territoriales, la commune de Brocas obtiendra un versement du FCTVA reposant de mani\'e8re p\'e9
+renne sur les investissements de l\rquote ann\'e9e pr\'e9c\'e9dente.
+\par 
+\par En cas de non respect des termes de la pr\'e9sente convention, conform\'e9ment \'e0 l\rquote article L. 1615-6 du Code G\'e9n\'e9ral des Collectivit\'e9s Territoriales, la commune de Brocas perdra \'e0 compter de 2010 l\rquote avantage de la r\'e9
+duction du d\'e9lai de versement du FCTVA et ne percevra donc en 2010 aucune attribution de FCTVA pour les d\'e9penses effectu\'e9es en 2009.
+\par }{\f36\insrsid12985692 
+\par }{\b\f36\ul\insrsid12985692\charrsid12985692 QUESTIONS DIVERSES}{\f36\insrsid12985692 \~:
+\par 
+\par {\listtext\pard\plain\f36\insrsid12985692 \hich\af36\dbch\af0\loch\f36 -\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid1769944 {\f36\insrsid12985692 
+Monsieur le Maire informe le Conseil Municipal qu\rquote il a rencontr\'e9 Melle Anne BOUILLERCE-MIRASSOU laquelle souhaiterait acqu\'e9rir une bande de terrain jouxtant sa maison et propri\'e9t\'e9 de la commune. Les deux parcelles en question cadastr
+\'e9es section B N\'b0 1506 et 1721 repr\'e9sentent environ 200 m2. Le Conseil Municipal donne un accord de principe \'e0 la vente et demande une qu\rquote une estimation soit faite par le service des domaines afin d\rquote ent\'e9riner la}{
+\f36\insrsid1769944  vente lors d\rquote une prochaine s\'e9ance.}{\f36\insrsid1079980 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1769944 {\f36\insrsid1769944 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1769944 {\f36\insrsid1769944 L\rquote ordre du jour \'e9tant \'e9puis\'e9, la s\'e9ance est lev\'e9e.
+\par Suivent les signatures.
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1769944 {\f36\insrsid1769944 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1769944 {\b\f1\ul\insrsid1769944\charrsid3956042 Michel FOURCADE}{\b\f1\insrsid1769944\charrsid3956042                    }{\b\f1\insrsid1769944 
+                                     }{\b\f1\ul\insrsid1769944\charrsid3956042 Jean-Luc BLANC-SIMON}{\b\f1\insrsid1769944\charrsid3956042 
+\par }{\f1\insrsid1769944 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid1769944\charrsid3956042 Ang\'e9line SOURIGUES}{\b\f1\insrsid1769944\charrsid3956042           }{\b\f1\ul\insrsid1769944\charrsid3956042 Serge DUPOUY}{\b\f1\insrsid1769944\charrsid3956042            }{
+\b\f1\ul\insrsid1769944\charrsid3956042 Jean FORNIER de LACHAUX}{\b\f1\insrsid1769944\charrsid3956042 
+\par 
+\par }{\f1\insrsid1769944 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid1769944\charrsid3956042 Jean-Pierre LASSALLE}{\b\f1\insrsid1769944\charrsid3956042       }{\b\f1\insrsid1769944    }{\b\f1\insrsid1769944\charrsid3956042   }{\b\f1\ul\insrsid1769944\charrsid1769944 Alain MARCHAL}{
+\b\f1\insrsid1769944\charrsid1769944                   }{\b\f1\ul\insrsid1769944\charrsid1769944 Gilles LAPORTE}{\b\f1\ul\insrsid1769944\charrsid3956042  }{\b\f1\insrsid1769944\charrsid3956042                   }{\b\f1\insrsid1769944 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f1\ul\insrsid1769944 
+\par 
+\par }{\b\f1\ul\insrsid1769944\charrsid3956042 Val\'e9rie GARDEILS}{\b\f1\insrsid1769944\charrsid3956042                   }{\b\f1\ul\insrsid1769944\charrsid1769944 Laurent MARTINEZ}{\b\f1\insrsid1769944\charrsid1769944                     }{
+\b\f1\ul\insrsid1769944\charrsid1769944 Nelly GILLET }{\b\f1\insrsid1769944\charrsid3956042                   
+\par }\pard \qj \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1769944 {\f36\insrsid1769944 
+\par 
+\par 
+\par }\pard \qj \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid1769944 {\f36\insrsid1769944 
+\par }}
