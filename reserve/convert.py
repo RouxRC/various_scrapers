@@ -30,11 +30,15 @@ for line in xml.split("\n"):
             #print "skip headers %s (%d/%d)" % (text, top, left)
             continue
         #print "DEBUG GO %s" % text.replace(' ', '').replace('€','')
-        if abs(lasttop - top) > 15:
+        if abs(lasttop - top) > 40:
             if record[6]:
                 for i in [0,1,2,5,6]:
                     record[i] = record[i].strip()
-                record[2] = record[2].capitalize().replace('&#34;', '"')
+                try:
+                    record[2] = record[2][0].upper()+record[2][1:].replace('&#34;', '"')
+                except Exception as e:
+                    print record
+                    exit(1)
                 results.append(record)
             record = ["", "", "", 0, 0, "", ""]
         if left < 200:
