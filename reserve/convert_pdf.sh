@@ -1,11 +1,14 @@
 #!/bin/bash
 
-pdftohtml -xml reserve-2012.pdf
+# Conversion du pdf en xml indiquant les positions du texte
+pdftohtml -xml reserve-2012.pdf # -> reserve-2012.xml
 
+# Extraction du contenu des tableaux par identification visuelle à tâtons des zones à extraire
 python convert.py reserve-2012.xml > reserve-2012.csv
 
-#Open refine -> reserve-2012.refined.csv
+# Nettoyage de colonnes par clustering dans Open refine -> reserve-2012.refined.csv
 
+# Ajout des urls NosDéputés/NosSénateurs et récup groupe parl
 ct=0
 mkdir -p cache
 rm -f reserve-2012-extra-infos.csv
@@ -35,5 +38,5 @@ cat reserve-2012.refined.csv | while read line; do
   ct=$(($ct + 1))
 done
 
-#complete headers and column "part prise en charge" dans openoffice
+# Ajout des headers manquants et de la colonne "part prise en charge" avec LibreOffice
 
