@@ -4,7 +4,7 @@
 pdftohtml -xml reserve-2012.pdf # -> reserve-2012.xml
 
 # Extraction du contenu des tableaux par identification visuelle à tâtons des zones à extraire
-python convert.py reserve-2012.xml > reserve-2012.csv
+python convert_xml.py reserve-2012.xml > reserve-2012.csv
 
 # Nettoyage de colonnes par clustering dans Open refine -> reserve-2012.refined.csv
 
