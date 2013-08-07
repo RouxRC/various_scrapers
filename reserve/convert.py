@@ -69,13 +69,12 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import numpy as np
 
-filename = "test"
 fig = plt.figure()
 ax = fig.add_subplot(111)
 ax.grid(True, fillstyle='left')
 plt.xticks(np.arange(-150, 1450, 50))
 ax.plot(leftvals, topvals, 'ro', marker=".")
-fig.savefig("%s.png" % filename)
+fig.savefig("positions-colonnes.png")
 fig.clf()
 plt.close(fig)
 
