@@ -9,11 +9,10 @@ with open(filepath, 'r') as xml_file:
 
 topvals = []
 leftvals = []
-y = []
 results = []
 record = ["", "", "", 0, 0, "", ""]
 lasttop = 0
-re_line = re.compile(r'<text top="(\d+)" left="(\d+)"[^>]*>(.*)</text>', re.I)
+re_line = re.compile(r'<text top="(\d+)" left="(\d+)"[^>]*>(.*)</text>')
 for line in xml.split("\n"):
     #print "DEBUG %s" % line
     if 'font="0"' in line or 'font="1"' in line or 'font="2"' in line:
@@ -27,9 +26,8 @@ for line in xml.split("\n"):
         leftvals.append(left)
         text = attrs.group(3)
         if "<b>" in line or "</b>" in line:
-            #print "skip headers %s (%d/%d)" % (text, top, left)
+            #print "DEBUG skip headers %s (%d/%d)" % (text, top, left)
             continue
-        #print "DEBUG GO %s" % text.replace(' ', '').replace('€','')
         if abs(lasttop - top) > 40:
             if record[6]:
                 for i in [0,1,2,5,6]:
@@ -37,7 +35,7 @@ for line in xml.split("\n"):
                 try:
                     record[2] = record[2][0].upper()+record[2][1:].replace('&#34;', '"')
                 except Exception as e:
-                    print record
+                    sys.stderr.write("ERROR : broken line detected, probably a vertical gap too thin : %s / %s" % (line, record))
                     exit(1)
                 results.append(record)
             record = ["", "", "", 0, 0, "", ""]
@@ -62,20 +60,21 @@ if record[6]:
 
 print '"Bénéficiaire","Département","Nature du projet","Coût du projet (€)","Subvention allouée (€)","Dossier transmis par","Nature de la réserve"'
 for i in results:
-    print ",".join([str(i[a]) if isinstance(i[a], int) else "\"%s\"" % i[a].replace('"', '""') for a,_ in enumerate(i)])
+    print ",".join([str(x) if isinstance(x, int) else "\"%s\"" % x.replace('"', '""') for a,x in enumerate(i)])
+
+#exit(0)
 
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import numpy as np
 
-filename = "test"
 fig = plt.figure()
 ax = fig.add_subplot(111)
 ax.grid(True, fillstyle='left')
 plt.xticks(np.arange(-150, 1450, 50))
 ax.plot(leftvals, topvals, 'ro', marker=".")
-fig.savefig("%s.png" % filename)
+fig.savefig("positions-colonnes.png")
 fig.clf()
 plt.close(fig)
 
