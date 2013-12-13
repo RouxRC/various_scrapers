@@ -14,7 +14,6 @@ if len(sys.argv) > 2:
 topvals = {}
 leftvals = {}
 maxtop = 0
-maxleft = 0
 results = []
 headers = ['nom', 'prénom', 'groupe', 'rattachement_parti']
 record = ["", "", "", ""]
@@ -38,8 +37,6 @@ for line in (xml).split("\n"):
         topvals[font] = []
     topvals[font].append(top)
     left = int(attrs.group(2))
-    if left > maxleft:
-        maxleft = left
     if not font in leftvals:
         leftvals[font] = []
     leftvals[font].append(left)
@@ -70,9 +67,10 @@ else:
         color = cm.jet(1.5*font/nf)
         ax.plot(leftvals[font], topvals[font], 'ro', color=color, marker=".")
         plt.figtext((font+1.)/(nf+1), 0.95, "font %d" % font, color=color)
-    plt.xticks(np.arange(0, maxleft + 50, 50))
+    maxleft = (maxtop + 50) * 8.5 / 12
+    plt.xticks(np.arange(0, maxleft, 50))
     plt.yticks(np.arange(0, maxtop + 50, 50))
-    plt.xlim(0, maxleft + 50)
+    plt.xlim(0, maxleft)
     plt.ylim(0, maxtop + 50)
     plt.gca().invert_yaxis()
     fig.savefig("map.png")
