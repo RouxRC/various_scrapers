@@ -11,6 +11,7 @@ drawMap = False
 if len(sys.argv) > 2:
     drawMap = True
 
+page = 0
 topvals = {}
 leftvals = {}
 maxtop = 0
@@ -21,6 +22,8 @@ re_line = re.compile(r'<page number|text top="(\d+)" left="(\d+)"[^>]*font="(\d+
 save = False
 for line in (xml).split("\n"):
     #print "DEBUG %s" % line
+    if line.startswith('<page'):
+        page += 1
     if not line.startswith('<text'):
         continue
     attrs = re_line.search(line)
@@ -31,8 +34,8 @@ for line in (xml).split("\n"):
     top = int(attrs.group(1))
     if top > maxtop:
         maxtop = top
-    #if top < 115 or top > 820:
-    #    continue
+    if (page == 1 and top < 110) or (page == 11 and top > 950):
+        continue
     if not font in topvals:
         topvals[font] = []
     topvals[font].append(top)
@@ -44,12 +47,28 @@ for line in (xml).split("\n"):
         continue
     text = attrs.group(4).replace("&amp;", "&")
     #print "DEBUG %s %s %s %s" % (font, left, top, text)
+    if left < 40:
+        record[0] = text
+    elif left < 240:
+        record[1] = text
+    elif left < 375:
+        if "<b>" in text:
+            a = text.split(' <b>')
+            record[2] = a[0].replace('app.', '')
+            record[3] = a[1]
+        else:
+            record[2] = text
+    else:
+        record[3] = text
+    if record[3]:
+        results.append(record)
+        record = ["", "", "", ""]
 
 if not drawMap:
     print ",".join(['"%s"' % h for h in headers])
     for i in results:
         for j in range(len(i)):
-            i[j] = i[j].strip()
+            i[j] = i[j].replace('<b>', '').replace('</b>', '').strip()
         print ",".join([str(i[a]) if isinstance(i[a], int) else "\"%s\"" % i[a].replace('"', '""') for a,_ in enumerate(i)])
 
 else:
