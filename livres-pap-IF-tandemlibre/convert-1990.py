@@ -11,8 +11,8 @@ drawMap = False
 if len(sys.argv) > 2:
     drawMap = True
 
-topvals = []
-leftvals = []
+topvals = {}
+leftvals = {}
 results = []
 type_map = {'a': 'Arts',
             'a-l': 'Arts;Lettres',
@@ -51,17 +51,21 @@ for line in (xml+('\n<text top="765" left="1" font="10">a</text>')).split("\n"):
     if not attrs or not attrs.groups():
         print "WARNING : line detected with good font but wrong format %s" % line
         continue
+    font = int(attrs.group(3))
     top = int(attrs.group(1))
     if top < 26 or top > 765:
         continue
-    topvals.append(top)
+    if not font in topvals:
+        topvals[font] = []
+    topvals[font].append(top)
     left = int(attrs.group(2))
     if oddpage:
         left += 21
-    leftvals.append(left)
+    if not font in leftvals:
+        leftvals[font] = []
+    leftvals[font].append(left)
     if drawMap:
         continue
-    font = int(attrs.group(3))
     text = attrs.group(4).replace("&amp;", "&")
     #print "DEBUG %s %s %s %s" % (font, left, top, text)
     if save or left < lastleft - 300:
@@ -142,13 +146,15 @@ else:
     matplotlib.use('Agg')
     import matplotlib.pyplot as plt
     import numpy as np
+    from matplotlib import cm
 
     filename = "1990-2005"
     fig = plt.figure()
     ax = fig.add_subplot(111)
     ax.grid(True, fillstyle='left')
     plt.xticks(np.arange(-150, 1450, 50))
-    ax.plot(leftvals, topvals, 'ro', marker=".")
+    for font in leftvals:
+        ax.plot(leftvals[font], topvals[font], 'ro', color=cm.jet(1.*font/len(leftvals)), marker=".")
     fig.savefig("%s.png" % filename)
     fig.clf()
     plt.close(fig)
