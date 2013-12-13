@@ -13,6 +13,8 @@ if len(sys.argv) > 2:
 
 topvals = {}
 leftvals = {}
+maxtop = 0
+maxleft = 0
 results = []
 headers = ['nom', 'prénom', 'groupe', 'rattachement_parti']
 record = ["", "", "", ""]
@@ -28,12 +30,16 @@ for line in (xml).split("\n"):
         continue
     font = int(attrs.group(3))
     top = int(attrs.group(1))
+    if top > maxtop:
+        maxtop = top
     #if top < 115 or top > 820:
     #    continue
     if not font in topvals:
         topvals[font] = []
     topvals[font].append(top)
     left = int(attrs.group(2))
+    if left > maxleft:
+        maxleft = left
     if not font in leftvals:
         leftvals[font] = []
     leftvals[font].append(left)
@@ -56,12 +62,19 @@ else:
     import numpy as np
     from matplotlib import cm
 
-    fig = plt.figure()
+    fig = plt.figure(figsize=(8.5, 12))
     ax = fig.add_subplot(111)
     ax.grid(True, fillstyle='left')
-    plt.xticks(np.arange(-150, 1450, 50))
+    nf = len(leftvals)
     for font in leftvals:
-        ax.plot(leftvals[font], topvals[font], 'ro', color=cm.jet(1.*font/len(leftvals)), marker=".")
+        color = cm.jet(1.5*font/nf)
+        ax.plot(leftvals[font], topvals[font], 'ro', color=color, marker=".")
+        plt.figtext((font+1.)/(nf+1), 0.95, "font %d" % font, color=color)
+    plt.xticks(np.arange(0, maxleft + 50, 50))
+    plt.yticks(np.arange(0, maxtop + 50, 50))
+    plt.xlim(0, maxleft + 50)
+    plt.ylim(0, maxtop + 50)
+    plt.gca().invert_yaxis()
     fig.savefig("map.png")
     fig.clf()
     plt.close(fig)
